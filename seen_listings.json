@@ -22,5 +22,19 @@
     "portal": "Milanuncios",
     "zona": "Astrabudua, Erandio",
     "first_seen": "2026-08-31"
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-611767800.htm",
+    "portal": "Milanuncios",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-03",
+    "nota": "Mismo inmueble que erandio-611727495.htm (re-listado por otra agencia: Inmohappy Leioa)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41395646",
+    "portal": "Trovimap",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-03",
+    "nota": "Probablemente el mismo inmueble que erandio-611727495.htm/erandio-611767800.htm (misma agencia Inmohappy Leioa, mismo precio 295.000e); datos de hab/banos contradictorios entre listado y ficha"
   }
 ]
