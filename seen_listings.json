@@ -43,5 +43,26 @@
     "zona": "San Ignacio (Ibarrekolanda), Bilbao",
     "first_seen": "2026-09-11",
     "nota": "Cumple criterios de precio/hab/banos/balcon/zona (285.000e, 89m2, 3 hab, 2 banos, duplex con 2 balcones), pero fecha de publicacion en la ficha es 28/07/2026 (mas de 6 semanas), no cumple el requisito de 24-48h. NO reportado como valido en ejecucion 2026-09-11; se registra solo para no re-evaluarlo en futuras ejecuciones."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-506874178.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio (Ibarrekolanda), Bilbao",
+    "first_seen": "2026-09-12",
+    "nota": "NO cumple criterios: piso SIN POSESION/OCUPADO, adquirido en subasta judicial, no se puede visitar ni hipotecar (\"producto para profesionales/inversores\"). Ademas no menciona balcon/terraza ni ascensor. Editado 'ayer' pero anuncio original de hace mas de 2 anos. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-609046859.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio (Ibarrekolanda), Bilbao",
+    "first_seen": "2026-09-12",
+    "nota": "Mismo inmueble/misma situacion que bilbao-506874178.htm (SIN POSESION/OCUPADO, subasta judicial, no visitable). No cumple 24-48h (publicado 07/08/2026, actualizado 10/09/2026) ni balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.lacasa.net/inmueble/LCBI44078",
+    "portal": "La Casa Agency (Estudio Sani 2020)",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-12",
+    "nota": "Precio anomalamente bajo (149.000e, 94m2, 4 hab, 2 banos) porque es venta de NUDA PROPIEDAD (sin usufructo), no una compraventa normal. No menciona balcon/terraza. Publicado 23/07/2026, no cumple 24-48h. Se registra para no re-evaluarlo."
   }
 ]
