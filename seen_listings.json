@@ -64,5 +64,12 @@
     "zona": "San Ignacio, Bilbao",
     "first_seen": "2026-09-12",
     "nota": "Precio anomalamente bajo (149.000e, 94m2, 4 hab, 2 banos) porque es venta de NUDA PROPIEDAD (sin usufructo), no una compraventa normal. No menciona balcon/terraza. Publicado 23/07/2026, no cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-585885722.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio (Ibarrekolanda), Bilbao",
+    "first_seen": "2026-09-13",
+    "nota": "Mismo inmueble/misma situacion que bilbao-506874178.htm y bilbao-609046859.htm (planta baja, 122m2, 5 hab, 2 banos, 283.975e): SIN POSESION, ejecucion hipotecaria/subasta judicial, sin acceso interior. Se republica periodicamente con IDs nuevos simulando ser reciente (aparecia como 'hace 16h'). No cumple: no es compraventa normal, no se confirma balcon/terraza. Se registra para no re-evaluarlo."
   }
 ]
