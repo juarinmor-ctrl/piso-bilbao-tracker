@@ -78,5 +78,19 @@
     "zona": "Erandio",
     "first_seen": "2026-09-14",
     "nota": "Cumple precio/hab/banos (290.000e, 100m2, 3 hab, 2 banos, con ascensor), pero balcon/terraza NO se menciona en el anuncio y la ultima modificacion de la ficha es del 16/05/2026 (no cumple el requisito de 24-48h). NO reportado como valido en ejecucion 2026-09-14; se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-605904107.htm",
+    "portal": "Milanuncios",
+    "zona": "Altzaga, Erandio",
+    "first_seen": "2026-09-15",
+    "nota": "NO cumple: piso en 'cesion de remate' de subasta judicial, 'POSIBLE OCUPACION DEL INMUEBLE, NO SE PUEDE VISITAR NI FINANCIAR'. Cumple precio/hab/banos (235.000e, 116m2, 3 hab, 2 banos) pero no es compraventa normal y no menciona balcon/terraza ni metro. Publicado 17/07/2026, editado 'ayer' (no cumple 24-48h real, fecha de publicacion original es antigua). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "habitaclia-ibarrekolanda-i31051000002324 / i52933000004606 (Pedro Astigarraga Kalea, Ibarrekolanda/Sarriko, Bilbao)",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-09-15",
+    "nota": "Candidato interesante NO confirmado como valido: duplex 81m2, 3 hab, '1 bano completo + aseo separado' (ambiguo si cuenta como 2 banos completos), con terraza, 2a planta, cerca de Plaza Sarriko/metro Sarriko. Aparece publicado dos veces con IDs distintos y precios distintos (279.000e y 259.000e, aparente rebaja de precio). NO se pudo obtener la URL directa de ficha individual (el sitio redirige siempre al listado generico de Bilbao al intentar acceder por ID via WebFetch) ni confirmar fecha de publicacion/actualizacion. Por tanto NO reportado como valido en ejecucion 2026-09-15 (falta fecha confirmada y URL directa verificable). Revisar manualmente en habitaclia.com/flats-ibarrekolanda-bilbao.htm si reaparece."
   }
 ]
