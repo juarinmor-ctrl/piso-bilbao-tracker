@@ -148,5 +148,47 @@
     "zona": "Romo, Getxo",
     "first_seen": "2026-09-16",
     "nota": "NO cumple 24-48h: 250.000e, 80m2, 3 hab, 1 bano, publicado hace 146 dias. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-603912649.htm",
+    "portal": "Milanuncios",
+    "zona": "Bilbao (Ibarrekolanda, sin barrio exacto)",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: 280.000e, 90m2, 3 hab, 1 bano, planta bajo, con ascensor, PERO no menciona balcon/terraza explicitamente y publicado originalmente 03/07/2026 (solo 'editado hoy a las 07:05', bump de renovacion, no cumple 24-48h real). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-601481376.htm",
+    "portal": "Milanuncios",
+    "zona": "Paz de Cruces, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple 24-48h real: 259.500e, 90m2, 3 hab, 2 banos, balcon cerrado amplio (cumple resto de criterios) pero publicado originalmente 19/06/2026, solo 'editado hoy a las 09:01' (bump de renovacion de agencia NORTEALDE, no anuncio nuevo). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-597357162.htm",
+    "portal": "Milanuncios",
+    "zona": "C. Castilla La Mancha, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple 24-48h real: 275.000e, 82m2, 3 hab, 1 bano, salon con salida a balcon (cumple resto) pero publicado originalmente 27/05/2026, solo 'editado hoy a las 07:35' (bump de renovacion de INMOBILIARIA IN-HOME). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i29688000000469.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro (Autonomia Kalea), Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple 24-48h: 208.000e, 70m2, 3 hab, 1 bano, balcon si, cerca de metro, pero 'Last modified 03/09/2026' (hace 13 dias). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i29688000000472.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro (Juan de Garay Kalea), Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple 24-48h: 284.000e, 79m2, 3 hab, 1 bano, balcon si, cerca de metro, pero 'Last modified 04/08/2026'. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i30633000010569.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: 299.000e, 85m2, 3 hab, 1 bano, cerca de metro, pero NO menciona balcon/terraza explicitamente y 'Last modified 08/09/2026' (8 dias, fuera de ventana 24-48h). Se registra para no re-evaluarlo."
   }
 ]
