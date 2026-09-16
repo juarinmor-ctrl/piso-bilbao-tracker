@@ -92,5 +92,61 @@
     "zona": "Ibarrekolanda/Sarriko, Bilbao",
     "first_seen": "2026-09-15",
     "nota": "Candidato interesante NO confirmado como valido: duplex 81m2, 3 hab, '1 bano completo + aseo separado' (ambiguo si cuenta como 2 banos completos), con terraza, 2a planta, cerca de Plaza Sarriko/metro Sarriko. Aparece publicado dos veces con IDs distintos y precios distintos (279.000e y 259.000e, aparente rebaja de precio). NO se pudo obtener la URL directa de ficha individual (el sitio redirige siempre al listado generico de Bilbao al intentar acceder por ID via WebFetch) ni confirmar fecha de publicacion/actualizacion. Por tanto NO reportado como valido en ejecucion 2026-09-15 (falta fecha confirmada y URL directa verificable). Revisar manualmente en habitaclia.com/flats-ibarrekolanda-bilbao.htm si reaparece."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-615132788.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-16",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-16. Duplex 249.000e, 89m2, 3 hab, 2 banos, 3a planta, ascensor, 2 balcones (uno por dormitorio), zona San Ignacio (junto a estacion de metro San Ignazio). Publicado y editado hoy 16/09/2026 a las 15:12. Anunciante: Inmobiliaria Apodaca."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615134701.htm",
+    "portal": "Milanuncios",
+    "zona": "La Florida, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-16. 299.000e, 80m2, 3 hab, 2 banos, 4a planta, ascensor a cota cero, salida a balcon, cerca de parada metro Ansio (barrio La Florida esta a unos 7-10 min andando de Ansio). Publicado y editado hoy 16/09/2026 a las 15:36. Anunciante: Habitak."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-609860368.htm",
+    "portal": "Milanuncios",
+    "zona": "Centro/Sarriko, Bilbao",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: mismo patron fraudulento que bilbao-585885722.htm/bilbao-609046859.htm/bilbao-506874178.htm (283.975e, 122m2, 5 hab, 2 banos, bajo, anunciante ROQUETA INVESTMENT). Explicitamente 'sin posesion. No es posible realizar visitas al interior'. Publicado originalmente 13/08/2026, republicado con ID nuevo y 'editado hoy' para simular actualidad. No menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-594877249.htm",
+    "portal": "Milanuncios",
+    "zona": "Zabalburu (cerca Miribilla), Bilbao",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: 226.000e, 91m2, 3 hab, SOLO 1 bano (minimo requerido es 1, cumple, pero) no menciona balcon/terraza; ademas piso alquilado actualmente ('inquilinos pueden continuar'). Publicado originalmente 12/05/2026, solo 'editado hoy' para simular actualidad (no cumple 24-48h real). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-542520513.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: 270.000e, 75m2, 3 hab, 1 bano, 'piso en exclusiva para inversores' (situacion especial no aclarada). Publicado hace mas de 1 ano, solo 'editado hoy' (no cumple 24-48h real). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615132318.htm",
+    "portal": "Milanuncios",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: 225.000e, 78m2, 3 hab, 1 bano, Asti Kalea. No menciona balcon/terraza ni metro. Publicado hoy 16/09/2026. Duplicado (misma propiedad, ref LCBI44726) tambien listado como barakaldo-615124140.htm por otra oficina de La Casa Agency. Se registra para no re-evaluarlo (falta balcon/terraza)."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615124140.htm",
+    "portal": "Milanuncios",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple: duplicado de barakaldo-615132318.htm (misma ref LCBI44726, Asti Kalea, 225.000e, 78m2, 3 hab, 1 bano). No menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-480538068.htm",
+    "portal": "Milanuncios",
+    "zona": "Romo, Getxo",
+    "first_seen": "2026-09-16",
+    "nota": "NO cumple 24-48h: 250.000e, 80m2, 3 hab, 1 bano, publicado hace 146 dias. Se registra para no re-evaluarlo."
   }
 ]
