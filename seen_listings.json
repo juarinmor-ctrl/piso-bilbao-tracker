@@ -190,5 +190,68 @@
     "zona": "Centro, Barakaldo",
     "first_seen": "2026-09-16",
     "nota": "NO cumple: 299.000e, 85m2, 3 hab, 1 bano, cerca de metro, pero NO menciona balcon/terraza explicitamente y 'Last modified 08/09/2026' (8 dias, fuera de ventana 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/terraza-ascensor-amueblado/190792857/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "Candidato interesante NO confirmado: 273.000e, 75m2, 3 hab, 1 bano, 2a planta exterior, ascensor si, DOS terrazas, marcado 'Nuevo/Ayer'. Cumple precio/hab/banos/terraza/actualidad. PERO no da direccion exacta (solo referencias a 'ciudad deportiva de San Bizente' y 'plaza de la iglesia'); el barrio comparte nombre con la estacion de metro Bagatza pero no se pudo verificar que el inmueble este a <10-15 min andando de ella. NO reportado como valido en ejecucion 2026-09-17 por no poder confirmar el criterio de metro. Revisar si reaparece con direccion mas clara."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-610054424.htm",
+    "portal": "Milanuncios",
+    "zona": "Altamira, Bilbao",
+    "first_seen": "2026-09-17",
+    "nota": "NO cumple 24-48h real: 239.990e, 3 hab, 1 bano, terraza confirmada, pero publicado originalmente 14/08/2026, solo 'editado ayer' (bump de renovacion). Ademas solo menciona parada de autobus, no de metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-612998128.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "NO cumple 24-48h real: 249.900e, 3 hab, balcon confirmado, pero publicado originalmente 03/09/2026 (~2 semanas), solo 'editado ayer'. Sin mencion de proximidad a metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i33116000000242.htm",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta/Deusto (Arturo Campion Kalea), Bilbao",
+    "first_seen": "2026-09-17",
+    "nota": "NO cumple: 280.000e, 90m2, 3 hab, 1 bano, ascensor si, pero SIN balcon/terraza mencionado. Ultima modificacion real 20/07/2026 (~2 meses). Anunciante VASCASA. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/474994-41282871",
+    "portal": "Trovimap",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "NO confirmado: 284.000e, 3 hab, 1 bano, balcon si, ascensor, construido 1959 (donpiso Barakaldo Centro). Muestra 'ultima actualizacion: 17 sept 2026' pero tambien '132 dias en el mercado' -> fecha de actualizacion parece refresco automatico del rastreador, no modificacion real del anunciante. Se registra para no re-evaluarlo salvo que cambie de forma verificable."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41030056",
+    "portal": "Trovimap",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "NO cumple 24-48h real: 259.000e, 90m2, 3 hab, 2 banos, con terraza, pero ultima actualizacion real 11/08/2026 (83 dias en mercado). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-san-vicente-de-77-m2-con-3-dormitorios-bano-y-2-balcones-ref-1001-239022/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "Candidato NO confirmado: 270.000e, 77m2, 3 hab, 1 bano, 2 balcones, zona San Vicente (coincide con nombre de parada de metro L2). La web de la agencia no muestra fecha de publicacion/actualizacion, por lo que no se puede confirmar el criterio de 24-48h. No reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-centro-de-82-m2-con-3-dormitorios-bano-y-balcon-ref-1009-238298/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "Candidato NO confirmado: 284.000e, 82m2, 3 hab, 1 bano, balcon, zona Centro Barakaldo. Sin fecha de publicacion/actualizacion visible en la web de la agencia. No reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.inmojavierbilbao.com/inmueble/piso-en-venta-en-barakaldo-centro-autonomia-de-70-m2-con-3-dormitorios-bano-y-balcon-ref-111-237626/",
+    "portal": "Inmobiliaria Javier Bilbao (local)",
+    "zona": "Centro-Autonomia, Barakaldo",
+    "first_seen": "2026-09-17",
+    "nota": "Candidato NO confirmado: 208.000e (rebajado), 70m2, 3 hab, 1 bano, balcon, semiexterior, zona Centro-Autonomia Barakaldo. Sin fecha de publicacion/actualizacion visible en la web de la agencia. No reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
   }
 ]
