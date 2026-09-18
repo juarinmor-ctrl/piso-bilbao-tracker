@@ -253,5 +253,152 @@
     "zona": "Centro-Autonomia, Barakaldo",
     "first_seen": "2026-09-17",
     "nota": "Candidato NO confirmado: 208.000e (rebajado), 70m2, 3 hab, 1 bano, balcon, semiexterior, zona Centro-Autonomia Barakaldo. Sin fecha de publicacion/actualizacion visible en la web de la agencia. No reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-bagatza_san_vicente48902-67552509146_100500/",
+    "portal": "pisos.com",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-18. 270.000e, 77m2, 3 hab, 1 bano, 2a planta, ascensor, balcon (salida a balcon en habitacion y salon). Publicado Y modificado 17/09/2026. Cerca del metro Bagatza (confirmado explicitamente en el anuncio)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-arteagabeitia_retuerto_kareaga48902-67508989848_100500/",
+    "portal": "pisos.com",
+    "zona": "La Florida (Arteagabeitia-Retuerto-Kareaga), Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-18. 299.000e, 80m2, 3 hab, 2 banos, 4a planta, ascensor adaptado a movilidad reducida, balcon confirmado en ficha. Publicado Y modificado 16/09/2026. Cerca del BEC y parada de metro Ansio (confirmado explicitamente en el anuncio)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-cruces-67536342176_102200/",
+    "portal": "pisos.com",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-18. 236.000e, 65m2, 3 hab (una interior), 1 bano, planta bajo, ascensor de cota 0 recien instalado, balcon Y terraza. Publicado 16/09, modificado 17/09/2026. 'Muy cerca del metro' (Gurutzeta/Cruces) segun el propio anuncio."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-bagatza_san_vicente48902-67530936403_102200/",
+    "portal": "pisos.com",
+    "zona": "Bagatza-San Vicente centro, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-18. 270.000e, 77m2, 3 hab, ascensor, 2 terrazas, a reformar. Publicado Y modificado 17/09/2026. Metro Bagatza cercano por proximidad de zona (mismo barrio que 67552509146_100500), no confirmado explicitamente en este anuncio en particular."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-bagatza_san_vicente48902-67594840884_100500/",
+    "portal": "pisos.com",
+    "zona": "San Vicente, Barakaldo (Calle San Vicente 40)",
+    "first_seen": "2026-09-18",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-18. 270.000e, 80m2, 3 hab, 1 bano, 2a planta, ascensor, balcon, requiere reforma completa (anomalia menor, no descalificante). Publicado Y modificado 17/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-lasesarre-67538106664_102200/",
+    "portal": "pisos.com",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato NO confirmado: 235.000e, 80m2 catastro, 3 hab (una interior), 1 bano, 2a planta, ascensor, terraza cerrada. Publicado 16/09, modificado 17/09/2026 (cumple 24-48h). PERO cercania a parada de Metro Bilbao no confirmada: el anuncio dice estar frente a la estacion de Barakaldo de RENFE Cercanias, no de Metro Bilbao L2. NO reportado como valido por no poder confirmar el criterio de metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-erandio_centro_urbano-57590127738_106500/",
+    "portal": "pisos.com",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-18",
+    "nota": "NO cumple 24-48h real: 245.000e, 93m2, 3 hab, 1 bano, 2a planta, ascensor, balcon (cumple resto de criterios). Publicado originalmente 16/09/2025 (hace un ano), solo 'modificado' hoy (bump de reactivacion tipico de piso bancario via Servihabitat, 'se aceptan ofertas a la baja'). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-leioa_artaza-64181144199_102200/",
+    "portal": "pisos.com",
+    "zona": "Artaza, Leioa",
+    "first_seen": "2026-09-18",
+    "nota": "NO cumple 24-48h real: 270.000e, 75m2, 3 hab, 1 bano, 2a planta, a reformar, balcon confirmado ('salida a un agradable balcon'). Publicado 14/05/2026 (hace 4 meses), solo modificado 17/09/2026 (bump). Ademas cercania a metro no confirmada (Artaza es la zona de Leioa mas alejada de las paradas). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-rontegui_pormetxeta48901-67579240893_106500/",
+    "portal": "pisos.com",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "NO cumple 24-48h real: 279.000e, 88m2 utiles, 3 hab, 1 bano, 2a planta, ascensor cota 0, balcon. Publicado 06/09/2026 (12 dias), solo modificado hoy (bump). Metro mas cercano probablemente Urbinaga, no confirmado. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-barakaldo_centro48901-65878089857_513213/",
+    "portal": "pisos.com",
+    "zona": "Centro (Juan de Garai), Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "NO cumple 24-48h real: 275.000e, 80m2, 3 hab, 1 bano, 5a planta, ascensor, balcon (cumple resto). Publicado 14/07/2026 (hace 2 meses), solo 'modificado' 17/09/2026 (bump). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i30520000000438.htm",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo que cumple precio/hab/banos/balcon/tipo (duplex Pedro Astigarraga Kalea, 249.000e, 89m2, 3 hab, 2 banos, 3a planta, ascensor, balcon/terraza), pero NO se pudo confirmar fecha de publicacion/actualizacion real (sitio JS sin fecha fiable en HTML estatico). NO reportado como valido por no poder confirmar 24-48h. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i51071000000079.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Ganekogorta Monte Kalea), Bilbao",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo que cumple precio/hab/banos/balcon/tipo (235.000e, 74m2, 3 hab, 1 bano, 2a planta, ascensor, balcon), pero fecha de publicacion/actualizacion no confirmable. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i52036000001214.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Jata Monte Kalea), Bilbao",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo que cumple precio/hab/banos/balcon/tipo (299.000e, 85m2, 3 hab, 1 bano, 4a planta, ascensor, balcon; justo en el limite de precio), pero fecha de publicacion/actualizacion no confirmable. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i29527000004354.htm",
+    "portal": "Habitaclia",
+    "zona": "Lamiako-Txopoeta, Leioa",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo que cumple precio/hab/banos/balcon/tipo (270.000e, 75m2, 3 hab, 1 bano, 2a planta, ascensor, balcon; agencia Inmobiliaria Salazar; junto a estacion de metro Lamiako), pero fecha de publicacion/actualizacion no confirmable. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i39776000001515.htm",
+    "portal": "Habitaclia (cross-publicado tambien en inmobiliariaquorum.com)",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo que cumple precio/hab/banos/terraza/tipo (220.000e, 70.74m2, 3 hab, 1 bano, 4a planta, SIN ascensor, terraza; cerca del Hospital de Cruces/metro Gurutzeta-Cruces), pero fecha de publicacion/actualizacion no confirmable. Mismo anuncio tambien en https://www.inmobiliariaquorum.com/property/precioso-piso-ubicado-cerca-de-cruces-con-3-habitaciones-y-terraza/ (misma unidad, no es hallazgo independiente). NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.ablainmo.com/inmueble-1346/venta/piso/centro/barakaldo/3-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo: 280.000e (bajado desde 290.000e), 95m2, 3 hab, 1 bano, planta 5a, ascensor, balcon, trastero incluido. Bajada de precio reciente pero fecha de publicacion/actualizacion no confirmable en la web de la agencia. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.ablainmo.com/inmueble-1390/venta/piso/cruces/barakaldo/3-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "La Paz-Cruces, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo: 236.000e, 65m2, 3 hab, 1 bano, ascensor a cota 0 nuevo, balcon Y terraza, 'muy cerca del metro'. Fecha de publicacion/actualizacion no confirmable. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://www.ablainmo.com/inmueble-1391/venta/piso/san-vicente/barakaldo/3-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-18",
+    "nota": "Candidato activo: 270.000e (bajado desde 273.000e), 77m2, 3 hab, 1 bano, planta 2a, ascensor, 2 terrazas, a reformar; junto a metro San Vicente. Fecha de publicacion/actualizacion no confirmable. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i31051000002324.htm",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-09-18",
+    "nota": "URL directa resuelta del candidato registrado el 2026-09-15 (entrada ambigua 'habitaclia-ibarrekolanda-i31051000002324 / i52933000004606'). Piso Pedro Astigarraga Kalea, 259.000e, 81m2, 3 hab, 2 banos, 2a planta, ascensor, balcon/terraza. Fecha real confirmada (updatedAt) = 2026-08-06, NO cumple 24-48h. Se registra con URL directa para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i52933000004606.htm",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-09-18",
+    "nota": "URL directa resuelta del candidato registrado el 2026-09-15 (misma entrada ambigua que i31051000002324.htm). Mismo edificio/calle, 279.000e, 81m2, 3 hab, 2 banos, 2a planta. Fecha real confirmada (updatedAt) = 2026-08-06, NO cumple 24-48h. Se registra con URL directa para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4273705/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio, Bilbao (Juan de Antxeta Kalea)",
+    "first_seen": "2026-09-18",
+    "nota": "NO disponible: 285.000e, 60m2, 3 hab, 1 bano, planta 6a. Cumple criterios nominalmente pero anuncio marcado 'RESERVADO' (no disponible actualmente). Se registra para no re-evaluarlo; podria liberarse si cae la reserva - revisar manualmente si vuelve a aparecer como disponible."
   }
 ]
