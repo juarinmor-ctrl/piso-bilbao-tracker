@@ -400,5 +400,173 @@
     "zona": "San Ignacio, Bilbao (Juan de Antxeta Kalea)",
     "first_seen": "2026-09-18",
     "nota": "NO disponible: 285.000e, 60m2, 3 hab, 1 bano, planta 6a. Cumple criterios nominalmente pero anuncio marcado 'RESERVADO' (no disponible actualmente). Se registra para no re-evaluarlo; podria liberarse si cae la reserva - revisar manualmente si vuelve a aparecer como disponible."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-centrico-de-95-m2-con-3-dormitorios-bano-trastero-y-2-balcones-ref-1000-239075/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Centro (Herriko Plaza), Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "VALIDO - reportado en ejecucion 2026-09-19. 269.000e, 95m2, 3 hab, 1 bano, 3a planta, 2 balcones, trastero. Ascensor pagado pero AUN NO instalado (instalacion 'inminente'). Actualizado 18/09/2026. Metro Barakaldo a ~4-5 min andando de Herriko Plaza (verificado externamente, no mencionado explicitamente en el anuncio). Certificado energetico G. Mismo inmueble tambien publicado en Fotocasa (190867843) y Milanuncios (barakaldo-615417134.htm)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/trastero-ascensor-amueblado/190867843/d",
+    "portal": "Fotocasa",
+    "zona": "Centro (Herriko Plaza), Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "VALIDO - mismo inmueble que ref Bengolea 1000-239075 (cross-posting), ver esa entrada para detalle completo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615417134.htm",
+    "portal": "Milanuncios",
+    "zona": "Centro (Herriko Plaza), Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "VALIDO - mismo inmueble que ref Bengolea 1000-239075 (cross-posting). Publicado y editado 18/09/2026 10:45, sin bump sospechoso."
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1355/",
+    "portal": "Chomon (inmobiliaria local, Leioa)",
+    "zona": "Leioa Centro (Iturribide Etxetaldea)",
+    "first_seen": "2026-09-19",
+    "nota": "Candidato interesante NO confirmado: 290.000e (+9.000e+IVA gestion no incluidos), 76.67m2, 3 hab, 1 bano, 2a planta, ascensor si, balcon si (sur/este), cerca Metro Lamiako (~5 min, verificado externamente, no explicito en anuncio). Sin fecha de publicacion/actualizacion visible en la ficha. NO reportado como valido. Se registra para no re-evaluarlo salvo verificacion manual de fecha."
+  },
+  {
+    "url": "https://english.habitaclia.com/i57258000000256.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Nafarroa Beherea Kalea)",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 106.705e, 67m2, 3 hab, 1 bano, venta de NUDA PROPIEDAD (usufructuario 66 anos conserva uso vitalicio), de ahi el precio anomalamente bajo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i30612000000567.htm",
+    "portal": "Habitaclia",
+    "zona": "La Paz/Cruces, Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple 24-48h real: 259.000e, 90m2, 3 hab, 2 banos, terraza confirmada, pero ultima modificacion 17/09/2026 (anteayer). No menciona metro explicitamente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i29184000003564.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 260.000e, 79m2, 3 hab, 1 bano, sin balcon/terraza mencionado. No cumple 24-48h (modificado 16/07/2026). Ademas 7.000e+IVA gastos de gestion no incluidos. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i60163000000116.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 219.000e, 93m2, 3 hab, 1 bano, sin balcon/terraza mencionado, ascensor no mencionado, descripcion pobre, certificado energetico G. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i28976000016608.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Jado Kalea)",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 235.000e, 116m2, 3 hab, 2 banos, piso OCUPADO/subasta judicial ('posible ocupacion, no se puede visitar ni financiar'), sin balcon/terraza mencionado. No cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i60163000000227.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Kintoena)",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 244.999e, 93m2, 3 hab, 1 bano, sin balcon/terraza mencionado, descripcion casi vacia. No cumple 24-48h (modificado 11/09/2026). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i51071000000241.htm",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 130.000e, 140m2 (70 vivienda+55 sotano), 3 hab, 2 banos, precio anomalamente bajo (uso mixto/reforma), balcon/terraza no confirmado, certificado G. No cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i39017000000428.htm",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 379.000e (por encima del maximo), 113m2, 4 hab, 1 bano, 2 terrazas. Ademas marcado 'Reservado' (no disponible). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i37660000000313.htm",
+    "portal": "Habitaclia",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 319.900e, por encima del maximo de 300.000e por poco margen. 102m2, 3 hab, 2 banos, terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i30010000001392.htm",
+    "portal": "Habitaclia",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 330.000e, por encima del maximo. 76m2, 3 hab, 1 bano, terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/ascensor-amueblado/190836826/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto/Ibarrekolanda, Bilbao",
+    "first_seen": "2026-09-19",
+    "nota": "NO es hallazgo nuevo: mismo inmueble (precio, m2, hab, banos, planta, balcones, calle Pedro Astigarraga) que el anuncio ya reportado VALIDO el 16/09/2026 via Milanuncios bilbao-615132788.htm (cross-posting). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-614062502.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto/Arangoiti, Bilbao",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple 24-48h real: 280.000e, 75m2, 3 hab, 1 bano, terraza si, pero publicado 10/09 editado 17/09 (bump). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-615437654.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 205.460e, 82m2, 3 hab, 1 bano, publicado/editado ayer, pero 'el activo se encuentra ocupado' (producto de inversion, no compraventa normal). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615446052.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 236.000e, 70m2, 3 hab, 1 bano, planta baja, ascensor si, publicado/editado ayer, pero NO menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-598945050.htm",
+    "portal": "Milanuncios",
+    "zona": "Bagatza, Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple 24-48h real: 259.995e, 3 hab, 1 bano, publicado 05/06/2026 (solo 'editado ayer', bump), no menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-40276759",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 199.000e, 76m2, 3 hab, 1 bano, balcon+terraza si, pero se vende CON INQUILINO (contrato en vigor desde enero 2024), no es compraventa vacante. Fecha de publicacion real no confirmable. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41133541",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO confirmado: 275.000e, 80m2, 3 hab, 1 bano, balcon+terraza si, construido 1959, pero solo 'ultima actualizacion' (patron de refresco automatico del portal, no fecha real de publicacion). No menciona metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/474994-41186350",
+    "portal": "Trovimap",
+    "zona": "Calle La Felicidad, Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 285.000e, 4 hab, 1 bano, m2 inconsistente entre fichas (75 vs 97), metro mencionado explicitamente, pero NO menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41524748",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 249.500e, 4 hab, 1 bano, publicado y actualizado 18/09/2026 (fecha ok), pero NO menciona balcon/terraza ni ascensor ni metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41014014",
+    "portal": "Trovimap",
+    "zona": "Altzaga, Erandio",
+    "first_seen": "2026-09-19",
+    "nota": "NO cumple: 255.000e, 88m2, 4 hab, 1 bano, sin balcon/terraza mencionado. Ultima actualizacion real 11/08/2026 (bump), no cumple 24-48h. Se registra para no re-evaluarlo."
   }
 ]
