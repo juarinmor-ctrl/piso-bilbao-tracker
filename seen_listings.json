@@ -568,5 +568,523 @@
     "zona": "Altzaga, Erandio",
     "first_seen": "2026-09-19",
     "nota": "NO cumple: 255.000e, 88m2, 4 hab, 1 bano, sin balcon/terraza mencionado. Ultima actualizacion real 11/08/2026 (bump), no cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-arteagabeitia_retuerto_kareaga48902-67552870165_100500/",
+    "portal": "pisos.com (tambien en Fotocasa id 190876175 y Milanuncios barakaldo-615550846.htm)",
+    "zona": "Arteagabeitia-Retuerto-Kareaga (Calle Gaudi), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO reportado como valido (degradado tras verificacion cruzada): 259.000e, 72m2, 3 hab, 1 bano, planta 11a, dos ascensores, DOS balcones. Publicado Y modificado 19/09/2026. pisos.com/Fotocasa estiman metro Ansio ~9 min via Moovit asumiendo zona 'Calle Arteagabeitia', pero el mismo inmueble localizado independientemente en Milanuncios (barakaldo-615550846.htm) da la direccion REAL como 'Estrada del Molino, 2', que esta en el municipio de Valle de Trapaga-Trapagaran (no Barakaldo), con la estacion mas cercana siendo RENFE Urioste (Cercanias, no Metro) a ~10 min y Metro Ansio probablemente a mas de 15 min. Direccion contradictoria entre portales para el mismo inmueble -> ANOMALIA, no reportado como valido. Se registra para no re-evaluarlo salvo que se confirme la direccion real y su distancia a metro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-terraza-ascensor-amueblado-television/190876175/d",
+    "portal": "Fotocasa (mismo inmueble que pisos.com 67552870165_100500)",
+    "zona": "Arteagabeitia-Retuerto-Kareaga (Calle Gaudi), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO reportado como valido - cross-posting del mismo inmueble que pisos.com 67552870165_100500 y Milanuncios barakaldo-615550846.htm; ver esa entrada para el motivo (direccion real probablemente en Trapagaran, no Barakaldo, y metro no confirmado)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-rontegui_pormetxeta48901-67574778904_105000/",
+    "portal": "pisos.com",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "Candidato NO confirmado (no reportado como valido): 289.000e, 76m2 construidos/70 utiles, 3 hab, 2 banos, planta 1a, ascensor a cota cero, balcon privado en dormitorio principal confirmado. Publicado Y modificado 19/09/2026 (La Casa Agency LCBI42273). Proximidad a metro NO explicita en el anuncio; solo estimacion externa (Moovit) basada en un punto de referencia del barrio ('Ambulatorio de Rontegi', 7 min de metro Barakaldo L2), no en la direccion exacta del piso. Siguiendo el criterio estricto aplicado en ejecuciones anteriores (solo se reportan como validos los que confirman metro explicitamente o con direccion exacta verificada), NO se reporta como valido hoy. Se registra para revisar si en el futuro se puede confirmar la direccion exacta."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-arteagabeitia_retuerto_kareaga48902-67593551230_106500/",
+    "portal": "pisos.com",
+    "zona": "Calle Florida (Arteagabeitia-Retuerto-Kareaga), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 295.000e, 81m2, 3 hab, 1 bano, planta 6a, ascensor a cota cero. Publicado Y modificado 19/09/2026 (fecha ok) y menciona 'a un paso de la estacion de metro', pero NO menciona balcon ni terraza en absoluto. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/cruces/190871124/d",
+    "portal": "Fotocasa",
+    "zona": "La Paz-Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 236.000e, 70m2, 3 hab, 1 bano, publicado hace 1 dia (ok ventana), 5 min andando del Hospital de Cruces, pero NO menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/trastero-ascensor-amueblado/190866269/d",
+    "portal": "Fotocasa",
+    "zona": "San Vicente (Garbia Kalea), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 239.000e, 69m2, 3 hab, 1 bano, planta 3a, publicado hace 1 dia (ok ventana), pero NO menciona balcon/terraza ni metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-trastero/190865376/d",
+    "portal": "Fotocasa",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 239.000e, 69m2, 3 hab, 1 bano, sin ascensor, publicado hace 1 dia (ok ventana), muy cerca de metro Bilbao (explicito) y Hospital Cruces, pero NO menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/510072-41016092",
+    "portal": "Trovimap",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple 24-48h real: 259.000e, 90-91m2, 3 hab, 2 banos, planta 4a, ascensor, terraza confirmada, junto Hospital de Cruces, construido 1972 (cumpliria el resto de criterios). Pero 90 dias en el mercado, solo 'actualizado' 19/09/2026 (bump). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-40943895",
+    "portal": "Trovimap",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple 24-48h real: 259.995e, 80-90m2, 3 hab, 1 bano, planta 4a, ascensor, metro/bus a 3 min, pero 102 dias en mercado (bump del 14/09). No se confirma balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41481380",
+    "portal": "Trovimap",
+    "zona": "Max Center, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 124.500e (precio anomalamente bajo, posible situacion especial no aclarada), 77m2, 3 hab, 1 bano, sin balcon/terraza confirmado, sin ascensor mencionado, 10 dias en mercado (no cumple 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/523124-40989259",
+    "portal": "Trovimap",
+    "zona": "Altzaga, Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple 24-48h real: 255.000e, 89m2, 4 hab, 1 bano, planta 5a, ascensor, construido 1964, a reformar, pero 95 dias en mercado (bump del 19/09). Sin balcon/terraza confirmado. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41481534",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 140.000e, 90m2, 3 hab, 1 bano, casa rustica de piedra a reformar (precio anomalo por estado), sin balcon/terraza confirmado, 10 dias en mercado (no cumple 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/532372-41193817",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: piso en CESION DE REMATE (subasta judicial), 219.870e, 116m2, 3 hab, 1 bano. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615550846.htm",
+    "portal": "Milanuncios",
+    "zona": "Arteagabeitia (direccion real: Estrada del Molino 2, Valle de Trapaga-Trapagaran)",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 259.000e, 70m2, 3 hab, 1 bano, planta 11a, 2 ascensores, 2 balcones. Publicado y actualizado ayer (fecha ok). PERO la direccion real es 'Estrada del Molino, 2', que pertenece al municipio de Valle de Trapaga-Trapagaran, NO a Barakaldo (fuera de las zonas permitidas), y la estacion mas cercana verificable es RENFE Urioste (Cercanias, no Metro, ~10 min); Metro Ansio esta probablemente a mas de 15 min. Mismo inmueble cross-posteado en pisos.com (67552870165_100500) y Fotocasa (190876175) bajo la zona 'Arteagabeitia-Retuerto-Kareaga, Barakaldo' con direccion mas vaga, lo que generaba una aparente validez que esta ficha desmiente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-528644471.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo (Calle Murrieta)",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 132.500e, sin numero de habitaciones especificado (probable estudio). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-603500027.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 308.000e (supera presupuesto), piso ocupado/con inquilino para inversores. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-612939362.htm",
+    "portal": "Milanuncios",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 399.000e, supera el maximo de 300.000e. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-603915225.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo (Ref 9773)",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple 24-48h real: 299.000e, 3 hab, 1 bano, terraza si, pero publicado originalmente 03/07/2026, solo 'actualizado ayer' (bump). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-604590293.htm",
+    "portal": "Milanuncios",
+    "zona": "Las Cruces, Barakaldo (Ref PB_4298)",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 149.000e, solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-615292884.htm",
+    "portal": "Milanuncios",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple 24-48h real: 270.000e, 3 hab, 1 bano, balcon si, cerca metro Bagatza, pero publicado 17/09/2026, solo actualizado ayer (bump, fuera de ventana 19-20/09). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-594164862.htm",
+    "portal": "Milanuncios",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 225.000e, 3 hab, 1 bano, cerca metro, pero publicado 07/05/2026 (bump), y no menciona balcon/terraza explicitamente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-597021170.htm",
+    "portal": "Milanuncios",
+    "zona": "Fueros, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 339.000e (supera presupuesto), solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-596162600.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 619.000e, supera ampliamente el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-585601709.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 540.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-602292406.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 482.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-612842520.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 548.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-549598451.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 635.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-615293478.htm",
+    "portal": "Milanuncios",
+    "zona": "Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: duplex 2 terrazas, 589.000e, supera ampliamente el maximo (mismo inmueble tambien como erandio-614843692.htm). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-587874153.htm",
+    "portal": "Milanuncios",
+    "zona": "Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 'INMUEBLE EN CESION DE REMATE SIN POSESION' (subasta judicial). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-610752423.htm",
+    "portal": "Milanuncios",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 239.900e, solo 2 habitaciones (mismo inmueble tambien como erandio-612592779.htm). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-546883500.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 399.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-596459739.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 380.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-575101633.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 220.000e dentro de presupuesto pero solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-480953886.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 850.000e, supera ampliamente el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-595857200.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 470.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-592665976.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 750.000e y solo 2 hab. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-614297475.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 540.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-606369955.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 430.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-540260852.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 850.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-497728471.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 1.250.000e, supera ampliamente el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-604768595.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 450.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-605342694.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 730.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-534388311.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 1.500.000e, supera ampliamente el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-589765426.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 360.000e (supera presupuesto) y solo 1 habitacion. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-582403596.htm",
+    "portal": "Milanuncios",
+    "zona": "Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 710.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-607128264.htm",
+    "portal": "Milanuncios",
+    "zona": "Sarriko, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 356.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-612806872.htm",
+    "portal": "Milanuncios",
+    "zona": "Sarriko, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 329.000e (supera presupuesto), solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-612999517.htm",
+    "portal": "Milanuncios",
+    "zona": "Sarriko, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 257.500e, solo 2 habitaciones, piso alquilado con inquilino ('ideal para inversores'). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-600972081.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 339.000e, supera el maximo (duplicado tambien como bilbao-606840644.htm). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-594736889.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 475.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-607622727.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 450.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-611425690.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 379.999e (supera presupuesto), solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-614957396.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 445.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-590113291.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 190.000e dentro de presupuesto pero solo 1 habitacion. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-614678332.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 930.000e, supera ampliamente el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-600799875.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 410.000e (supera presupuesto), solo 2 habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-604298839.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 645.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i29740000000921.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro (Herriko Plaza), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO es hallazgo nuevo: mismo inmueble (269.000e, 95m2, 3 hab, 1 bano, 3a planta, 2 balcones, trastero, ascensor pagado pero pendiente de instalar) ya reportado como VALIDO el 2026-09-19 via Bengolea (ref-1000-239075), Fotocasa (190867843) y Milanuncios (barakaldo-615417134.htm). Cross-posting, no se re-reporta. Actualizado en Habitaclia 19/09/2026 03:17h."
+  },
+  {
+    "url": "https://www.habitaclia.com/i30129000000927.htm",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "Probable cross-posting del inmueble ya reportado como VALIDO el 2026-09-18 via pisos.com (piso-bagatza_san_vicente48902-67552509146_100500): mismo precio (270.000e), misma superficie (77m2), mismas 3 hab/1 bano, misma planta 2a, ascensor si, balcon si, cerca de metro Bagatza (mencion explicita). Construido 1969. No se re-reporta como hallazgo nuevo. Actualizado en Habitaclia 19/09/2026 04:05h."
+  },
+  {
+    "url": "https://www.habitaclia.com/i37660000000315.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 240.000e, solo 1 habitacion. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i57591000000073.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 736.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i29749000001974.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 395.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i29184000003607.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 599.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i57144000001215.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto/Sarriko, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 269.000e dentro de presupuesto pero solo 1 habitacion. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i34751000001032.htm",
+    "portal": "Habitaclia",
+    "zona": "Deusto/Sarriko, Bilbao",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 269.000e dentro de presupuesto pero solo 1 habitacion. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i30773000000754.htm",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 455.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i30633000010578.htm",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 585.000e, supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i59793000000009.htm",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 236.000e, 3 hab, 1 bano, pero sin mencion explicita de balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i57559000000052.htm",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga (Calle Gaudi), Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 259.000e, 3 hab, 1 bano, planta 11a, 2 balcones, pero direccion exacta (Calle Gaudi) da una distancia real a la estacion de metro de Barakaldo de ~940m/~16 min andando, fuera del limite de 10-15 min. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i57144000001212.htm",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 239.000e, 3 hab, 1 bano, sin ascensor, solo 'exterior' pero sin mencion explicita de balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i45128000000751.htm",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: mismo piso que i57144000001212.htm (otra agencia), 239.000e, muy cerca de metro (explicito) pero sin balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/i60163000000042.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-20",
+    "nota": "NO cumple: 260.000e, 123m2, 3 hab, 2 banos, pero sin mencion de balcon/terraza ni ascensor. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmobiliaria-ankar.com/inmueble/piso-en-venta-en-erandio-proximo-ambulatorio-de-75-m2-con-3-dormitorios-bano-y-balcon-ref-1503-228854/",
+    "portal": "Inmobiliaria Ankar (local, Erandio)",
+    "zona": "Erandio (proximo ambulatorio)",
+    "first_seen": "2026-09-20",
+    "nota": "NO disponible: 190.000e, 75m2, 3 hab, 1 bano, balcon, cumpliria criterios de precio/hab/balcon pero figura como RESERVADO. Se registra para no re-evaluarlo; revisar si se libera."
+  },
+  {
+    "url": "https://www.inmobiliaria-ankar.com/inmueble/piso-en-venta-en-erandio-proximo-ambulatorio-de-79-m2-con-3-dormitorios-bano-y-balcon-ref-1502-228764/",
+    "portal": "Inmobiliaria Ankar (local, Erandio)",
+    "zona": "Erandio (proximo ambulatorio)",
+    "first_seen": "2026-09-20",
+    "nota": "NO disponible: 199.000e, 79m2, 3 hab, 1 bano, balcon, cumpliria criterios pero figura como RESERVADO. Se registra para no re-evaluarlo; revisar si se libera."
   }
 ]
