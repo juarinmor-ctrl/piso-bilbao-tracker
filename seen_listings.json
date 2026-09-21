@@ -1086,5 +1086,23 @@
     "zona": "Erandio (proximo ambulatorio)",
     "first_seen": "2026-09-20",
     "nota": "NO disponible: 199.000e, 79m2, 3 hab, 1 bano, balcon, cumpliria criterios pero figura como RESERVADO. Se registra para no re-evaluarlo; revisar si se libera."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/precioso-piso-ubicado-cerca-de-cruces-con-3-habitaciones-y-terraza/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/tres-habitaciones-con-terraza-en-el-centro-de-barakaldo/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/tres-habitaciones-totalmente-reformado/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Lutxana, Barakaldo",
+    "first_seen": "2026-09-21"
   }
 ]
