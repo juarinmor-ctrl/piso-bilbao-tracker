@@ -1104,5 +1104,17 @@
     "portal": "Inmobiliaria Quorum Barakaldo",
     "zona": "Lutxana, Barakaldo",
     "first_seen": "2026-09-21"
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-584923345.htm",
+    "portal": "Milanuncios",
+    "zona": "Lutxana, Barakaldo",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-604752592.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo (direccion exacta no indicada)",
+    "first_seen": "2026-09-22"
   }
 ]
