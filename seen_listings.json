@@ -1184,5 +1184,96 @@
     "zona": "Leioa",
     "first_seen": "2026-09-24",
     "nota": "NO disponible: 305.000e (supera el maximo por 5.000e), 83m2, 3 hab, 1 bano, trastero, marcado como RESERVADO. Balcon/terraza no confirmado. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/trastero-ascensor-amueblado/190920626/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 290.000e, 67m2, 3 hab, 1 bano, 2a planta, ascensor, amueblado, reformado, garaje y trastero. Publicado hace 12h (dentro de ventana 24-48h) pero NO menciona balcon/terraza explicitamente. Mismo inmueble que Milanuncios barakaldo-616321039.htm (misma agencia Terra Agencia Global). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-ascensor/190914137/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio - Elorrieta, Bilbao",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 365.000e, supera el maximo de 300.000e. 81m2, 3 hab, 1 bano, 7a planta, balcon (cerrado), parking, ascensor. Publicado hace 19h (dentro de ventana 24-48h) pero precio excesivo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/trastero-ascensor-amueblado/190146105/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio - Elorrieta (Arturo Campion Kalea 9), Bilbao",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 280.000e, 90m2, 3 hab, 1 bano, planta baja, ascensor, trastero, para reformar. NO menciona balcon/terraza. Publicado hace 82 dias, no cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/aire-acondicionado-calefaccion-ascensor/190921685/d",
+    "portal": "Fotocasa",
+    "zona": "Sarrikobaso, Getxo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 365.000e, supera el maximo. Duplex 100m2, 3 hab, 2 banos, 1a planta, terraza, ascensor. Publicado hace 10h (dentro de ventana 24-48h) pero precio excesivo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/kresaltzu-kalea-las-arenas/177075347/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple 24-48h: 199.000e, 85m2, 3 hab, 1 bano, 2a planta, terraza si, cerca metro Las Arenas (cumpliria resto de criterios) pero publicado hace mas de 3 meses. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-terraza-trastero-ascensor/190917913/d",
+    "portal": "Fotocasa",
+    "zona": "Centro Urbano - Hirigunea, Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 369.000e, supera el maximo. 73m2, 3 hab, 2 banos, 2a planta, terraza, ascensor, reformado. Publicado hace 15h (dentro de ventana 24-48h) pero precio excesivo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/txorierri-ondiz-udondo/190885660/d",
+    "portal": "Fotocasa",
+    "zona": "Txorierri-Ondiz-Udondo, Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 180.000e (VPO), 80m2, 3 hab, 2 banos, 4a planta, ascensor, terraza/balcon si, publicado hace 2 dias, PERO es una PERMUTA (intercambio por otra VPO adosada en Erandio Goikoa, 'solo se atienden propuestas de permuta serias'), no una compraventa normal. Metro no mencionado. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/lamiako-txopoeta/190316213/d",
+    "portal": "Fotocasa",
+    "zona": "Lamiako - Txopoeta, Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 165.000e, 62m2, 3 hab, 1 bano, 2a planta, a reformar, PERO vendido como inversion CON INQUILINOS actuales (contrato hasta octubre 2027), no vacante. Publicado hace 62 dias. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-terraza-trastero-ascensor/190910125/d",
+    "portal": "Fotocasa",
+    "zona": "Mezo Kalea, Erandio",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 559.000e, supera ampliamente el maximo. Duplex 103m2, 3 hab, 2 banos, 5a planta, 2 terrazas privadas, construido 2002. Publicado ayer. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/erandio/190737386/d",
+    "portal": "Fotocasa",
+    "zona": "Calle Kintoena 2, Erandio",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 244.999e, 93m2, 3 hab, 1 bano, 2a planta, NO menciona balcon/terraza. Publicado hace 12 dias, no cumple 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/erandio/190651032/d",
+    "portal": "Fotocasa",
+    "zona": "Trabudu, Erandio",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 215.000e, 68m2, SOLO 2 habitaciones (minimo requerido 3), terraza cerrada si. Publicado hace 20 dias. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/ascensor/190893915/d",
+    "portal": "Fotocasa",
+    "zona": "Espinosa Orive Doktorearen Kalea 9, Miribilla, Bilbao",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 445.000e, supera ampliamente el maximo. 135/106m2, 3 hab, 2 banos, 2a planta, balcon si, ascensor. Publicado hace 2 dias. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-terraza-ascensor/190727714/d",
+    "portal": "Fotocasa",
+    "zona": "Arangoiti, Deusto, Bilbao",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple 24-48h real: 280.000e, 75m2, 3 hab, 1 bano, 4a planta, ascensor, terraza si (cumpliria resto de criterios) pero publicado hace 13 dias. Probablemente mismo inmueble que Milanuncios bilbao-614062502.htm ya registrado. Se registra para no re-evaluarlo."
   }
 ]
