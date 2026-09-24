@@ -1128,5 +1128,61 @@
     "portal": "Milanuncios (mismo inmueble que Fotocasa 190907946)",
     "zona": "Cruces, Barakaldo",
     "first_seen": "2026-09-23"
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-sta-teresa-de-80-m2-con-3-dormitorios-y-bano-ref-1112-231097/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Sta. Teresa, Barakaldo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 265.000e (rebajado), 80m2, 3 hab, 1 bano, bajo con ascensor, cerca de metro, pero NO menciona balcon/terraza explicitamente. Ultima actualizacion 09/09/2026 (no cumple 24-48h real). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-centrico-rontegi-de-60-m2-con-3-dormitorios-y-bano-ref-1002-239108/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Centrico-Rontegi, Barakaldo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 196.000e, 60m2, 3 hab, 1 bano, cerca de metro, pero NO menciona balcon/terraza explicitamente. Actualizado 21/09/2026 (fuera de ventana 24-48h respecto a hoy 24/09). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1347/",
+    "portal": "Chomon (inmobiliaria local, Leioa)",
+    "zona": "Monte Ikea, Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "Candidato interesante NO confirmado: 290.000e, 82m2, 3 hab, 1 bano, 4a planta exterior, ascensor a cota cero, DOS balcones con vistas. Sin fecha de publicacion/actualizacion visible en la ficha. Proximidad a Metro (Lamiako es la mas cercana) no confirmada ni mencionada en el anuncio; zona Monte Ikea/IKEA Leioa podria estar a mas de 15 min andando. NO reportado como valido por doble incertidumbre (fecha y metro). Se registra para no re-evaluarlo salvo verificacion manual."
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1360/",
+    "portal": "Chomon (inmobiliaria local, Leioa)",
+    "zona": "Monte Ikea, Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 260.000e, 79.05m2, 3 hab, 1 bano, ascensor a cota cero, construido 1974, pero NO menciona balcon/terraza explicitamente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-616321527.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo (direccion exacta no indicada)",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 245.000e, 70m2, 3 hab, 1 bano, 3a planta, ascensor si, construido 1964, 2 terrazas privadas (cumpliria precio/hab/banos/terraza), publicado y actualizado AYER (23/09/2026, dentro de ventana 24-48h). PERO piso actualmente ALQUILADO/OCUPADO, anunciado explicitamente como 'ESPECIAL INVERSORES' (no es compraventa de vivienda libre para uso propio) y sin direccion exacta ni mencion de metro. Anunciante: Inmobiliaria Mi Piso. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-616321039.htm",
+    "portal": "Milanuncios",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 290.000e, 67m2, 3 hab, 1 bano, 2a planta, ascensor si, amueblado, reformado, garaje y trastero incluidos, cerca de Megapark y centro de Barakaldo, publicado y actualizado AYER (23/09/2026, dentro de ventana 24-48h), PERO NO menciona balcon/terraza explicitamente. Anunciante: Terra Agencia Global. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-getxo-de-76-m2-con-3-dormitorios-bano-trastero-y-balcon-ref-al2818-236058/",
+    "portal": "Inmobiliaria Galea (local, Getxo)",
+    "zona": "Getxo Centro",
+    "first_seen": "2026-09-24",
+    "nota": "NO cumple: 330.000e (supera el maximo por 30.000e), 76m2, 3 hab, 1 bano, trastero, balcon confirmado, 'ideal para inversores con rentabilidad desde el primer momento'. Fecha de publicacion no confirmada. Se registra para no re-evaluarlo salvo bajada de precio."
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-leioa-de-83-m2-con-3-dormitorios-bano-y-trastero-ref-le508-234811/",
+    "portal": "Inmobiliaria Galea (local, Leioa)",
+    "zona": "Leioa",
+    "first_seen": "2026-09-24",
+    "nota": "NO disponible: 305.000e (supera el maximo por 5.000e), 83m2, 3 hab, 1 bano, trastero, marcado como RESERVADO. Balcon/terraza no confirmado. Se registra para no re-evaluarlo."
   }
 ]
