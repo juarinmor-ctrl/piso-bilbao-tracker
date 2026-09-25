@@ -1275,5 +1275,19 @@
     "zona": "Arangoiti, Deusto, Bilbao",
     "first_seen": "2026-09-24",
     "nota": "NO cumple 24-48h real: 280.000e, 75m2, 3 hab, 1 bano, 4a planta, ascensor, terraza si (cumpliria resto de criterios) pero publicado hace 13 dias. Probablemente mismo inmueble que Milanuncios bilbao-614062502.htm ya registrado. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion/190930753/d",
+    "portal": "Fotocasa (La Casa Agency, ref LCBI44974)",
+    "zona": "San Vicente (Munibe Kalea), Barakaldo",
+    "first_seen": "2026-09-25",
+    "nota": "NO confirmado: 269.000e, 89m2 construidos/75m2 utiles, 3 hab, 1 bano, 4a planta SIN ascensor, balcon en salon si, reforma integral hace ~4 anos, 30 fotos, descripcion detallada. Publicado hace ~12h (dentro de ventana 24-48h). El anuncio solo dice metro y bus \"a pocos pasos\" sin nombrar parada; busqueda externa (Moovit/foro-ciudad) estima Bagatza a ~10 min andando y Barakaldo (L2) a ~22 min, pero no es una confirmacion explicita del propio anuncio ni de la direccion exacta verificada por el usuario. Siguiendo el criterio estricto aplicado en ejecuciones anteriores (ver ej. pisos.com Rontegui 2026-09-20), NO se reporta como valido hoy. Revisar si en el futuro el anuncio especifica la parada de metro."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/511104-39124604",
+    "portal": "Trovimap",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-25",
+    "nota": "NO cumple: 245.000e, 85m2, 3 hab, 1 bano, 2a planta, ascensor si, construido 1970, trastero incluido. Actualizado 24/09/2026 (dentro de ventana). El anuncio SI dice explicitamente \"a cinco minutos del metro a pie\" (cumpliria ese criterio), pero NO menciona balcon ni terraza en ningun punto (descripcion muy pobre, solo 2 frases, y solo 4 fotos) -> no se puede confirmar el criterio obligatorio de balcon/terraza. Se registra para no re-evaluarlo salvo que el anuncio se actualice con mas detalle/fotos."
   }
 ]
