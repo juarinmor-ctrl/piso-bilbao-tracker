@@ -1289,5 +1289,82 @@
     "zona": "Astrabudua, Erandio",
     "first_seen": "2026-09-25",
     "nota": "NO cumple: 245.000e, 85m2, 3 hab, 1 bano, 2a planta, ascensor si, construido 1970, trastero incluido. Actualizado 24/09/2026 (dentro de ventana). El anuncio SI dice explicitamente \"a cinco minutos del metro a pie\" (cumpliria ese criterio), pero NO menciona balcon ni terraza en ningun punto (descripcion muy pobre, solo 2 frases, y solo 4 fotos) -> no se puede confirmar el criterio obligatorio de balcon/terraza. Se registra para no re-evaluarlo salvo que el anuncio se actualice con mas detalle/fotos."
+  },
+  {
+    "url": "https://www.inmobagatza.com/inmueble/piso-en-venta-en-barakaldo-de-70-m2-con-3-dormitorios-bano-y-balcon-ref-443-239076/",
+    "portal": "Inmobiliaria Bagatza (local, nueva agencia detectada en ejecucion 2026-09-26)",
+    "zona": "Barakaldo (zona/direccion exacta no indicada)",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple 24-48h real: 275.000e, 70m2, 3 hab, 1 bano, balcon si, ascensor si, reforma integral, 15 fotos (cumpliria precio/hab/banos/balcon/tipo). Pero 'fecha de actualizacion' en la ficha es 18/09/2026 (8 dias antes de hoy, fuera de ventana). Ademas no menciona proximidad a metro ni planta ni direccion exacta. Se registra para no re-evaluarlo salvo actualizacion reciente verificada."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/a-dos-minutos-del-centro-para-entrar-a-vivir/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 265.000e, 77m2, 3 hab, 1 bano, Centro Barakaldo, ascensor si, trastero, cumple precio/hab/banos y menciona metro a ~2 min andando, PERO NO confirma balcon/terraza (solo 'exterior', ventanas PVC Climalit) y las fotos referencian rutas de julio 2026 (no parece anuncio nuevo). Se registra para no re-evaluarlo salvo que se confirme balcon/terraza y fecha reciente."
+  },
+  {
+    "url": "https://ablainmo.com/inmueble-1251/venta/piso/san-ignacio/bilbao/4-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-26",
+    "nota": "NO evaluable: ficha vacia/plantilla sin completar (precio 0e, 0m2, sin habitaciones/banos/fotos/referencia, mapa no funcional, certificado energetico 'en proceso'). Parece un borrador publicado por error. Se registra para no re-evaluarlo salvo que se complete con datos reales."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift-furnished/190928743/d",
+    "portal": "Fotocasa",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 271.742e, 73m2, 3 hab, 1 bano, 4a planta, ascensor 'proximo a instalar' (no confirmado como operativo), publicado ayer (dentro de ventana 24-48h), metro confirmado explicitamente a 3 min andando (5 paradas del centro de Bilbao). PERO NO menciona balcon/terraza en ningun punto de la descripcion (43 fotos, descripcion extensa). Se registra para no re-evaluarlo salvo que se anada mencion de balcon/terraza."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/lift/190942406/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 309.000e (supera el maximo), 68m2, SOLO 2 habitaciones, 2 banos, 2a planta, ascensor. Publicado hace 11h (dentro de ventana). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-terrace-lift/190928511/d",
+    "portal": "Fotocasa",
+    "zona": "Centro (Herriko Plaza), Barakaldo",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 370.000e, supera el maximo de 300.000e. 75m2, 3 hab, 2 banos, 6a planta, ascensor, terraza confirmada, reformado. Publicado dentro de ventana 24-48h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-terrace-lift-furnished/190931172/d",
+    "portal": "Fotocasa",
+    "zona": "Villamonte, Getxo (Algorta)",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 430.000e, supera ampliamente el maximo. 106m2, 3 hab, 2 banos, 4a planta, ascensor, balcon/terraza confirmado. Publicado ayer (dentro de ventana). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/box-room-lift/190942374/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 312.074e (supera el maximo por poco), 47m2, SOLO 1 habitacion, 3a planta, ascensor, obra nueva, balcon pequeno en cocina. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/heating-terrace-box-room-lift/190928338/d",
+    "portal": "Fotocasa",
+    "zona": "Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 369.000e, supera el maximo. 73m2, 3 hab, 1 bano, 2a planta, ascensor, terraza con tendedero confirmada. Publicado ayer (dentro de ventana). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift-furnished/190942847/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta (Calle Islas Canarias), Bilbao",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 310.000e (supera el maximo por poco), SOLO 1 habitacion, 1 bano, 5a planta, ascensor, amueblado. Publicado hace 11h (dentro de ventana). No menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift/190943019/d",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto - La Ribera, Bilbao",
+    "first_seen": "2026-09-26",
+    "nota": "NO cumple: 420.000e, supera ampliamente el maximo. 81m2, 3 hab, 2 banos, 4a planta, ascensor, construido 1980, trastero. Publicado hace 10h (dentro de ventana). Se registra para no re-evaluarlo."
   }
 ]
