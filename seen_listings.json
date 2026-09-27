@@ -1513,5 +1513,40 @@
     "zona": "San Vicente Kalea, Bagatza - San Vicente, Barakaldo",
     "first_seen": "2026-09-27",
     "nota": "NO cumple 24-48h: 270.000e, 80m2, 3 hab, 1 bano, 2 balcones privados, ascensor si, agencia Inmobiliaria Zubialde. Publicado 'hace 9 dias' (fuera de ventana 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-616234150.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 365.000e (supera el maximo de 300.000e), 81m2, 3 hab, 1 bano, balcon cerrado. Publicado hace 18-22h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-614259899.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 425.000e (supera ampliamente el maximo de 300.000e), 98m2, 3 hab, 2 banos, balcon. Publicado hace 18-22h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-616636293.htm",
+    "portal": "Milanuncios",
+    "zona": "Leioa",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 369.000e (supera el maximo de 300.000e por 69.000e), 73m2, 3 hab, 2 banos, terraza si. Publicado hace 20h. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://eretza.com/portfolio-item/larrea/",
+    "portal": "Eretza (sociedad municipal de vivienda de Barakaldo)",
+    "zona": "Larrea, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "Promocion VTA \"Ribera de Barakaldo\" (78 viviendas). A fecha 2026-09-27 solo quedan disponibles unidades tipo 04/D de 2 habitaciones (103,28m2, 4 unidades), no hay unidades de 3 habitaciones disponibles. Se registra para vigilancia periodica por si liberan unidades de 3 hab; no es un anuncio individual sino una promocion en curso."
+  },
+  {
+    "url": "https://grupoarrasate.com/promocion/serralta-eraikina/",
+    "portal": "Grupo Arrasate / Eretza (Barakaldo)",
+    "zona": "Parque Serralta (cerca metro Ansio), Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "Promocion Serralta Eraikina S.Coop, 135 VPO cerca de la parada de metro Ansio, todas con terraza. A fecha 2026-09-27, 131/135 ya adjudicadas; las 4 restantes son viviendas adaptadas para movilidad reducida (acceso restringido, no venta libre). No cumple criterios (no disponible para publico general). Se registra para vigilancia periodica."
   }
 ]
