@@ -1457,5 +1457,61 @@
     "zona": "Algorta, Getxo",
     "first_seen": "2026-09-26",
     "nota": "NO cumple: 305.000e, supera el maximo de 300.000e por 5.000e. 66m2, 3 hab, 1 bano. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/parking-trastero-ascensor-no-amueblado/190938213/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 290.000e, 61m2, 3 hab, 1 bano, 2a planta exterior, ascensor si, publicado 'ayer'. Descripcion NO menciona terraza ni balcon (solo 'lonja independiente' trasera, que es trastero, no terraza). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-545443334.htm",
+    "portal": "Milanuncios",
+    "zona": "Barrio Cuadros, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 149.000e, 58m2, 3 hab, 1 bano, anunciante BUVE INVEST (profesional). Explicitamente '(NO VISITABLE)', producto de inversion, sin direccion exacta ni fotos claras. Publicado hace mas de 1 ano, solo 'editado ayer a las 18:02' (bump, no anuncio nuevo). Precio anomalamente bajo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-608538462.htm",
+    "portal": "Milanuncios",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 245.000e, 70m2, 3 hab, 1 bano, 3a planta SIN ascensor, agencia Inmoverse. Solo menciona 'mirador' interior, no balcon/terraza explicito. Publicado 03/08/2026 (no cumple 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.donpiso.com/pisos-y-casas/305098_piso-en-venta-barakaldo",
+    "portal": "Donpiso",
+    "zona": "Bagatza (Juntas Generales), Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "Candidato interesante NO confirmado: 275.000e (rebajado de 284.000e), 79m2, 3 hab, 1 bano, Calle Juan de Garai 4, 5a planta, ascensor si, balcon si ('salida a un balcon'), edificio de 1957-58, cerca de metro Bagatza/San Vicente. PERO la ficha no muestra fecha de publicacion/actualizacion ('actualizando informacion'), por lo que NO se puede confirmar el requisito de 24-48h. NO reportado como valido. Nota: coincide en direccion (Juan de Garai) con habitaclia i29688000000472 (misma agencia probablemente re-listada). Se registra para no re-evaluarlo salvo que se confirme fecha reciente."
+  },
+  {
+    "url": "https://www.donpiso.com/pisos-y-casas/304507_piso-en-venta-barakaldo",
+    "portal": "Donpiso",
+    "zona": "Bagatza (Centro Salud) - La Felicidad, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple: 285.000e, 97m2, 4 hab, 1 bano, 3a planta, ascensor si. NO menciona balcon/terraza (solo patio abierto con jardin visible desde cocina). Sin fecha de publicacion visible. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.donpiso.com/pisos-y-casas/304578_piso-en-venta-barakaldo",
+    "portal": "Donpiso",
+    "zona": "San Vicente (Calle Autonomia), Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "Candidato NO confirmado: 208.000e, 68m2, 3 hab, 1 bano, 5a planta, balcon si ('salida desde la sala, orientado al sur'), edificio 1961. Sin fecha de publicacion visible ('actualizando informacion'). Parece ser el mismo inmueble que habitaclia i29688000000469 (misma calle Autonomia, mismo precio/tamano, ya registrado y descartado por antiguedad). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/i39776000001508.htm",
+    "portal": "Habitaclia",
+    "zona": "Centro (Plaza Bide-Onera / Los Fueros), Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple 24-48h: 208.000e, 68m2, 3 hab, 1 bano, terraza si ('salida a TERRAZA con vistas a la calle principal'), edificio de 1963, agencia Quorum Barakaldo-Etxebarri. 'Last modified 10/09/2026' (17 dias, fuera de ventana). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/terraza-ascensor-amueblado/190842270/d",
+    "portal": "Fotocasa",
+    "zona": "San Vicente Kalea, Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-09-27",
+    "nota": "NO cumple 24-48h: 270.000e, 80m2, 3 hab, 1 bano, 2 balcones privados, ascensor si, agencia Inmobiliaria Zubialde. Publicado 'hace 9 dias' (fuera de ventana 24-48h). Se registra para no re-evaluarlo."
   }
 ]
