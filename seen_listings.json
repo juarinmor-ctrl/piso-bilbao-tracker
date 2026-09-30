@@ -1744,5 +1744,397 @@
     "zona": "Ibarrekolanda (Avenida Zarandoa), Deusto, Bilbao",
     "first_seen": "2026-09-29",
     "nota": "NO cumple: 747.000e (supera ampliamente el maximo), 130m2, 3 hab, 3 banos, duplex construido 2020, garaje y trastero. Anunciado hace mas de 3 meses. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-597678581.htm",
+    "portal": "Milanuncios",
+    "zona": "Barakaldo (direccion no especificada)",
+    "first_seen": "2026-09-30",
+    "nota": "CASI CANDIDATO pero NO confirmable: 289.000e, 76m2 (70 utiles), 3 hab, 2 banos, 1a planta 'muy alta con ascensor a cota cero', ascensor si, balcon SI (habitacion principal), trastero 15m2, reformado, cert. energetico E, agencia La Casa Agency Cornella. Publicado 29/05/2026, actualizado ayer 29-09-2026 19:08 (cumple ventana de actualizacion). NO se puede confirmar distancia a metro porque el anuncio no da direccion/calle exacta ni referencias de ubicacion utilizables. Se registra para no reevaluarlo; si se localiza la direccion exacta en el futuro, revisar de nuevo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41577599",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 199.000e, 63m2, 3 hab, 1 bano, planta no especificada, ascensor si, construido 1974, agencia TodoPisos (ref MPYS-S260922). Actualizado hoy 30-09-2026 (4 dias en mercado, cumple ventana). Balcon/terraza NO se menciona en absoluto en el anuncio, por lo que no se puede confirmar ese criterio obligatorio. Se registra para no reevaluarlo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617414202.htm",
+    "portal": "Milanuncios",
+    "zona": "Bilbao centro",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 157.300e, 54m2, 1 hab (<3). Zona no confirmada como una de las objetivo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/basarrate-598609556.htm",
+    "portal": "Milanuncios",
+    "zona": "Basarrate, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 235.000e, 105m2, 6 hab. Zona (Basarrate) fuera de la lista objetivo."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617350242.htm",
+    "portal": "Milanuncios",
+    "zona": "Bilbao (c/Ondarroa)",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 419.000e (>300k), 106m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617344816.htm",
+    "portal": "Milanuncios",
+    "zona": "Bilbao (c/Ercilla)",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 920.000e (muy por encima de 300k), 175m2, 4 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617334456.htm",
+    "portal": "Milanuncios",
+    "zona": "Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 419.000e (>300k), 106m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617210148.htm",
+    "portal": "Milanuncios",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 510.000e (>300k), 118m2, 3 hab, terraza cerrada."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617213319.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 365.000e (>300k), 81m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-617114295.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 365.000e (>300k), 81m2, 3 hab. Posible duplicado del mismo inmueble que bilbao-617213319.htm."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-614267938.htm",
+    "portal": "Milanuncios",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 339.000e (>300k), 94m2, 4 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-601393823.htm",
+    "portal": "Milanuncios",
+    "zona": "Atxuri (cerca Miribilla), Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 90.000e, 45m2, 1 hab (<3). Zona limite con Miribilla."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-615951044.htm",
+    "portal": "Milanuncios",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 445.000e (>300k), 135m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-bilbao-vizcaya/bilbao-616103362.htm",
+    "portal": "Milanuncios",
+    "zona": "cerca Miribilla, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 240.000e, 69m2, 2 hab (<3)."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-617327580.htm",
+    "portal": "Milanuncios",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 239.000e, 69m2, 3 hab, 1 bano, sin ascensor. Balcon/terraza NO mencionado."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-617322902.htm",
+    "portal": "Milanuncios",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 570.000e (muy por encima de 300k), 110m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-barakaldo-vizcaya/barakaldo-617288961.htm",
+    "portal": "Milanuncios",
+    "zona": "Elkano, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 249.000e, 69m2, 3 hab, 2 banos, 7a planta. Balcon/terraza NO mencionado."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-617326515.htm",
+    "portal": "Milanuncios",
+    "zona": "Algorta/Bizkerre, Getxo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 465.000e (>300k), 94m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-getxo-vizcaya/getxo-493061391.htm",
+    "portal": "Milanuncios",
+    "zona": "Usategi, Getxo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 1.250.000e (muy por encima de 300k), 260m2, 5 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-598234694.htm",
+    "portal": "Milanuncios",
+    "zona": "Romo, Leioa",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 349.000e (>300k), 87m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-591193789.htm",
+    "portal": "Milanuncios",
+    "zona": "Artaza, Leioa",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 580.000e (>300k), 112m2, 3 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-leioa-vizcaya/leioa-567168833.htm",
+    "portal": "Milanuncios",
+    "zona": "Artaza, Leioa",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 595.000e (>300k), 158m2, 4 hab."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-617345326.htm",
+    "portal": "Milanuncios",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 229.900e, 69m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-617343295.htm",
+    "portal": "Milanuncios",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 234.900e, 65m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.milanuncios.com/venta-de-pisos-en-erandio-vizcaya/erandio-607721431.htm",
+    "portal": "Milanuncios",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 389.000e (>300k), 114m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-41437498",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 548.000e (>300k), 96m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-40407974",
+    "portal": "Trovimap",
+    "zona": "Errekaldeberri, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: zona (Errekaldeberri) fuera de la lista objetivo. 250.000e, 79m2, 3 hab, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-40407976",
+    "portal": "Trovimap",
+    "zona": "Indautxu, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (698.000e) y zona (Indautxu fuera de lista). 121m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-36162281",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 478.000e (>300k), 118m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-41021444",
+    "portal": "Trovimap",
+    "zona": "Basurto, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (795.000e) y zona (Basurto fuera de lista). 157m2, 4 hab, 3 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/513282-40373364",
+    "portal": "Trovimap",
+    "zona": "Indautxu, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (590.000e) y zona (Indautxu fuera de lista). 134m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41452239",
+    "portal": "Trovimap",
+    "zona": "Abando, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (549.000e) y zona (Abando fuera de lista). 121m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41507332",
+    "portal": "Trovimap",
+    "zona": "Abando, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (549.000e) y zona (Abando fuera de lista). 110m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41460877",
+    "portal": "Trovimap",
+    "zona": "Indautxu, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (398.000e) y zona (Indautxu fuera de lista). 88m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41524939",
+    "portal": "Trovimap",
+    "zona": "Iralabarri, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 2 hab (<3) y zona (Iralabarri fuera de lista). 260.000e, 67m2, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/500461-41495402",
+    "portal": "Trovimap",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 340.000e (>300k), 78m2, 3 hab, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41502976",
+    "portal": "Trovimap",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 340.000e (>300k), 78m2, 3 hab, 1 bano. Posible duplicado del mismo inmueble que trovimap 500461-41495402."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41579693",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 2 hab (<3) y precio (330.000e >300k). 106m2, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/346503-41580959",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 2 hab (<3) y precio (330.000e >300k). 106m2, 1 bano. Posible duplicado del mismo inmueble que trovimap 382244-41579693."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39471538",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 337.000e (>300k), 129m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41137413",
+    "portal": "Trovimap",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 149.000e, 67m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39450534",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 268.000e, 107m2, 2 hab (<3), 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-40918211",
+    "portal": "Trovimap",
+    "zona": "Bagatza, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 179.000e, 61m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/454054-36190200",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 155.445e, 53m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/474994-23201388",
+    "portal": "Trovimap",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 550.000e (>300k), 96m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41460139",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 330.000e (>300k), 76m2, 3 hab, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39491897",
+    "portal": "Trovimap",
+    "zona": "Getxo (Puente)",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 425.000e (>300k), 144m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-40883224",
+    "portal": "Trovimap",
+    "zona": "Romo, Leioa",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 282.000e, 76m2, 2 hab (<3), 1 bano."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-ascensor/190757695/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta (Deusto), Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 2 hab (<3) y antiguedad (publicado hace 15 dias, fuera de ventana 24-48h). 245.000e, 56m2, 1 bano, 4a planta con ascensor."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor/190621459/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (439.000e >300k) y antiguedad (hace 29 dias). 101m2, 3 hab, 2 banos, terraza si."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-trastero-ascensor/190733879/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 2 hab (<3) y antiguedad (hace 19 dias). 252.000e, 71m2, 1 bano. Terraza no confirmada."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/trastero-ascensor-amueblado/190369771/d",
+    "portal": "Fotocasa",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (319.900e >300k) y antiguedad (hace 61 dias). 102m2, 3 hab, 2 banos, terraza si."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-parking-terraza-trastero-ascensor/190943706/d",
+    "portal": "Fotocasa",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (680.000e, muy por encima de mercado) y antiguedad (hace 4 dias = ~96h, fuera de ventana 48h). 95m2, 3 hab, 2 banos, terraza si."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-ascensor/190734656/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: precio (449.000e >300k) y antiguedad (hace 19 dias). 107m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/uretamendi/190977072/d",
+    "portal": "Fotocasa",
+    "zona": "Uretamendi/Errekalde, Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: zona fuera de lista, 1 hab (<3), antiguedad (mas de 3 meses). ANOMALIA: precio muy bajo (157.300e) - es cesion de remate/subasta judicial, no venta normal."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/trastero-ascensor/190860362/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda (Sarriko), Bilbao",
+    "first_seen": "2026-09-30",
+    "nota": "NO cumple: 1 hab (<3) y antiguedad (hace 12 dias). 269.000e, 75m2, 1 bano, planta baja. Vivienda de regimen tasado (discapacidad), tipo loft."
   }
 ]
