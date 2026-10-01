@@ -2136,5 +2136,40 @@
     "zona": "Ibarrekolanda (Sarriko), Bilbao",
     "first_seen": "2026-09-30",
     "nota": "NO cumple: 1 hab (<3) y antiguedad (hace 12 dias). 269.000e, 75m2, 1 bano, planta baja. Vivienda de regimen tasado (discapacidad), tipo loft."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-terraza-ascensor/190985270/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla (Juan de Garay), Bilbao",
+    "first_seen": "2026-10-01",
+    "nota": "NO cumple: 260.000e, 77m2, 3 hab, 1 bano, terraza si, publicado hace 10h. Descartado por METRO: Miribilla esta a ~2-2.7km / 25-35 min andando de la estacion de metro mas cercana (San Mames / Bolueta), fuera del limite de 10-15 min."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/510072-41569450",
+    "portal": "Trovimap",
+    "zona": "Miribilla (Juan de Garay), Bilbao",
+    "first_seen": "2026-10-01",
+    "nota": "NO cumple: 256.499e (rebajado de 266.000e), 77m2, 3 hab, 1 bano, terraza si, actualizado 30/09/2026. Descartado por METRO (mismo edificio/calle que 190985270 de Fotocasa): Miribilla fuera del limite de 10-15 min andando a metro."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41578736",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-01",
+    "nota": "NO cumple: 266.000e, 76m2, 3 hab, 1 bano, terraza si, actualizado 30/09/2026 (5 dias en mercado). Descartado por METRO: Miribilla fuera del limite de 10-15 min andando a metro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/lift/190984751/d",
+    "portal": "Fotocasa",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-01",
+    "nota": "NO cumple: 219.900e, 60m2, 3 hab, 1 bano, planta 1a, ascensor si, publicado hace 10h. Balcon/terraza NO mencionado en el anuncio (semiexterior)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/528787-40264102",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-01",
+    "nota": "NO cumple: 215.000e, 110m2, listado inicial indica 3 hab pero ficha detallada indica 4 hab (inconsistente), 1 bano, terraza y balcon si mencionados. Actualizado hoy 01/10/2026 pero 220 dias en mercado (no es anuncio nuevo). Sin direccion exacta ni confirmacion de distancia a metro."
   }
 ]
