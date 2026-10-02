@@ -2171,5 +2171,61 @@
     "zona": "Barakaldo",
     "first_seen": "2026-10-01",
     "nota": "NO cumple: 215.000e, 110m2, listado inicial indica 3 hab pero ficha detallada indica 4 hab (inconsistente), 1 bano, terraza y balcon si mencionados. Actualizado hoy 01/10/2026 pero 220 dias en mercado (no es anuncio nuevo). Sin direccion exacta ni confirmacion de distancia a metro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-terraza-trastero-ascensor-piscina/186118231/d",
+    "portal": "Fotocasa",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 439.000e (supera maximo 300.000e), 88m2, solo 2 hab (minimo requerido 3), 1 bano, atico con terrazas. Promocion IbaiBerria Barakaldo, publicado hace mas de 3 meses. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-trastero-ascensor/190253847/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 745.000e (muy por encima del maximo 300.000e), 150m2, 3 hab, 3 banos, terrazas. Publicado hace 77 dias (no 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-terraza-trastero-ascensor-amueblado/190620017/d",
+    "portal": "Fotocasa",
+    "zona": "Centro Urbano - Hirigunea, Leioa",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 430.000e (supera maximo 300.000e), 92m2, 3 hab, 2 banos, balcon y terraza si. Publicado hace 31 dias (no 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-ascensor/190914136/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio - Elorrieta, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 365.000e (supera maximo 300.000e), 81m2, 3 hab, 1 bano, 7a planta, balcon actualmente cerrado. Publicado hace 8 dias (no 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/heating-parking/190054352/d",
+    "portal": "Fotocasa",
+    "zona": "Negurigane - Peruri (Artaza), Leioa",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 465.000e (supera maximo 300.000e), 127m2, 4 hab, 3 banos, 1a planta, terraza incorporada al salon. A unos 15 min andando de la estacion de metro Gobela (en el limite del criterio de distancia). Publicado hace mas de 3 meses (no 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/new-home/barakaldo/20567226/188805699",
+    "portal": "Fotocasa",
+    "zona": "Rontegui - Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: obra nueva 'IbaiBerria', 386.000e (supera maximo 300.000e), 59m2, solo 2 hab (minimo requerido 3), 2 banos, terraza si. Publicado hace mas de 3 meses. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/homes/area/plaza-usategi-getxo/l",
+    "portal": "Fotocasa",
+    "zona": "Centro - Puerto Viejo (Algorta), Getxo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: ID 190435082, 1.095.000e (muy por encima del maximo 300.000e), 161m2, 4 hab, 2 banos, terraza con vistas al mar. Publicado hace 54 dias. Se registra para no re-evaluarlo (URL es la pagina de zona que resuelve a este anuncio destacado)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/viviendas/bilbao/miribilla/l#id190110431",
+    "portal": "Fotocasa",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: ID 190110431, 249.000e, 66m2, planta baja, solo 2 hab (minimo requerido 3), 1 bano, VPO (vivienda de regimen tasado con requisitos de acceso), no menciona balcon/terraza. Publicado hace mas de 3 meses. Se registra para no re-evaluarlo."
   }
 ]
