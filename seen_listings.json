@@ -2297,5 +2297,215 @@
     "zona": "Santurtzi",
     "first_seen": "2026-10-02",
     "nota": "NO cumple: zona (Santurtzi) fuera de lista objetivo; ademas 370.000e supera presupuesto. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-san_ignazio_elorrieta48015-67500443812_106100/",
+    "portal": "pisos.com",
+    "zona": "San Ignazio-Elorrieta, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones (minimo 3). 263.000e, 52m2, 1 bano, 1a planta, con ascensor. Publicado 12/09/2026, modificado 28/09/2026 (fuera de ventana 24-48h de todos modos)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-doneperiaga_deustuibarra_san_pedro_la_ribera48014-48422609961_100500/",
+    "portal": "pisos.com",
+    "zona": "Deusto (Doneperiaga-Deustuibarra-San Pedro-La Ribera), Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple 24-48h: 235.000e, 70m2 (65 utiles), 3 hab, 1 bano, 6a planta, ascensor si. Publicado originalmente 09/10/2024, modificado 09/04/2026 (hace meses). No menciona balcon/terraza."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-zabala-67503742271_100500/",
+    "portal": "pisos.com",
+    "zona": "Zabala (titulo del anuncio dice 'Miribilla'), Distrito Ibaiondo, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "Candidato interesante pero NO cumple 24-48h: 256.499e, 76m2, 3 hab, 1 bano, 5a planta, TERRAZA si (amplia, con salida desde salon), adaptado a movilidad reducida, ascensor si. Publicado y modificado 23/09/2026 (hace 9 dias, fuera de ventana). Nota: el titulo del anuncio dice 'Piso en Miribilla' pero la zona administrativa registrada es Zabala (barrio colindante, no es estrictamente Miribilla)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-zabala48003-67510658180_101800/",
+    "portal": "pisos.com",
+    "zona": "Zabala, Distrito Ibaiondo, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple 24-48h (limite): 256.499e, 77m2, 3 hab, 1 bano, 5a planta, TERRAZA si. Publicado y modificado 29/09/2026 (~72-96h antes de hoy 02/10, fuera de la ventana estricta de 24-48h). Posible duplicado de la misma zona que piso-zabala-67503742271."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-barakaldo_centro48901-67509337273_102200/",
+    "portal": "pisos.com",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza mencionado (solo 'ascensor'). 249.000e, 69m2, 3 hab, 2 banos, 7a planta abuhardillada, ascensor a cota 0. Publicado 22/09/2026, modificado 30/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-barakaldo_centro48901-67571366708_102200/",
+    "portal": "pisos.com",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: duplicado exacto del mismo inmueble que barakaldo_centro48901-67509337273 (calle Elcano, 7o piso abuhardillado). Sin balcon/terraza. Publicado 29/09/2026, modificado 30/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-cruces-67547242717_100500/",
+    "portal": "pisos.com",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "VALIDO (con reservas) - reportado en ejecucion 2026-10-02. 209.000e, 70m2 construidos/68 utiles, 3 hab, 1 bano, 5a planta, SIN ascensor (no aparece en caracteristicas), balcon+terraza+jardin (los 3 marcados explicitamente), mas de 50 anos de antiguedad, buen estado. Publicado 11/09/2026, MODIFICADO 01/10/2026 (ayer, con descuento aplicado del 5% - parece ser una bajada de precio real, no solo un bump cosmetico). Ubicado junto al Hospital de Cruces, a pasos de la estacion de Metro Gurutzeta/Cruces (L2) segun la propia descripcion ('rodeado de... metro'); direccion exacta no revelada por el anunciante. ANOMALIA: la descripcion dice 'TOTALMENTE EXTERIOR' pero la ficha de caracteristicas marca 'Interior' (contradiccion de datos). Es un anuncio republicado/actualizado de una agencia, no uno creado desde cero hace 24-48h, pero la actualizacion con descuento de precio es de ayer."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-lutxana_llano48903-68335981668_102200/",
+    "portal": "pisos.com",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones. 205.000e, 67m2, 1 bano, 5a planta, ascensor si. Publicado y modificado 01/10/2026 (fresco pero no cumple dormitorios)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-astrabudua-68342157422_102200/",
+    "portal": "pisos.com",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones. 255.000e, 76m2, 1 bano, 1a planta, ascensor y terraza si. Publicado y modificado 01/10/2026 (fresco pero no cumple dormitorios)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-erandio_centro_urbano-67562589733_109800/",
+    "portal": "pisos.com",
+    "zona": "Erandio centro urbano",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones. 249.000e, 71m2, 1 bano, 7a planta, ascensor y adaptado a movilidad reducida. Publicado 28/09/2026, modificado 29/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-leioa_centro_urbano-66709475188_106100/",
+    "portal": "pisos.com",
+    "zona": "Leioa centro urbano (Las Arenas)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 1 habitacion. 250.000e, 50m2, 1 bano. Publicado 06/08/2026, modificado 25/08/2026 (ademas fuera de ventana 24-48h)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-getxo_algorta-67553309071_100500/",
+    "portal": "pisos.com",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones. 250.000e, 54m2, 2 banos, reformado. Publicado 25/09/2026, modificado 29/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-arteagabeitia_retuerto_kareaga48903-66761218402_109800/",
+    "portal": "pisos.com",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones (pese a tener balcon). 280.000e (precio tras descuento del 7%), 75m2, 2 banos, 1a planta, ascensor, garaje, trastero. Publicado 30/08/2026, modificado 01/10/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/atico-rontegui_pormetxeta48901-67566021192_101800/",
+    "portal": "pisos.com",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 1 habitacion (atico). 285.000e, 70m2, 1 bano, 6a planta, ascensor+garaje+terraza+trastero. Publicado y modificado 28/09/2026."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-lasesarre-65858703413_102200/",
+    "portal": "pisos.com",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza (solo garaje en caracteristicas). 215.000e (tras descuento 2%), 78m2, 3 hab, 1 bano, 2a planta. Publicado 03/07/2026, modificado 29/09/2026 (no es anuncio nuevo)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-cruces-67508987047_101800/",
+    "portal": "pisos.com",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza (solo trastero). 229.900e (tras descuento 4%), 69m2, 3 hab, 1 bano, 3a planta. Publicado y modificado 17/09/2026 (hace 2 semanas, no cumple 24-48h)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-bagatza_san_vicente48902-64213166901_525308/",
+    "portal": "pisos.com",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza (solo ascensor). 235.000e (tras descuento 2%), 62m2, 3 hab, 1 bano, 3a planta. Publicado 18/05/2026, modificado 08/09/2026 (antiguo)."
+  },
+  {
+    "url": "https://www.pisos.com/comprar/piso-rontegui_pormetxeta48902-67549207513_108900/",
+    "portal": "pisos.com",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple / ANOMALO: ficha sin caracteristicas listadas y superficie construida = 0 m2 (dato vacio/incompleto, posible anuncio mal cargado o placeholder). 249.500e, 3 hab, 2 banos segun resumen. Sin balcon/terraza confirmado. Publicado 29/09/2026, modificado 01/10/2026."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/autonomia-kalea/centro/barakaldo/8eec245b-7c72-4cea-8cfc-d7f65efb0416/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro (Autonomia Kalea), Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple 24-48h: mismo inmueble ya visto en ejecucion anterior bajo URL antigua i29688000000469.htm (208.000e, 70m2, 3 hab, 1 bano, balcon si, cerca de metro). Nueva URL (rediseno del sitio, formato UUID) pero mismos datos exactos. updatedAt interno = 2026-09-03 (hace 4 semanas). No es un anuncio nuevo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/juan-de-garay-kalea/centro/barakaldo/64ff8c6a-6111-49f8-9072-d548cdf689f8/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro (Juan de Garay Kalea), Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "VALIDO CON RESERVAS - reportado en ejecucion 2026-10-02. 275.000e (bajado 9.000e desde 284.000e), 79m2, 3 hab, 1 bano, 5a planta, ASCENSOR si, BALCON si (varias menciones, segundo dormitorio con salida a balcon), cerca de transporte publico (feature NEARBY_PUBLIC_TRANSPORT activo; descripcion dice 'a escasos metros de la estacion del metro'). Direccion exacta oculta por el anunciante. updatedAt interno = 2026-09-30T12:08 (justo en el limite de 48h antes de hoy 02/10). Es el MISMO inmueble evaluado en ejecucion 2026-09-16 bajo URL antigua i29688000000472.htm (entonces 284.000e, descartado por antiguedad). La bajada de precio de 9.000e registrada hace ~48h es un cambio real, no solo un bump cosmetico, pero no es un anuncio nuevo desde cero. CAVEAT: habitaclia ya no muestra fecha de publicacion/actualizacion visible en la pagina renderizada (solo se pudo extraer el campo updatedAt interno via inspeccion del HTML crudo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/grupo-la-paz/cruces/barakaldo/6620335f-005c-4382-88c2-664129d8a2d1/d",
+    "portal": "habitaclia.com",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza confirmado (solo 'Lift' en resumen de caracteristicas). 259.000e, 90m2, 3 hab, 2 banos, 4a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/1db5de04-6c3d-4048-9def-f3369fa3c3a4/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza confirmado (solo 'Lift'). 265.000e, 77m2, 3 hab, 1 bano, 4a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/522d372f-9119-4371-884f-4e5eafad7519/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza confirmado (solo 'Lift'). 299.000e, 85m2, 3 hab, 1 bano, 3a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/erandio/7eab7006-7dfc-4ec6-a206-829940b219a9/d",
+    "portal": "habitaclia.com",
+    "zona": "Erandio (Plaza Santi Brouard 2)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza confirmado. 290.000e, 100m2, 3 hab, 2 banos, con ascensor."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/erandio/1e26f38c-7165-4fc7-845a-0d6f81cf7253/d",
+    "portal": "habitaclia.com",
+    "zona": "Erandio (Kintone Kalea)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza confirmado. 245.000e, 93m2, 3 hab, 1 bano, con ascensor."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/erandio/917ac0df-17bd-4f6f-8dba-ecb8c5a60447/d",
+    "portal": "habitaclia.com",
+    "zona": "Erandio (Kintone, 2o piso)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: CONFIRMADO sin balcon/terraza y sin transporte publico cercano (features explicitas 'hasNot': sin BALCONY, sin NEARBY_PUBLIC_TRANSPORT). 219.000e, 85m2, 3 hab, 1 bano, 2a planta, ascensor+trastero. updatedAt = 01/10/2026 (fresco) pero falla balcon y metro."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41571096",
+    "portal": "trovimap.com",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza mencionado en la descripcion (solo ascensor y toma de gas; incluye lonja independiente). 290.000e, 61m2, 3 hab, 1 bano, 2a planta exterior. ListingDate 24/09/2026, UpdatedAt 01/10/2026 (fresco) pero sin balcon confirmado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/523124-38021491",
+    "portal": "trovimap.com",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: sin balcon/terraza en la descripcion. 199.000e, 63m2, 3 hab, 1 bano. ListingDate original 09/12/2024 (hace casi 2 anos), solo UpdatedAt 01/10/2026 (bump, no anuncio nuevo)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41578787",
+    "portal": "trovimap.com",
+    "zona": "Santa Maria de Getxo (Andra Mari), Getxo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: es un BUNGALOW (tipo vivienda unifamiliar/casa, no piso/apartamento - excluido por tipo de vivienda), ademas zona Andra Mari/Sta Maria de Getxo no es una de las zonas objetivo y 249m2 es atipicamente grande para 'piso'. 270.000e, 3 hab, 2 banos. UpdatedAt 26/09/2026 (hace 6 dias, tampoco cumple 24-48h)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/492883-41604277",
+    "portal": "trovimap.com",
+    "zona": "Casco Viejo, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Casco Viejo) no es ninguna de las zonas objetivo (Sarriko/San Ignacio/Deusto/Miribilla). 185.000e, 66m2, 3 hab, 1 bano. Marcado como 'nuevo' por trovimap."
   }
 ]
