@@ -2227,5 +2227,75 @@
     "zona": "Miribilla, Bilbao",
     "first_seen": "2026-10-02",
     "nota": "NO cumple: ID 190110431, 249.000e, 66m2, planta baja, solo 2 hab (minimo requerido 3), 1 bano, VPO (vivienda de regimen tasado con requisitos de acceso), no menciona balcon/terraza. Publicado hace mas de 3 meses. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/bdo-00012/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Lasesarre, Barakaldo (Calle Ibarra Kalea)",
+    "first_seen": "2026-10-02",
+    "nota": "Candidato interesante NO confirmado: 249.990e, 85m2, 3 hab, 1 bano, 5a planta, ascensor si, balcon si (uno en dormitorio, otro en cocina-tendedero), construido 1975. La ficha solo menciona 'a pocos minutos de la estacion de tren' (RENFE), no confirma explicitamente Metro Bilbao; busqueda externa indica Metro Barakaldo/Bagatza a ~10 min andando desde la zona de Lasesarre (limite del criterio 10-15 min). Sin fecha de publicacion/actualizacion visible en la web de la agencia. NO reportado como valido en ejecucion 2026-10-02 por falta de fecha confirmada y mencion explicita de metro. Se registra para no re-evaluarlo salvo verificacion manual."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4282113/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio, Bilbao (Ricardo Gutierrez Abascal)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 485.000e, supera ampliamente el maximo de 300.000e. 110m2, 3 hab, 2 banos, 4a planta. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4274099/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio, Bilbao (Juan de Antxeta Kalea)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones (<3). 269.000e, 57m2, 1 bano. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://inmobiliariaquorum.com/property/piso-exterior-y-luminoso-de-3-dormitorios-con-balcon-en-zona-centro/",
+    "portal": "Inmobiliaria Quorum (local)",
+    "zona": "Arrigorriaga",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Arrigorriaga) fuera de la lista de municipios objetivo. 169.000e, 67.68m2, 3 hab, 1 bano, balcon si. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/por-015/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Santurtzi (Calle Pedro Icaza)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Santurtzi) fuera de la lista de municipios objetivo. 224.900e, 71m2, 3 hab, 1 bano. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1364/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Derio (San Esteban)",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Derio) fuera de lista objetivo y precio (450.000e) supera el maximo. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.ablainmo.com/inmueble-1397/venta/piso/llano/barakaldo/2-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "Llano, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: solo 2 habitaciones (<3). 205.000e. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.ablainmo.com/inmueble-1342/venta/piso/txurdinaga/bilbao/3-habitaciones",
+    "portal": "Abla Inmobiliaria (local)",
+    "zona": "Txurdinaga, Bilbao",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Txurdinaga) fuera de la lista objetivo (no es Sarriko/San Ignacio/Deusto/Miribilla). 345.000e, ademas supera presupuesto. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmojavierbilbao.com/inmueble/atico-en-venta-en-barakaldo-urban-galindo-de-101-m2-con-3-dormitorios-2-banos-y-trastero-ref-119-235470/",
+    "portal": "Inmobiliaria Javier Bilbao (local)",
+    "zona": "Urban Galindo, Barakaldo",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: 790.000e, supera ampliamente el maximo de 300.000e. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.inmojavierbilbao.com/inmueble/piso-en-venta-en-santurtzi-de-110-m2-con-3-dormitorios-2-banos-plaza-de-garaje-y-balcon-ref-101-235882/",
+    "portal": "Inmobiliaria Javier Bilbao (local)",
+    "zona": "Santurtzi",
+    "first_seen": "2026-10-02",
+    "nota": "NO cumple: zona (Santurtzi) fuera de lista objetivo; ademas 370.000e supera presupuesto. Se registra para no re-evaluarlo."
   }
 ]
