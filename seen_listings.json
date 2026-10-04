@@ -2528,5 +2528,54 @@
     "zona": "Arteagabeitia-Zuazo (Economia Kalea 5), Barakaldo",
     "first_seen": "2026-10-03",
     "nota": "VALIDO (con reservas) en ejecucion 2026-10-03: 229.900e (+7.000e+IVA gestion no incluidos), 76m2, 3 hab, 1 bano, planta no especificada, ascensor NO mencionado, balcon SI (orientacion norte/este). Metro: la ficha dice '2 min de la estacion de metro Juzgados', pero 'Juzgados' NO es una estacion real de Metro Bilbao (probable confusion con el edificio de juzgados cercano); la estacion real mas proxima es Ansio (L2), distancia real sin confirmar - ANOMALIA/revisar antes de contactar. RESERVA adicional: la ficha NO indica fecha de publicacion/actualizacion, no se puede confirmar que sea de las ultimas 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-jardin-terraza-amueblado/190738399/d",
+    "portal": "Fotocasa",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Mismo inmueble ya conocido: 209.000e, 70m2, 3 hab, 1 bano, 5a planta, SIN ascensor, terraza amplia, junto al Hospital de Cruces (Metro Gurutzeta/Cruces L2 segun descripcion). Coincide en precio/m2/habitaciones/planta con pisos.com/piso-cruces-67547242717 (reportado VALIDO con reservas el 2026-10-02). No se re-reporta como hallazgo nuevo. Fecha de publicacion no confirmada en esta ficha de Fotocasa."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-trastero-ascensor/186353996/d",
+    "portal": "Fotocasa",
+    "zona": "Lamiako-Txopoeta, Leioa",
+    "first_seen": "2026-10-04",
+    "nota": "Mismo inmueble ya conocido: 270.000e, 75m2, 3 hab, 1 bano, 2a planta, ascensor si, balcon si, agencia Inmobiliaria Salazar, junto a Metro Lamiako. Coincide exactamente con habitaclia i29527000004354.htm (registrado desde 2026-09-18, nunca confirmado por fecha de publicacion). No se re-reporta como hallazgo nuevo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/a3bd9a5e-5977-42a7-94ff-1ddbc68ce015/d",
+    "portal": "habitaclia.com",
+    "zona": "Lasesarre (Ramon y Cajal), Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Cross-posting del mismo inmueble (agencia La Casa Agency Punto Sant Ildefons, ref LCBI44760-1) ya reportado como VALIDO en ejecucion 2026-10-03 via fotocasa/190998142 (y visto antes via milanuncios/barakaldo-617065575 el 2026-09-29): 245.000e, 84m2, 3 hab, 1 bano, 1a planta, sin ascensor, 2 balcones. No se re-reporta como hallazgo nuevo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/254e75d9-1e33-4459-9bd2-0c29ae812e14/d",
+    "portal": "habitaclia.com",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Cross-posting del mismo inmueble (Inmobiliaria Chomon, ref BDO-00012) ya visto via chomon.net/inmueble/bdo-00012/ el 2026-10-02: 249.990e, 85m2, 3 hab, 1 bano, 5a planta, ascensor si, ano 1975, balcon si. No se re-reporta como hallazgo nuevo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/san-vicente-kalea/bagatza-san-vicente/barakaldo/e682a411-00e5-4ba3-a9ca-850fc8499f03/d",
+    "portal": "habitaclia.com",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Probable cross-posting de un inmueble ya conocido (270.000e, ~76-77m2, 2a planta, ascensor si, a reformar, 2 balcones/terrazas), muy similar a pisos.com/piso-bagatza_san_vicente48902-67530936403_102200 (VALIDO reportado 2026-09-18: 270.000e, 77m2, a reformar, 2 terrazas) o a su gemelo 67552509146_100500. Agencia en esta ficha: Inmobiliaria Miranda 2005 SL ref 5037 (no confirmado si coincide con la agencia de pisos.com). No se re-reporta como hallazgo nuevo por la alta similitud de specs, con la reserva de que pudiera ser un inmueble distinto en el mismo edificio/zona."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/autonomia-kalea/centro/barakaldo/a208ddae-62c9-49bb-baf0-1b3ec6a3efd1/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro (Autonomia Kalea), Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Mismo inmueble stale ya conocido desde 2026-09-16 (208.000e, ~69-70m2, 3 hab, 1 bano, balcon si), visto repetidamente bajo multiples URLs/portales (habitaclia i29688000000469, inmojavierbilbao, donpiso 304578, habitaclia 8eec245b). Sigue sin fecha de publicacion reciente confirmada. No se re-reporta como hallazgo nuevo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/sagasti-kalea/cruces/barakaldo/79b87b0b-bbf2-4ce5-9368-96b616a19368/d",
+    "portal": "habitaclia.com",
+    "zona": "Sagasti Kalea, Cruces, Barakaldo",
+    "first_seen": "2026-10-04",
+    "nota": "Probablemente el mismo inmueble que milanuncios/barakaldo-597678581 (289.000e, 76m2/70 utiles, 1a planta con ascensor a cota cero, balcon, agencia 'La Casa Agency Cornella', zona Barakaldo sin direccion exacta, registrado 2026-09-30): specs casi identicos (289.000e, ~75-76m2, 1a planta ascensor a cota cero, balcon cerrado) pero agencia distinta en esta ficha (HogarDiez) y ahora con direccion exacta (Sagasti Kalea, Cruces). ANOMALIA/duda sobre metro: un agente de busqueda afirma que Cruces NO tiene estacion de Metro Bilbao (solo tranvia/EuskoTran), contradiciendo la suposicion de otro agente de que Gurutzeta/Cruces es parada de Metro L2 junto al Hospital de Cruces - verificar manualmente la red de Metro Bilbao antes de validar o descartar este y otros candidatos de Cruces. No se re-reporta como hallazgo nuevo por alta probabilidad de ser el mismo inmueble ya registrado, con reserva."
   }
 ]
