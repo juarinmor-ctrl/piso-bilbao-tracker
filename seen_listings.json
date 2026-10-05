@@ -2577,5 +2577,180 @@
     "zona": "Sagasti Kalea, Cruces, Barakaldo",
     "first_seen": "2026-10-04",
     "nota": "Probablemente el mismo inmueble que milanuncios/barakaldo-597678581 (289.000e, 76m2/70 utiles, 1a planta con ascensor a cota cero, balcon, agencia 'La Casa Agency Cornella', zona Barakaldo sin direccion exacta, registrado 2026-09-30): specs casi identicos (289.000e, ~75-76m2, 1a planta ascensor a cota cero, balcon cerrado) pero agencia distinta en esta ficha (HogarDiez) y ahora con direccion exacta (Sagasti Kalea, Cruces). ANOMALIA/duda sobre metro: un agente de busqueda afirma que Cruces NO tiene estacion de Metro Bilbao (solo tranvia/EuskoTran), contradiciendo la suposicion de otro agente de que Gurutzeta/Cruces es parada de Metro L2 junto al Hospital de Cruces - verificar manualmente la red de Metro Bilbao antes de validar o descartar este y otros candidatos de Cruces. No se re-reporta como hallazgo nuevo por alta probabilidad de ser el mismo inmueble ya registrado, con reserva."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/terraza-ascensor/190982947/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 529.990e, 91m2, 3 hab, 2 banos, 7a planta, terraza, publicado hace ~4 dias (dentro de ventana 24-48h-ish pero igualmente fuera). Precio muy por encima del maximo de 300.000e. Parte de un cluster de obra nueva en Julio Urquijo Kalea/Isla de Zorrozaurre junto con los IDs 191012291, 191007355, 191004173, 191002146, 190991872 (mismo desarrollo, 529.990e-540.000e, 3 hab/2 banos, terraza, publicados 30/09-03/10/2026). Todos descartados por precio."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/191012291/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: parte del mismo cluster de obra nueva que 190982947 (ver nota), 529.990e-540.000e, 3 hab/2 banos, terraza. Precio muy por encima del maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/191007355/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: parte del mismo cluster de obra nueva que 190982947 (ver nota). Precio muy por encima del maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/191004173/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: parte del mismo cluster de obra nueva que 190982947 (ver nota). Precio muy por encima del maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/191002146/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: parte del mismo cluster de obra nueva que 190982947 (ver nota). Precio muy por encima del maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/190991872/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Julio Urquijo Kalea / Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: parte del mismo cluster de obra nueva que 190982947 (ver nota). Precio muy por encima del maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-ascensor-amueblado/190203654/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 334.000e, 98m2, 3 hab, 1 bano, publicado hace 86 dias. Precio sobre el maximo y muy antiguo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-terraza-trastero-ascensor/190974871/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 559.000e, duplex 103+36m2, 3 hab, 2 banos, publicado hace 5 dias. Precio muy por encima del maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-parking-jardin-terraza/188372573/d",
+    "portal": "Fotocasa",
+    "zona": "Leioa",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 850.000e, 240m2, 4 hab, publicado hace mas de 3 meses. Precio muy por encima del maximo, probable chalet/duplex de lujo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-parking-terraza-trastero/190956105/d",
+    "portal": "Fotocasa",
+    "zona": "Getxo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 380.000e, 74m2, solo 2 hab (minimo 3), publicado hace 6 dias. Precio sobre el maximo y no llega al minimo de habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-terraza-trastero-ascensor/190203357/d",
+    "portal": "Fotocasa",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 399.000e (rebajado), 142m2, atico+15, publicado hace 86 dias. Precio sobre el maximo y muy antiguo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/2fec6017-f280-4f95-87f3-32f5aaa111d2/d",
+    "portal": "habitaclia.com",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "Candidato interesante NO confirmado como valido: 290.000e (rebajado 15.000e), 80m2, 3 hab, 2 banos, 1a planta, ascensor si, terraza en L (cocina+dormitorio), cerca de la estacion Gurutzeta/Cruces (Metro L2). Agencia Terra Agencia Global (ref. PIS0002). El nuevo diseno de habitaclia.com ya NO muestra fecha de publicacion/actualizacion verificable en la ficha (el unico timestamp presente, 'updatedAt' del publisher, no refleja la antiguedad del anuncio). NO reportado como valido en ejecucion 2026-10-05 por falta de fecha confirmable. Revisar manualmente si reaparece con fecha clara."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/lutxana-llano/barakaldo/02d97205-7395-4aec-9fbe-7a9bbbf19833/d",
+    "portal": "habitaclia.com",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "Candidato NO confirmado como valido: 210.000e, 67m2, 3 hab, 1 bano, 1a planta, terraza de patio, ascensor no especificado. Agencia Inmobiliaria Quorum Etxebarri (ref. 20087). Proximidad a metro solo mencionada de forma generica ('paradas del Metro cerca'), sin confirmar distancia. Fecha de publicacion no verificable (ver nota general sobre nuevo diseno de habitaclia.com). NO reportado como valido en ejecucion 2026-10-05."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro-urbano-hirigunea/leioa/3bee3edd-6528-4536-9484-85d17e948169/d",
+    "portal": "habitaclia.com",
+    "zona": "Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 260.000e, 79m2, 3 hab, 1 bano, bajo, ascensor si, construido 1974, SIN balcon/terraza mencionado. Mismo inmueble que Inmobiliaria Chomon ref L1360 (chomon.net/inmueble/l1360/)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-juntas-generales-14/centro/barakaldo/7fec1431-6abe-4cbc-97b8-6c319b18ef90/d",
+    "portal": "habitaclia.com",
+    "zona": "Calle Juntas Generales 14, Centro, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 219.900e, 60m2, 3 hab, 1 bano, 1a planta, ascensor si (cota cero), cert. energetico F, SIN balcon/terraza mencionado. Fecha de publicacion/actualizacion no verificable."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/tres-habitaciones-y-terraza-para-entrar-a-vivir/",
+    "portal": "Inmobiliaria Quorum (Barakaldo)",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO es hallazgo independiente: 209.000e, 70m2, 3 hab, 1 bano, terraza amplia exterior, cert. G. Practicamente identico (misma zona, superficie) al inmueble ya registrado https://www.inmobiliariaquorum.com/property/precioso-piso-ubicado-cerca-de-cruces-con-3-habitaciones-y-terraza/ (= habitaclia i39776000001515, 220.000e, registrado 2026-09-18), con bajada de precio (~11.000e). La web de la agencia no muestra fecha de publicacion/actualizacion verificable."
+  },
+  {
+    "url": "https://www.inmobiliariaherrikoplaza.com/piso-en-barakaldo-con-ascensor-es1578716.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Lutxana/Andikollano, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: ref 720, 266.000e, 70m2 utiles/80m2 construidos, 3 hab, 2 banos, obra nueva 2025, ascensor si. Solo menciona 'Jardin: Privado', no balcon ni terraza explicitos. Agencia nueva detectada hoy, no vista en ejecuciones previas."
+  },
+  {
+    "url": "https://www.inmobiliariaherrikoplaza.com/piso-en-barakaldo-es1760903.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Herriko Plaza 7, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: ref PIS1191, 249.000e, 80m2 utiles/82m2 construidos, 3 hab, 2 banos, planta bajo. Sin balcon/terraza mencionado, sin ascensor mencionado, sin mencion de metro, sin fecha de publicacion confirmable (solo etiqueta generica 'Novedad')."
+  },
+  {
+    "url": "https://www.inmobiliariaherrikoplaza.com/piso-en-astrabudua-con-ascensor-es1643760.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-05",
+    "nota": "NO es hallazgo independiente: ref 60782719, 245.000e, 93m2, 3 hab, 1 bano, ascensor si. Coincide con el piso Kintoena ya conocido y descartado (244.999e/93m2, https://english.habitaclia.com/i60163000000227.htm); sin balcon/terraza."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41614449",
+    "portal": "Trovimap",
+    "zona": "Rontegui, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 160.000e, 108m2, solo 1 habitacion (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/362771-41586806",
+    "portal": "Trovimap",
+    "zona": "Herriko Plaza, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 370.000e, 75m2, 3 hab, 2 banos. Supera el precio maximo de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/537299-41608341",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 330.000e, 106m2, solo 2 habitaciones. Supera precio y no llega al minimo de habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41608063",
+    "portal": "Trovimap",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: 570.000e, 145m2, descrito como 'chalet adosado de tres plantas' (tipo de vivienda excluido explicitamente). Ademas supera el precio maximo."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd449",
+    "portal": "Avenida 155 (inmobiliaria local San Ignacio-Deusto)",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO disponible: ref AVD449, 295.000e, 79m2, 4 hab, 2 terrazas, frente al ambulatorio y cerca del metro de San Ignacio -- cumpliria todos los criterios de contenido, pero la ficha esta marcada como RESERVADO (no disponible para compra)."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd435",
+    "portal": "Avenida 155 (inmobiliaria local San Ignacio-Deusto)",
+    "zona": "San Ignacio (Txakolin Kalea), Bilbao",
+    "first_seen": "2026-10-05",
+    "nota": "NO cumple: ref AVD435, marcada VENDIDO. 257.500e, 66m2, solo 2 habitaciones (minimo 3). Mismo piso ya visto en fotocasa/habitaclia."
   }
 ]
