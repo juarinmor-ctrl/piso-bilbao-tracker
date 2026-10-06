@@ -2752,5 +2752,299 @@
     "zona": "San Ignacio (Txakolin Kalea), Bilbao",
     "first_seen": "2026-10-05",
     "nota": "NO cumple: ref AVD435, marcada VENDIDO. 257.500e, 66m2, solo 2 habitaciones (minimo 3). Mismo piso ya visto en fotocasa/habitaclia."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-ascensor/191030930/d",
+    "portal": "Fotocasa (La Casa Agency, ref LCBI45137)",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "CUMPLE criterios: 295.000e, 85m2, 3 hab, 1 bano, 2a planta, ascensor, balcon en cocina (totalmente exterior), publicado hace ~10h. Metro Urbinaga/Bagatza (L2) a unos 10 min andando (no mencionado en el anuncio, verificado por busqueda externa). Reportado como VALIDO en ejecucion 2026-10-06."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/2c253e2a-02be-41de-a43b-5e8e876ab673/d",
+    "portal": "Habitaclia (Inmobiliaria Quorum Etxebarri SL)",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "CUMPLE criterios: 209.000e (rebajado de 220.000e), 70m2, 3 hab, 1 bano, 5a planta, ascensor no mencionado explicitamente, amplia terraza + balcon, construido 1959. Metro Gurutzeta/Cruces (L2) a 3-7 min andando (verificado por busqueda externa). Reportado como VALIDO en ejecucion 2026-10-06."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/el-castanal-kalea/rontegui-pormetxeta/barakaldo/0ee4c54d-d4f6-4524-86cf-fb78eb89b695/d",
+    "portal": "Habitaclia (Punto La Gavarra SL, ref LCBI42273-1)",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "CUMPLE criterios: 289.000e, 76m2 construidos (~70 utiles), 3 hab, 2 banos, 1a planta con ascensor a cota cero, balcon en habitacion principal, trastero 15m2, construido 2003. Metro Barakaldo/Ansio (L1/L2) a ~5 min andando (verificado por busqueda externa). Reportado como VALIDO en ejecucion 2026-10-06."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/erandio/580cd304-9404-4016-a242-d00ee8ff45e6/d",
+    "portal": "Habitaclia",
+    "zona": "Nafarroa Beherea Kalea, Altzaga, Erandio",
+    "first_seen": "2026-10-06",
+    "nota": "ANOMALIA / NO cumple: precio 40.000e es engañoso, es venta de NUDA PROPIEDAD con USUFRUCTO VITALICIO (propietario 66 anios conserva el uso de la vivienda hasta su fallecimiento; precio real referenciado 100.000e con renta temporal). Comprador no puede ocupar la vivienda. No es una compraventa normal. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/ebc3ed09-5046-4bac-82a7-ef2b5009df83/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 208.000e, 70m2 aprox, 3 hab, 1 bano, pero NO menciona balcon/terraza explicitamente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/la-felicidad-kalea/bagatza-san-vicente/barakaldo/1dc0d94d-deca-4110-b182-b4655c191b53/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 285.000e, 4 hab, 1 bano, pero NO menciona balcon/terraza explicitamente. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/.../190985270/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla (Juan de Garay), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple ventana temporal: 260.000e, 77m2, 3 hab, 1 bano, terraza y ascensor -- cumpliria el resto de criterios pero publicado 'hace 5 dias' (fuera de ventana 24-48h). URL parcial segun snippet de busqueda (id 190985270)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/.../190983949/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda (San Ignacio), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 410.000e, supera precio maximo de 300.000e; ademas publicado 'hace 5 dias' (fuera de ventana 24-48h). URL parcial segun snippet de busqueda (id 190983949)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/las-arenas/191023952/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas/Romo, Getxo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: solo 2 habitaciones (minimo exigido 3); publicado hace 19h. Tiene balcon y esta cerca de metro, pero no llega al minimo de habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/.../191008048/d",
+    "portal": "Fotocasa",
+    "zona": "Zorrotza (adyacente a San Ignacio), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple ventana temporal ni zona exacta: 258.000e, 3 hab, 2 banos -- cumpliria precio/habitaciones, pero publicado 'hace 3 dias' (fuera de ventana 24-48h) y la zona es Zorrotza, no San Ignacio propiamente. URL parcial segun snippet de busqueda (id 191008048)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-miribilla-bilbao-i29469000003115.htm",
+    "portal": "Habitaclia",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 285.000e (bajado 13.000e), 54m2, solo 1 habitacion (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-ground_floor-miribilla-bilbao-i29739000000930.htm",
+    "portal": "Habitaclia",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 210.370e, 66m2, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-ground_floor-uretamendi-bilbao-i30303000040612.htm",
+    "portal": "Habitaclia",
+    "zona": "Uretamendi/Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO es compraventa normal: 80.000e, 'CESION DE REMATE' (subasta judicial), no una venta normal de mercado."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4281590/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio (Calle Orixe), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 263.000e, 52m2, solo 2 habitaciones, 1 bano (minimo 3 hab)."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4274452/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio (Universidad de Onate), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 298.000e, 81m2, solo 2 habitaciones; marcado RESERVADO (no disponible)."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4274790/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio (Camino Miramar), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 765.000e, chalet de 257m2 -- excluido por tipo (chalet) y supera presupuesto."
+  },
+  {
+    "url": "https://inmobiliariaelkano.com/encargos/4184/",
+    "portal": "Inmobiliaria Elkano (oficina Txurdinaga, local)",
+    "zona": "Txurdinaga, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 235.000e, 64m2, solo 2 habitaciones, sin balcon/terraza; ademas Txurdinaga esta fuera de las 4 zonas objetivo (Sarriko/San Ignacio/Deusto/Miribilla)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41627896",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 140.000e, 90m2, 3 hab/1 bano, publicado 06/10/2026 (dentro de ventana) pero SIN balcon/terraza mencionado; descrito como 'primer piso de una casa rustica de piedra' (posible vivienda tipo casa, no piso estandar), sin ascensor ni metro mencionados. ANOMALIA: precio muy por debajo de mercado para 90m2 (1.556e/m2)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41223341",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 389.000e, supera presupuesto maximo de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41118973",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: solo 2 habitaciones (minimo 3), precio no especificado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-40001042",
+    "portal": "Trovimap",
+    "zona": "Leioa (Langileria)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 220.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-26887805",
+    "portal": "Trovimap",
+    "zona": "Leioa (Romo)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 240.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41623836",
+    "portal": "Trovimap",
+    "zona": "Leioa (Lekueder)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 399.000e, supera presupuesto maximo (publicado 05/10/2026, dentro de ventana pero precio excesivo)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/483919-40717323",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple ventana temporal: 285.000e, 3 hab/1 bano dentro de presupuesto pero publicado 29/04/2026, muy antiguo (no cumple 24-48h)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41531924",
+    "portal": "Trovimap",
+    "zona": "Getxo (Andra Mari)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 320.000e (supera presupuesto) y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41112538",
+    "portal": "Trovimap",
+    "zona": "Getxo (Romo)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 240.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41524807",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 250.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41631579",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 505.000e, supera presupuesto maximo (publicado 06/10/2026, dentro de ventana pero precio excesivo)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41633222",
+    "portal": "Trovimap",
+    "zona": "Getxo (Usategui-Trinitarios)",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 600.000e, 5 hab, supera presupuesto maximo (publicado 06/10/2026)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41560490",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 187.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41193195",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 250.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41581223",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 503.000e, supera presupuesto; publicado 26/09/2026, fuera de ventana 24-48h."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41559451",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 503.000e, supera presupuesto; publicado 21/09/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-40447358",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 365.000e, supera presupuesto; publicado 20/03/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/458886-25976960",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 725.000e, supera presupuesto; publicado 17/01/2025."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/458886-33802407",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple ventana temporal: 235.000e, 3 hab/1 bano dentro de presupuesto pero publicado 26/11/2024, muy antiguo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-40453855",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 365.000e, supera presupuesto; publicado 22/03/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/510072-40323539",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 210.000e, solo 2 habitaciones; publicado 04/03/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-40671366",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 298.000e dentro de presupuesto pero solo 1 habitacion; publicado 24/04/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-40338017",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 210.000e, solo 2 habitaciones; publicado 07/03/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41279069",
+    "portal": "Trovimap",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "NO cumple: 298.000e dentro de presupuesto pero solo 1 habitacion; publicado 06/08/2026."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/duplex-apartment/pedro-astigarraga-kalea/deusto/bilbao/b08cbf74-cac8-4d4f-8805-ee7aa058ccb1/d",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda (Sarriko/Deusto), Bilbao",
+    "first_seen": "2026-10-06",
+    "nota": "Cumple precio/hab/banos/balcon/zona/metro (285.000e, 89m2, 3 hab, 2 banos, 2 balcones, 4a planta, ascensor) PERO sin fecha de publicacion/actualizacion verificable en la pagina; muy probablemente el mismo inmueble recurrente de Pedro Astigarraga Kalea visto en ejecuciones previas con fecha real ~2026-08-06 (fuera de ventana 24-48h). Se registra para no re-evaluarlo."
   }
 ]
