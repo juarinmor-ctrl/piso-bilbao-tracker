@@ -3046,5 +3046,579 @@
     "zona": "Ibarrekolanda (Sarriko/Deusto), Bilbao",
     "first_seen": "2026-10-06",
     "nota": "Cumple precio/hab/banos/balcon/zona/metro (285.000e, 89m2, 3 hab, 2 banos, 2 balcones, 4a planta, ascensor) PERO sin fecha de publicacion/actualizacion verificable en la pagina; muy probablemente el mismo inmueble recurrente de Pedro Astigarraga Kalea visto en ejecuciones previas con fecha real ~2026-08-06 (fuera de ventana 24-48h). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/rontegui-pormetxeta/191038803/d",
+    "portal": "Fotocasa (La Casa Agency, ref LCBI45149)",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "CUMPLE criterios: 198.000e, 66m2, 3 hab, 1 bano, 3a planta SIN ascensor, balcon (salon con salida directa a balcon), totalmente exterior, aprox. 10 min andando del metro de Barakaldo (mencionado explicitamente). Publicado hace ~16h (filtro Fotocasa 'published-last-48-hours'). Reportado como VALIDO en ejecucion 2026-10-07."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/rontegui-pormetxeta/barakaldo/d0a808f4-7e06-400d-ac2e-96ca3435c0ad/d",
+    "portal": "Habitaclia (mismo inmueble que Fotocasa 191038803, La Casa Agency ref LCBI45149)",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "CUMPLE criterios (mismo inmueble que Fotocasa 191038803/d). 198.000e, 66m2, 3 hab, 1 bano, 3a planta sin ascensor, balcon, metro ~10 min. Reportado como VALIDO en ejecucion 2026-10-07."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/lift-not-furnished/191044442/d",
+    "portal": "Fotocasa (Bengolea Grupo Inmobiliario, ref ANSIO)",
+    "zona": "Ansio (Arteagabeitia-Retuerto-Kareaga), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "CUMPLE criterios: 300.000e (justo en el limite maximo, sin margen), 83m2, 3 hab, 1 bano, ascensor si (amplio a cota cero), balcon grande, metro Ansio 'a un paso' (estacion en el propio barrio). Publicado hace ~9h (filtro Fotocasa 'published-last-48-hours'). ANOMALIA/AVISO: precio exactamente en el tope de 300.000e, sin margen de negociacion. Reportado como VALIDO (con reserva de precio) en ejecucion 2026-10-07."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/arteagabeitia-retuerto-kareaga/barakaldo/5c91b14c-0f36-4f61-af6e-fd10c131d4cd/d",
+    "portal": "Habitaclia (mismo inmueble que Fotocasa 191044442, Bengolea)",
+    "zona": "Ansio (Arteagabeitia-Retuerto-Kareaga), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "CUMPLE criterios (mismo inmueble que Fotocasa 191044442/d). 300.000e (limite maximo exacto), 83m2, 3 hab, 1 bano, ascensor, balcon grande, metro Ansio a un paso. Reportado como VALIDO (con reserva de precio) en ejecucion 2026-10-07."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-terrace-box-room/191042316/d",
+    "portal": "Fotocasa",
+    "zona": "Algorta/Sarrikobaso (Elorri Kalea), Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO CONFIRMADO: 298.000e, 65m2, 3 hab, 1 bano, 3a planta sin ascensor, terraza cerrada explicita, publicado hace ~12h (dentro de ventana). Cumpliria precio/hab/bano/terraza/ventana PERO no se pudo confirmar con certeza la distancia a pie a una parada de metro. Candidato de interes a revisar si se confirma el metro."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/elorri-kalea/algorta/getxo/9eaf4dc5-94ff-44bb-b456-880813b82805/d",
+    "portal": "Habitaclia (mismo inmueble que Fotocasa 191042316)",
+    "zona": "Algorta/Sarrikobaso (Elorri Kalea), Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO CONFIRMADO (mismo inmueble que Fotocasa 191042316/d): ver nota de esa entrada. Metro no confirmado."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/erandio/2fb99fe0-e70b-42c3-ba50-8267fa41d929/d",
+    "portal": "Habitaclia (Herriko Plaza, piso bancario)",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-07",
+    "nota": "NO CONFIRMADO: cumple precio(245.000e)/habitaciones(3)/bano(1)/balcon('living room with balcony')/tipo/ascensor(si)/ano(1970), Astrabudua tiene estacion propia Metro L1. PERO no se pudo verificar que este publicado/actualizado en las ultimas 24-48h (sin indicador de fecha en la ficha). Revisar en proxima ejecucion por si aparece marcado como reciente."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/txakolin-kalea/deusto/bilbao/4250e1b0-4ce8-4519-8e46-57f39f80048e/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio (Txakolin Kalea), Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 257.500e, 66m2, solo 2 habitaciones (minimo 3), 1 bano, ascensor, 3a planta. Mismo inmueble que ref AVD435 de Avenida155 (vendido)."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd443",
+    "portal": "Avenida155 (agencia local)",
+    "zona": "Sarriko, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 257.500e, 66m2, solo 2 habitaciones, 1 bano, actualmente ALQUILADO (producto para inversores, no libre). Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd452",
+    "portal": "Avenida155",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 310.000e (supera maximo), 62m2, solo 1 habitacion. Marcado RESERVADO."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd418",
+    "portal": "Avenida155",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 335.000e (supera maximo de 300.000e), 99m2, 3 hab, 2 banos. Marcado VENDIDO."
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd445",
+    "portal": "Avenida155",
+    "zona": "San Ignacio, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 259.000e, 62m2, solo 2 habitaciones, 1 bano. Marcado RESERVADO."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/mediterraneo-itsasoaren-kalea/deusto/bilbao/8d60264d-7ea4-4a0a-8c90-359f36fb917a/d",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda/Sarriko, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 334.000e (supera maximo), 98m2, 3 hab, 1 bano, 1a planta, terraza si. Mismo inmueble ya visto via Fotocasa (190203654, publicado hace 86 dias), fuera de ventana 24-48h."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/agirre-lehendakariaren-etorbidea/deusto/bilbao/1a4e1504-d43a-4905-b3a8-1290e61cc0df/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio / Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO es compraventa normal: 283.975e, 122m2, 5 hab, 2 banos, planta baja SIN ascensor. SUBASTA JUDICIAL/ejecucion hipotecaria (ROQUETA INVESTMENT): sin posesion, ocupado, no visitable ni hipotecable. ANOMALIA: precio muy por debajo de mercado explicado por el riesgo legal, no por ser una oportunidad real."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-avda-lehendakari-aguirre/deusto/bilbao/d6afd8a9-f2de-4e17-837e-3b9c1db19987/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio / Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO es compraventa normal: duplicado exacto de la subasta judicial anterior (283.975e, 122m2, 5hab/2banos, ROQUETA INVESTMENT)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/avenida-zarandoa/deusto/bilbao/33b3d3a8-7d2b-491e-8c88-20181bad4515/d",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 747.000e, muy por encima del maximo. 130m2, 3 hab, 3 banos, planta baja, garaje, construido 2020."
+  },
+  {
+    "url": "https://casas.waa2.es/detail/venta/piso-3-cuartos-85-m-270000-0d439443628e62f16c83d2b213169be6",
+    "portal": "waa2.es (agregador)",
+    "zona": "Ibarrekolanda (Agirre Lehendakariaren Etorbidea), Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple ventana temporal: 270.000e, 3 hab, 2 banos, 2 terrazas -- cumpliria el resto pero JSON-LD de la pagina confirma publicacion real 2024-11-17 (modificado 2024-12-06), anuncio antiguo presentado como reciente por el agregador."
+  },
+  {
+    "url": "https://casas.waa2.es/detail/venta/piso-3-cuartos-97-m-295000-cfeb91067db731201c9949ce8f4e3f34",
+    "portal": "waa2.es",
+    "zona": "Ibarrekolanda (Erdikoetxe Kalea), Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple ventana temporal: 295.000e, 3 hab, 2 banos, terraza explicita, cerca metro -- JSON-LD confirma publicacion 2022-10-22 (modificado 2023-02-28), muy antiguo."
+  },
+  {
+    "url": "https://casas.waa2.es/detail/venta/piso-3-cuartos-85-m-215000-90790563e96d34b25cb519df0f5129c1",
+    "portal": "waa2.es",
+    "zona": "Ibarrekolanda (Pedro Astigarraga Kalea), Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple ventana temporal: 215.000e, 85m2, 3 hab, 2 banos, duplex, 2 terrazas, cerca metro Sarriko -- JSON-LD confirma publicacion 2023-02-27, muy antiguo. Edificio recurrente (Pedro Astigarraga Kalea) ya documentado muchas veces con distintos precios, nunca dentro de ventana 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/parking-box-room-lift/191025884/d",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto-La Ribera (C. Musico Sarasate), Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 420.000e (supera maximo), 81-82m2, 3 hab, 2 banos, 4a planta, ascensor si, ~2 min a pie del metro Deusto. NO menciona balcon ni terraza. Dentro de ventana 24-48h (filtro Fotocasa) pero falla por precio y por falta de balcon/terraza."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41570024",
+    "portal": "Trovimap (ref XOH-20408)",
+    "zona": "Elcano Kalea 16, Deusto (obra nueva, Deusto Living)",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 479.000e (supera maximo), 72m2, solo 2 habitaciones (minimo 3), 2 banos, planta 6, ascensor, dos terrazas (29m2+5m2). Obra nueva 2026, publicado/actualizado 30/09/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41581048",
+    "portal": "Trovimap (ref XOH-20408, duplicado)",
+    "zona": "Elcano Kalea 16, Deusto",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: duplicado exacto del anterior (mismo ref XOH-20408, 479.000e, 72m2, 2hab/2banos)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41580875",
+    "portal": "Trovimap (ref XOH-20407)",
+    "zona": "Elcano Kalea 16, Deusto",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 459.000e (supera maximo), 72m2, solo 2 habitaciones, 2 banos, balcon 5m2. Publicado/actualizado 30/09/2026."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/3214e26e-ede5-488e-a208-f99943dea9dc/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 529.990e (muy por encima), 91m2, 3 hab, 2 banos, 7a planta, ascensor."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/93a88236-b140-4769-aaab-d7189bf086e3/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: duplicado exacto del anterior (529.990e, 91m2, 3hab/2banos, 7a planta)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/julio-urquijo-kalea/deusto/bilbao/99b57ebc-d16e-4bc9-9898-d94e67750d01/d",
+    "portal": "Habitaclia",
+    "zona": "Julio Urquijo Kalea, San Pedro de Deusto-La Ribera",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 529.990e (supera maximo), 91m2, 3hab/2banos, terraza con vistas a la ria, 7a planta. Sindicacion cruzada con inmueble ya registrado via Fotocasa (zona Zorrozaurre), no es un piso distinto."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/ramon-y-cajal-zeharkalea/deusto/bilbao/e958c283-413d-4952-98e7-fc3c63d08e82/d",
+    "portal": "Habitaclia",
+    "zona": "Ramon y Cajal Zeharkalea, Deusto",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 340.000e (supera maximo), 83m2, 3hab/1bano, 1a planta, ascensor."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/d25daae4-320e-4f97-825f-a713f82cbf39/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 420.000e (supera maximo), 81m2, 3hab/2banos, 4a planta. Probablemente el mismo inmueble que Fotocasa 191025884 (Calle Musico Sarasate), sindicado tambien en Habitaclia."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/fbb6d2cd-35f4-4982-9f80-d7a748b15a79/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 399.000e (supera maximo), 120m2, 3hab/1bano, terraza si, 3a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/cargueras/deusto/bilbao/2e1e8857-a508-4596-aa1b-8efa6c774270/d",
+    "portal": "Habitaclia",
+    "zona": "Cargueras, Deusto",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 685.000e (muy por encima), 119m2, 3hab/2banos, jardin, 2a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/d57e9581-95cd-4379-8983-5db056d1f014/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: precio ok (269.000e) pero solo 1 habitacion (minimo 3). 75m2."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/07240fdb-562a-4bf5-97a7-49cd906703a4/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 790.000e (muy por encima), 109m2, 3hab/1bano, 5a planta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/ganekogorta-monte-kalea/deusto/bilbao/075eb290-294b-4c41-96db-2c0a7f761de1/d",
+    "portal": "Habitaclia (Monica Chen Inmobiliaria)",
+    "zona": "Ganekogorta Monte Kalea, Arangoiti, Deusto",
+    "first_seen": "2026-10-07",
+    "nota": "NO es hallazgo nuevo real: 235.000e, 74m2, 3hab/1bano, terraza si, 2a planta, ascensor. Con alta probabilidad el MISMO inmueble ya registrado (url i51071000000079.htm, zona Deusto/Ganekogorta Monte Kalea, visto 2026-09-18, mismos datos) servido bajo una URL canonica distinta por Habitaclia. Se registra esta URL alternativa para no re-evaluarla."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41641432",
+    "portal": "Trovimap",
+    "zona": "Centro de Romo, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 298.000e, 79m2, solo 2 habitaciones (minimo 3), 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41623274",
+    "portal": "Trovimap",
+    "zona": "Aldekoena-Artatzagana-Sarriena, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 380.700e (supera maximo), 115m2, 3 hab, 2 banos, duplex. Marcado 'Nuevo'."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41510387",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 540.000e (supera maximo), 100m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-39615860",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 412.000e (supera maximo, antes 425.000e), 94m2, 3 hab, 1 bano."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-31336629",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 850.000e (muy por encima), 240m2, 6 hab, 3 banos, duplex."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/478753-28573624",
+    "portal": "Trovimap",
+    "zona": "Centro, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 360.000e (supera maximo), 120m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/515561-41493848",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 540.000e (supera maximo), 97m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/483919-41425983",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 645.000e (muy por encima, antes 659.000e), 150m2, 3 hab, 3 banos."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/489393-41070234",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 520.000e (muy por encima), 100m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1345/",
+    "portal": "Chomon (agencia local)",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 240.000e, 77m2, solo 2 habitaciones (minimo 3), 1 bano."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1349/",
+    "portal": "Chomon",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 180.000e, 125m2. Es un LOCAL COMERCIAL, no vivienda residencial."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1362/",
+    "portal": "Chomon",
+    "zona": "Maiatzaren Bata Kalea, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 329.000e (supera maximo), 82m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1356/",
+    "portal": "Chomon",
+    "zona": "Avda. Sabino Arana, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 530.000e (muy por encima), 98m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1342/",
+    "portal": "Chomon",
+    "zona": "Zarrageta Kalea, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 620.000e (muy por encima), 165m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1352/",
+    "portal": "Chomon",
+    "zona": "Artazagane Auzoa, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 415.000e (supera maximo), 100m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1351/",
+    "portal": "Chomon",
+    "zona": "Aldekoena Auzoa, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 290.000e, 76m2, solo 2 habitaciones (minimo 3), 1 bano."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1343/",
+    "portal": "Chomon",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 489.000e (supera maximo), 109m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1332/",
+    "portal": "Chomon",
+    "zona": "Iparragirre Etorbidea 56, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 390.000e (supera maximo), 94m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1354/",
+    "portal": "Chomon",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 560.000e (muy por encima), 118m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1334/",
+    "portal": "Chomon",
+    "zona": "Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 489.000e (supera maximo), 102m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1321/",
+    "portal": "Chomon",
+    "zona": "Avda. Sabino Arana 6, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 345.000e (supera maximo), 80m2, solo 2 habitaciones, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1327/",
+    "portal": "Chomon",
+    "zona": "Avda. Sabino Arana 8, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 345.000e (supera maximo), 78m2, solo 2 habitaciones, 2 banos."
+  },
+  {
+    "url": "https://www.chomon.net/inmueble/l1329/",
+    "portal": "Chomon",
+    "zona": "Artazagane Auzoa 28, Leioa",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 315.000e (supera maximo por poco, +15.000e), 91m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift/191036049/d",
+    "portal": "Fotocasa (ref LCBI45137, duplicado)",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO es hallazgo independiente: mismo inmueble (ref LCBI45137) ya reportado como VALIDO el 2026-10-06 (url fotocasa 191030930/d), re-listado con un nuevo ID de anuncio. 295.000e, 85m2, 3hab/1bano, 2a planta, ascensor, balcon, publicado hace ~18h."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift/191038025/d",
+    "portal": "Fotocasa",
+    "zona": "Centro (Calle Elcano), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 239.900e (rebajado 9.100e), 69m2, 3hab, 2banos, 7a planta (ultima), ascensor amplio. NO menciona balcon ni terraza."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/8ec42ad4-cf58-4601-bf68-e57527a3b1da/d",
+    "portal": "Habitaclia (mismo inmueble que Fotocasa 191038025)",
+    "zona": "Centro (Calle Elcano), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple (mismo inmueble que Fotocasa 191038025/d): 239.900e, 69m2, 3hab/2banos, 7a planta. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/air-conditioning-heating-lift-furnished/191024038/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 319.000e (supera maximo), 70m2, 3hab, 2banos, 2a planta, ascensor, amueblado, publicado 'ayer'."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/adca9dba-9682-43a1-a585-e9b574261133/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 120.000e, 47m2, solo 1 habitacion (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/new-construction/altos-hornos-de-vizcaya-hiribidea/rontegui-pormetxeta/barakaldo/f010b49c-a518-4f1e-8295-16abb1486f6e/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta (Altos Hornos, obra nueva), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 329.000e (supera maximo), 89m2, solo 1 habitacion."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/askatasun-etorbidea/bagatza-san-vicente/barakaldo/e780364f-e7b9-47b4-ba22-290d43424b08/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente (Askatasun Etorbidea), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 229.000e, 70m2, 2 banos, ascensor si, terraza si (construido 1975) -- PERO la propia descripcion dice 'cuenta con dos dormitorios (antes 3)': no llega al minimo de 3 habitaciones reales (uno convertido en trastero/despensa). Sin mencion de metro."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/f-garcia-lorca-plaza/rontegui-pormetxeta/barakaldo/148436a4-c311-41d1-925c-fc556f40ac8b/d",
+    "portal": "Habitaclia (agencia HogarDiez)",
+    "zona": "Rontegui-Pormetxeta (F. Garcia Lorca Plaza), Barakaldo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 224.900e, 75m2, 3hab, 1bano, 3a planta SIN ascensor. NO menciona balcon ni terraza (si dice 'muy proximo al metro')."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41619535",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 325.000e (supera maximo), 92m2, 3 hab."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41623662",
+    "portal": "Trovimap",
+    "zona": "Santa Maria de Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 395.000e (supera maximo), 102m2, 4 hab."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41624072",
+    "portal": "Trovimap",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 405.000e (supera maximo), 78m2, 3 hab."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41641104",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 900.000e (muy por encima), 240m2, 6 hab."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/algorta/getxo/83bbc10f-bbba-4812-b289-6837f65a5ce9/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 449.000e (supera maximo), 115m2, 3 hab."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/club-kalea/las-arenas/getxo/760ae82b-633b-4a2d-831e-73e868bf15e4/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 650.000e (muy por encima del maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/avenida-del-angel-de-getxo/santa-maria-de-getxo/getxo/1ac9d5f2-741f-4f13-8a3e-26fdb8851a5a/d",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 660.000e (muy por encima del maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/algorta/getxo/405c8897-6d21-435b-a29a-0c9ca694d510/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 405.000e (supera maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-calle-amalloa/las-arenas/getxo/8247323c-0487-422f-95fd-69d86b59f28b/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 400.000e (supera maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-de-amezti/algorta/getxo/84820183-25c5-405e-a1f6-9266a23e3b19/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 519.000e (muy por encima del maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-de-aiboa/neguri/getxo/38c9de4d-45cd-4a42-b0ed-a322b7fd3e90/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 540.000e (muy por encima del maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/avenida-de-basagoiti/algorta/getxo/3b773344-644f-4be7-afa2-140ace73a8c9/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 750.000e (muy por encima del maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/elkano-kalea/neguri/getxo/72b8b80c-5b8a-4696-9cbb-51cf9bec6542/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 450.000e (supera maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/joaquin-arellano-kalea-14/las-arenas/getxo/35e5b46f-f8d1-46bb-81b9-87d23764b590/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 450.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/lope-de-vega-kalea/las-arenas/getxo/aba0172f-1604-4fc2-9ac3-d34e6fd33760/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 349.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/jata-kalea-9/santa-maria-de-getxo/getxo/26be0c28-13c5-403c-bef4-83cd5461f456/d",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 320.000e, solo 2 habitaciones (minimo 3)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/98845b39-c37b-4c77-b3bc-7e24fd4f4a1f/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 350.000e (supera maximo)."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-ibaigane/las-arenas/getxo/c4905973-8bed-472d-9b72-010f248bcd3f/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-07",
+    "nota": "NO cumple: 312.074e, solo 1 habitacion."
   }
 ]
