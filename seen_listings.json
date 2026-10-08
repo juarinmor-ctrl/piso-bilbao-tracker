@@ -3620,5 +3620,424 @@
     "zona": "Las Arenas, Getxo",
     "first_seen": "2026-10-07",
     "nota": "NO cumple: 312.074e, solo 1 habitacion."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-ansio-de-83-m2-con-3-dormitorios-bano-y-balcon-ref-1005-239425/",
+    "portal": "Bengolea",
+    "zona": "Ansio, Barakaldo",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/extremadura-kalea/arteagabeitia-retuerto-kareaga/barakaldo/a7b1d4ed-29d5-434a-901e-52ab1a9cc853/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato valido; fecha de publicacion no verificable en el portal."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/san-vicente-kalea/bagatza-san-vicente/barakaldo/420c2098-93f8-4cb1-9dda-dd56e4c582f6/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato valido; fecha de publicacion no verificable en el portal."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/arteagabeitia-retuerto-kareaga/barakaldo/55c0a3cb-0998-4efc-a0d8-542f19b09c43/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato valido; fecha de publicacion no verificable en el portal."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/gaudi-kalea/arteagabeitia-retuerto-kareaga/barakaldo/aa3f4852-4836-42dd-993b-37a28fde3874/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato con reservas: planta 11 inusual para la zona, necesita reforma, certificado energetico F/F. Fecha no verificable."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/4f6e0a5b-c3c1-4f35-9e2b-0d7132fc6b62/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato valido; fecha de publicacion no verificable en el portal."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor/187614126/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato con reservas: precio ya bajado 26.000e, probablemente no publicado en las ultimas 48h. Fecha no verificable."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/5d0ae46e-b984-4231-969c-40a8293f4cf8/d",
+    "portal": "Habitaclia",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato con reservas: precio ya bajado 26.000e, probablemente no publicado en las ultimas 48h. Fecha no verificable."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i29749000001712.htm?f=astrabudua&st=1,2,4,7,9,11,13,14&geo=p&from=list&lo=55",
+    "portal": "Habitaclia (EN)",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato con reservas: precio ya bajado 26.000e, probablemente no publicado en las ultimas 48h. Fecha no verificable."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-amaia/lamiako-txopoeta/leioa/8ceacde3-dd56-4fa4-a548-8e0099f9088d/d",
+    "portal": "Habitaclia",
+    "zona": "Lamiako-Txopoeta, Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "Candidato valido; fecha de publicacion no verificable en el portal."
+  },
+  {
+    "url": "https://es.m2bomber.com/obj/1405358936/view/flat-sell/vizcaya-810-349034/piso-en-venta-en-plaza-celestino-mara-del-arenal-2",
+    "portal": "M2Bomber",
+    "zona": "Ibarrekolanda, Deusto, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 410.000e, supera el maximo (resto de criterios los cumpliria)."
+  },
+  {
+    "url": "https://es.m2bomber.com/obj/1401103751/view/flat-sell/vizcaya-810-349034/piso-en-venta-en-agirre-lehendakariaren-etorbidea",
+    "portal": "M2Bomber",
+    "zona": "Ibarrekolanda, Deusto, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 339.000e, supera maximo; publicado 13-sep (no reciente)."
+  },
+  {
+    "url": "https://es.m2bomber.com/obj/1401103221/view/flat-sell/vizcaya-810-349034/piso-en-venta-en-calle-mediterraneo-itsasoaren",
+    "portal": "M2Bomber",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 356.000e, supera maximo; publicado 13-sep (no reciente)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/juand-e-garay/ibaiondo/bilbao/385f33e6-d95e-4861-b103-665de4d4135c/d",
+    "portal": "Habitaclia",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple con certeza: metro a ~16 min andando (supera limite 10-15 min); fecha no verificable."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-parking-box-room-lift/189918903/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 747.000e, muy por encima del maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41570025",
+    "portal": "Trovimap",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: solo 2 habitaciones (minimo 3) y 459.000e supera maximo."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/luminosa-vivienda-de-3-hab-a-2-min-del-metro-para-entrar-a-vivir-junto-al-centro-camarote/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: no menciona balcon/terraza."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/oportunidad-en-arteagabeitia-calle-economia-local-polivalente-de-186-m%c2%b2-oficina-almacen-con-vestuario-con-rampa-para-vehiculos-exterior-9-m-lineales-de-fachada/",
+    "portal": "Inmobiliaria Quorum Barakaldo",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: es un local comercial/oficina, no un piso."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41627721",
+    "portal": "Trovimap",
+    "zona": "Max Center, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: sin mencion de terraza/balcon. Anomalia: precio muy bajo (124.500e, 1.617e/m2) para la zona."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41626395",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 459.900e, supera el maximo."
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-herriko-plaza-boulevard-de-110-m2-con-3-dormitorios-2-banos-plaza-de-garaje-trastero-y-balcon-ref-1010-238788/",
+    "portal": "Bengolea",
+    "zona": "Herriko Plaza, Barakaldo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 570.000e, supera ampliamente el maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39487379",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 399.000e (calle Lekueder, Erandio), supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/481790-38798937",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: mismo inmueble que 382244-39487379, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/496664-38803938",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: mismo inmueble que 382244-39487379, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41464536",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: es una casa independiente (449m2), no piso; 1.480.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-40966335",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 450.000e (Neguri, Leioa), supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/483919-40240790",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 372.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41352302",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 430.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41102024",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: datos inconsistentes entre listado y ficha (posible anomalia), ademas supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535028-40661840",
+    "portal": "Trovimap",
+    "zona": "Erandio/Leioa",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: datos inconsistentes entre listado y ficha (posible anomalia)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-41617179",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 1.395.000e, 4 hab, posible gran lujo/chalet."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41581429",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 575.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41462310",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 625.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41113423",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 549.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41279415",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 380.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-40137951",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: es vivienda adosada (no piso) y 495.000e supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41203594",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 349.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-40119236",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 1.250.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-40412092",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 750.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39720283",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 1.250.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-39535353",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: parece chalet/casa (552m2) y 1.300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-41487250",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 360.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/509808-38423418",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 1.790.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-28479316",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: es una casa, 1.300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/478753-37140612",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 1.250.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-41427379",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 650.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-40396058",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 620.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/515561-41485333",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 440.000e, supera maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/482781-41321961",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 419.500e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-40237934",
+    "portal": "Trovimap",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 710.000e, supera maximo."
+  },
+  {
+    "url": "https://www.inmogetxo.com/piso-en-venta-en-neguri-neguri-de-100-m2-con-3-dormitorios-2-banos-plaza-de-garaje-y-trastero-ref-neguri-135-239024/",
+    "portal": "Inmogetxo (Getxo XXI)",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 540.000e, supera maximo."
+  },
+  {
+    "url": "https://www.inmogetxo.com/piso-en-venta-en-neguri-neguri-de-65-m2-con-2-dormitorios-y-bano-ref-neguri-133-238925/",
+    "portal": "Inmogetxo (Getxo XXI)",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 385.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.inmogetxo.com/piso-en-venta-en-las-arenas-santa-ana-de-100-m2-con-3-dormitorios-2-banos-trastero-y-terraza-ref-las-arenas-213-238887/",
+    "portal": "Inmogetxo (Getxo XXI)",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 525.000e, supera maximo."
+  },
+  {
+    "url": "https://www.inmogetxo.com/atico-en-venta-en-las-arenas-santa-ana-de-107-m2-con-3-dormitorios-bano-y-balcon-ref-las-arenas-209-238199/",
+    "portal": "Inmogetxo (Getxo XXI)",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 465.000e, supera maximo."
+  },
+  {
+    "url": "https://www.inmogetxo.com/piso-en-venta-en-las-arenas-muelle-de-220-m2-con-4-dormitorios-3-banos-terraza-trastero-y-garaje-ref-las-arenas-448-134924/",
+    "portal": "Inmogetxo (Getxo XXI)",
+    "zona": "Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 950.000e, precio muy superior."
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/piso-en-venta-en-getxo-amezti-de-90-m2-con-3-dormitorios-bano-aseo-y-terraza-ref-al2835-238310/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Amezti, Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 380.000e, supera maximo."
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/piso-en-venta-en-getxo-avda-basagoiti-de-123-m2-con-3-dormitorios-bano-y-balcon-ref-al1776-a-141447/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Avda. Basagoiti, Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 395.000e, supera maximo."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/los-puentes-kalea-21/las-arenas/getxo/4c784d02-c1cc-4d4a-8f68-c570b207e9a2/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: precio OK (298.000e) pero solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/las-arenas/getxo/4c840b5d-3fc0-47dc-8562-9c23320a2ee7/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 765.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/calle-del-puerto-de-orduna/santa-maria-de-getxo/getxo/a1e7fbca-17cf-403b-85c6-3b0ecc8b28d7/d",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo",
+    "first_seen": "2026-10-08",
+    "nota": "NO cumple: 380.000e y solo 2 habitaciones."
   }
 ]
