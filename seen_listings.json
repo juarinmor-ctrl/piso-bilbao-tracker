@@ -4039,5 +4039,54 @@
     "zona": "Santa Maria de Getxo",
     "first_seen": "2026-10-08",
     "nota": "NO cumple: 380.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion/190165470/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: solo 2 habitaciones (minimo 3) y el anuncio indica mas de 3 meses publicado, no es un anuncio reciente. 202.000e, 60m2."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-terraza-ascensor-amueblado/188554931/d",
+    "portal": "Fotocasa",
+    "zona": "Sarrikobaso, Algorta, Getxo",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 390.000e, por encima del maximo de 300.000e. 108m2, 3 hab, terraza, cerca de metro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/parking-terraza-ascensor-amueblado/186844332/d",
+    "portal": "Fotocasa",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 399.000e, por encima del maximo de 300.000e. Ademas el anuncio esta marcado como Ocupado y dice que no se puede visitar (anomalo)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor-amueblado/190353212/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 389.000e (supera 300.000e maximo) y no se menciona balcon/terraza. 114m2, 4 hab, 2 banos."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/vivienda-con-espectacular-terraza-en-romo/",
+    "portal": "Inmobiliaria Quorum",
+    "zona": "Las Arenas / Romo, Getxo",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 400.000e, por encima del maximo de 300.000e. 117m2, 3 hab, 1 bano, terraza."
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/tres-habitaciones-y-dos-banos-en-ronda-resurrecion-maria-de-azkue/",
+    "portal": "Inmobiliaria Quorum",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 335.000e, por encima del maximo de 300.000e. 84m2, 3 hab, 2 banos."
+  },
+  {
+    "url": "https://www.indomio.es/it/anuncios/101191903/",
+    "portal": "Indomio (anunciante: Inmobiliaria Zarate)",
+    "zona": "Gernika/Miribilla, Bilbao",
+    "first_seen": "2026-10-09",
+    "nota": "NO cumple: 520.000e, muy por encima del maximo de 300.000e. 107m2, 3 hab, 2 banos, terraza con vistas."
   }
 ]
