@@ -4109,5 +4109,75 @@
     "zona": "Deusto (Agirre Lehendakariaren Etorbidea), Bilbao",
     "first_seen": "2026-10-10",
     "nota": "NO cumple: mismo patron fraudulento ya registrado varias veces (283.975e, 122m2, 5 hab, 2 banos, planta baja, SIN POSESION/subasta judicial ROQUETA INVESTMENT, no visitable). Nueva URL/ID para el mismo inmueble. No menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/el-castanal-kalea/rontegui-pormetxeta/barakaldo/0bd45bc1-b412-4d4d-93a7-772e5e2caa21/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta (El Castañal Kalea), Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple 24-48h: 289.000e, 76m2, 3 hab, 2 banos, 1a planta, ascensor a cota cero, balcon privado en dormitorio principal (cumpliria el resto de criterios), ano construccion 2003, trastero 15m2, ref LCBI42273 (La Casa Agency). Confirmado via lacasa.net/inmueble/LCBI42273: fecha de publicacion 10/04/2026 (hace 6 meses), no reciente. No se menciona distancia a metro. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.lacasa.net/inmueble/LCBI42273",
+    "portal": "La Casa Agency (Punto Valencia Inmuebles)",
+    "zona": "Rontegui-Pormetxeta (El Castañal Kalea), Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "Mismo inmueble que el registro anterior (habitaclia 0bd45bc1). Fecha de publicacion confirmada en la ficha: 10/04/2026. No cumple ventana 24-48h."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/bagatza-san-vicente/barakaldo/aeef7996-1bc8-491e-a595-d9c040fb7c79/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 290.000e, 67m2, 3 hab, 1 bano, 2a planta, ascensor si, totalmente exterior, PERO no menciona balcon ni terraza explicitamente. Sin fecha de publicacion verificable. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/calle-landaburu/rontegui-pormetxeta/barakaldo/af908f1f-e984-4279-b133-52c5d8c67a9c/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta (Calle Landaburu), Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 179.000e, 60m2, 3 hab, 1 bano, 3a planta, no menciona ascensor ni balcon/terraza. Sin fecha de publicacion verificable. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/47cd6181-03b8-489e-985a-718b208b7b47/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: precio a consultar, 70m2, solo 2 habitaciones (minimo 3), 1 bano, 5a planta SIN ascensor. Tiene balcon/terraza (salon con balcon) pero falla por numero de habitaciones. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/arteagabeitia-retuerto-kareaga/barakaldo/849e0c6d-c458-40ae-a5b3-60fef59a9fbe/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 271.742e, 73m2, 3 hab, 1 bano, 4a planta (ultima), ascensor en instalacion (aun no operativo), metro a 3 min andando (cumple), construido 1907, PERO no menciona balcon/terraza. Sin fecha de publicacion verificable. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/bdo-00008/",
+    "portal": "Chomon",
+    "zona": "Santa Teresa (Gabriel Aresti Kalea), Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 204.990e, 77m2, 3 hab, 1 bano, 5a planta SIN ascensor, construido 1949. No menciona balcon/terraza. Sin fecha de publicacion verificable (rutas de imagenes con '2026/10' no son fecha fiable del anuncio). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/art-00108/",
+    "portal": "Chomon",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 280.000e, 74m2, 3 hab, 1 bano, ascensor a cota cero si. No menciona balcon/terraza. Direccion inconsistente entre titulo (Granados Kalea) y descripcion (Ronda Azkue). Sin fecha de publicacion verificable. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1365/",
+    "portal": "Chomon",
+    "zona": "Altzaga, Erandio",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 225.000e, 70m2, solo 2 habitaciones (minimo 3), 1 bano. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/homes/area/calle-negubide-getxo/l",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas (Calle Negubide), Getxo",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple 24-48h: piso 120m2, 4 hab, 2 banos, 5a planta, ascensor nuevo, terraza con vistas al Puente Colgante, trastero. Publicado hace 37 dias. Precio no confirmado (probablemente alto dado el barrio). Se registra para no re-evaluarlo."
   }
 ]
