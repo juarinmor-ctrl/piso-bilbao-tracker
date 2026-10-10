@@ -4088,5 +4088,26 @@
     "zona": "Gernika/Miribilla, Bilbao",
     "first_seen": "2026-10-09",
     "nota": "NO cumple: 520.000e, muy por encima del maximo de 300.000e. 107m2, 3 hab, 2 banos, terraza con vistas."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-jardin-trastero-amueblado/191066699/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio - Elorrieta, Bilbao",
+    "first_seen": "2026-10-10",
+    "nota": "VALIDO - reportado en ejecucion 2026-10-10. 258.500e, 64m2 utiles (ficha tambien muestra 81m2 sin aclarar), 3 hab, 1 bano, 3a planta SIN ascensor, salon con balcon, particular. Publicado ayer (09/10/2026). El propio anuncio dice estar a 2 min de metro y autobus (cerca de San Ignacio). Anomalia menor: superficie util/construida contradictoria en la ficha y sin direccion exacta."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/orixe-kalea/deusto/bilbao/e36a62bb-6bea-4d2e-8c01-9b887e683cb8/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta (Orixe Kalea), Bilbao",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: 215.000e, 50m2, SOLO 2 dormitorios reales (salon+2 hab+cocina+bano segun descripcion, aunque la ficha dice \"3 rooms\"), 1 bano, 2a planta con ascensor. No menciona balcon/terraza. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/agirre-lehendakariaren-etorbidea/deusto/bilbao/1a4e1504-d43a-4905-b3a8-1290e61cc0df/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Agirre Lehendakariaren Etorbidea), Bilbao",
+    "first_seen": "2026-10-10",
+    "nota": "NO cumple: mismo patron fraudulento ya registrado varias veces (283.975e, 122m2, 5 hab, 2 banos, planta baja, SIN POSESION/subasta judicial ROQUETA INVESTMENT, no visitable). Nueva URL/ID para el mismo inmueble. No menciona balcon/terraza. Se registra para no re-evaluarlo."
   }
 ]
