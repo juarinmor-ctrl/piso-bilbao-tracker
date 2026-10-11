@@ -4179,5 +4179,432 @@
     "zona": "Las Arenas (Calle Negubide), Getxo",
     "first_seen": "2026-10-10",
     "nota": "NO cumple 24-48h: piso 120m2, 4 hab, 2 banos, 5a planta, ascensor nuevo, terraza con vistas al Puente Colgante, trastero. Publicado hace 37 dias. Precio no confirmado (probablemente alto dado el barrio). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-enekuri/deusto/bilbao/9112dfd6-9186-425b-8215-2dc4318c9032/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Avenida Enekuri), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 320.000€, por encima del máximo de 300.000€. Muy cerca del límite, vigilar si baja de precio. [Precio: 320000€, m2: 68, hab: 3, banos: 1, planta: 3ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/zarandoa-etorbidea/deusto/bilbao/2ba7e810-6079-4540-af29-fde8ff76b71b/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Zarandoa Etorbidea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 747.000€, muy por encima del máximo de 300.000€. [Precio: 747000€, m2: 122, hab: 3, banos: 3, planta: 9ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-general-eraso/deusto/bilbao/4493f792-6e65-47b1-ba36-2ef530e03fd0/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Calle General Eraso), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 510.000€, muy por encima del máximo de 300.000€. [Precio: 510000€, m2: 118, hab: 3, banos: 2, planta: 4ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/madariaga-etorbidea/deusto/bilbao/c890d3ef-70c7-47b6-9bec-5521666c9f7e/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Madariaga Etorbidea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 395.000€, por encima del máximo de 300.000€. [Precio: 395000€, m2: 70, hab: 3, banos: 1, planta: 4ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/agirre-lehendakariaren-etorbidea/deusto/bilbao/e00bf463-6c37-4fb3-8abd-fd881c079bfb/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Agirre Lehendakariaren Etorbidea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 490.000€, por encima del máximo de 300.000€. [Precio: 490000€, m2: 90, hab: 3, banos: 1, planta: 2ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/saratsate-musikariaren-kalea/deusto/bilbao/220e3765-a630-45e8-8ed7-21fceba54275/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Saratsate Musikariaren Kalea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 420.000€, por encima del máximo. Mismo inmueble publicado con varios IDs distintos por diferentes agencias. ANOMALIA: Publicación duplicada del mismo piso con múltiples IDs/agencias [Precio: 420000€, m2: 81, hab: 3, banos: 2, planta: 4ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/agirre-lehendakariaren-etorbidea/deusto/bilbao/3cf41ca5-f111-4707-8f27-da1fc01506d7/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Agirre Lehendakariaren Etorbidea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 475.000€, por encima del máximo de 300.000€. [Precio: 475000€, m2: 105, hab: 4, banos: 2, planta: 5ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/etxenagusia-margolariaren-kalea/deusto/bilbao/9883bfc8-163d-49d3-ab86-644b5df673d1/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Etxenagusia Margolariaren Kalea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: solo 1 habitación (mínimo requerido 3), aunque el precio sí está dentro de presupuesto. [Precio: 269000€, m2: 75, hab: 1, banos: 1, planta: no especificada, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/juan-de-antxeta-kalea/deusto/bilbao/30d13e7f-3e50-4b98-8c11-a0454822bed5/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Juan de Antxeta Kalea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: solo 2 habitaciones (mínimo requerido 3). [Precio: 245000€, m2: 56, hab: 2, banos: 1, planta: entresuelo/4ª, ascensor: si (mencionado en título), anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/c902e776-02d4-4275-8a87-2258a3358e71/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (dirección genérica), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 529.990€, muy por encima del máximo de 300.000€. [Precio: 529990€, m2: 91, hab: 3, banos: 2, planta: 7ª, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/blas-de-otero-kalea/deusto/bilbao/f21520aa-e4ba-462b-98db-d3c516f62d1a/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Blas de Otero Kalea), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 390.000€, por encima del máximo de 300.000€. [Precio: 390000€, m2: 78, hab: 3, banos: 2, planta: 8ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/camino-de-ugasko/deusto/bilbao/95a56ed4-753d-464e-a449-7835c0000ad6/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Camino de Ugasko), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 625.000€, muy por encima del máximo de 300.000€. [Precio: 625000€, m2: 133, hab: 4, banos: 3, planta: 4ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/a/35f31884-4037-4e74-bfdb-ccf2f442dced",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: no se especifica número de habitaciones (probablemente estudio de 1 hab.), fallando el mínimo de 3. ANOMALIA: Precio muy bajo (95.000€) para Deusto con muy pocos datos (sin m2/habitaciones claros); posible estudio/trastero mal clasificado, revisar con cautela. [Precio: 95000€, m2: 40, hab: None, banos: None, planta: no especificada, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/blas-de-otero-kalea-24/deusto/bilbao/fb5be730-269c-40e3-9cb2-afd45502d49e/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Blas de Otero Kalea 24), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 540.000€, muy por encima del máximo de 300.000€. [Precio: 540000€, m2: 82, hab: 3, banos: 2, planta: 5ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/8ed056a9-7bc6-436c-bba4-2515a5283088/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (dirección genérica), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 377.000€, por encima del máximo de 300.000€. [Precio: 377000€, m2: 99, hab: 3, banos: 1, planta: no especificada, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-monte-elorriaga/deusto/bilbao/f44887ac-8e89-4e51-86a1-ab9e50b1090e/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Calle Monte Elorriaga), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: solo 1 habitación (mínimo requerido 3). [Precio: 240000€, m2: 41, hab: 1, banos: 1, planta: no especificada, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/agirre-lehendakariaren-etorbidea-180/deusto/bilbao/58c6c745-aef4-4b03-9362-ced404b1d214/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (Agirre Lehendakariaren Etorbidea 180), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 359.900€, por encima del máximo de 300.000€. [Precio: 359900€, m2: 93, hab: 4, banos: 1, planta: 1ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/f84817fe-99cd-4b5a-9b87-620264a9bfca/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (dirección genérica), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 315.000€ (bajado 5.000€ recientemente), solo 15.000€ por encima del máximo de 300.000€. El candidato MÁS CERCANO a cumplir todos los criterios; vigilar por si baja más de precio. [Precio: 315000€, m2: 78, hab: 3, banos: 1, planta: 1ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/new-construction/deusto/bilbao/000620db-a4b7-4cdc-a1eb-b05a4f132996/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (obra nueva), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 550.000€ y solo 2 habitaciones. [Precio: 550000€, m2: 89, hab: 2, banos: 2, planta: 6ª, ascensor: si (mencionado en título), anio: obra nueva, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/new-construction/deusto/bilbao/52784949-1049-41b1-b65d-d4b0e6486325/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (obra nueva), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 560.000€, muy por encima del máximo de 300.000€. [Precio: 560000€, m2: 126, hab: 3, banos: 2, planta: 2ª, ascensor: si (mencionado en título), anio: obra nueva, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/dbfb9fef-a72b-4b03-8a54-626de45124c1/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto (dirección genérica), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 370.000€, por encima del máximo de 300.000€. [Precio: 370000€, m2: 110, hab: 3, banos: 1, planta: 2ª, ascensor: no especificado, anio: None, balcon/terraza: si (terraza, mencionado en título: 'Flat with terrace for sale in Deusto')]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avda-lehendakari-aguirre/deusto/bilbao/22a6678b-aa6d-47fd-bb6a-eb573423956e/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto/Ibarrekolanda (Avda Lehendakari Aguirre), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: no se menciona explícitamente balcón o terraza (requisito obligatorio), aunque precio y habitaciones sí cumplirían. Vivienda 'sin posesión' (ocupada, no se puede visitar ni hipotecar), a reformar. Duplicado de la misma unidad ya registrada con otros IDs (patrón fraudulento conocido, subasta judicial Roqueta Investment). ANOMALIA: Vivienda sin posesión/subasta judicial, duplicado con múltiples IDs ya conocido en el registro. [Precio: 283975€, m2: 122, hab: 5, banos: 2, planta: bajo, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avda-lehendakari-aguirre/deusto/bilbao/00830245-23a2-4b04-8b69-fcc734080cb1/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto/Ibarrekolanda (Avda Lehendakari Aguirre), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: igual que el anuncio anterior (misma unidad sin posesión/subasta judicial), sin balcón/terraza explícito. Cuarto ID distinto para el mismo inmueble ya conocido. ANOMALIA: Duplicado exacto de la misma unidad 'sin posesión', republicado con otro ID. [Precio: 283975€, m2: 122, hab: 5, banos: 2, planta: bajo, ascensor: no especificado, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-parking-box-room-lift/191060137/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda (Deusto), Bilbao",
+    "first_seen": "2026-10-11",
+    "nota": "NO cumple: 747.000€, muy por encima del máximo de 300.000€. Publicado hace 2 días (reciente). [Precio: 747000€, m2: 122, hab: 3, banos: 3, planta: 9ª, ascensor: si, anio: None, balcon/terraza: no especificado]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/501025-34700893",
+    "portal": "Trovimap (agregador, agencia Diversum Real Estate, ref. VENTALEIOAMENDIBIL)",
+    "zona": "Leioa, zona Mendibil (dirección exacta no indicada)",
+    "first_seen": "2026-10-11",
+    "nota": "Cumple precio, baño y terraza, pero hay inconsistencia en nº de habitaciones y no se puede verificar la distancia a pie a Metro Leioa/Lamiako desde zona Mendibil. 'Última actualización' es hoy pero el anuncio lleva 352 días en el mercado, por lo que probablemente no es realmente nuevo, solo un recrawl del agregador. ANOMALIA: Discrepancia en habitaciones (2 en listado vs 4 en ficha); fecha de actualización no refleja antigüedad real (352 días en mercado). [Precio: 199000€, m2: 75, hab: 4 (la vista de listado mostraba 2; inconsistencia, ver anomalía), banos: 1, planta: 4, ascensor: no especificado, anio: no indicado, balcon/terraza: sí (terraza y balcón)]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41658879",
+    "portal": "Trovimap (agencia TodoPisos)",
+    "zona": "Erandio, Altzaga (cerca Fundación Jado)",
+    "first_seen": "2026-10-11",
+    "nota": "Marcado 'Nuevo', actualizado ayer (10 oct), 1 día en mercado - parece genuinamente reciente. Zona Altzaga está junto a la estación de Metro Bilbao 'Erandio'. Pero el nº de habitaciones es contradictorio/no fiable y no tiene ascensor. ANOMALIA: Número de habitaciones inconsistente entre resumen y descripción del anuncio. [Precio: 210000€, m2: 63, hab: ambiguo: descripción detalla 2 dormitorios, resumen muestra otro número, banos: 1, planta: 3, ascensor: no, anio: no indicado, balcon/terraza: sí (dos balcones pequeños)]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i33069000000513.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio, Astrabudua",
+    "first_seen": "2026-10-11",
+    "nota": "Cumple precio, habitaciones, baño, ascensor y balcón. Falla porque Astrabudua NO tiene parada de Metro Bilbao (solo Euskotren/Renfe); la estación más cercana (Lutxana o Erandio/Altzaga) probablemente está a más de 15 min a pie. Fecha de publicación no indicada en la página. [Precio: 245000€, m2: 93, hab: 3, banos: 1, planta: 2, ascensor: sí, anio: 1970, balcon/terraza: sí (balcón en salón)]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i29796000012979.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Supera el presupuesto máximo (399.000€). Actualizado hace 3 días. Terraza/balcón no confirmado. [Precio: 399000€, m2: 113, hab: 3, banos: 2, planta: 2, ascensor: probable (descripción cortada), anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i31051000002507.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Solo 2 habitaciones (mínimo requerido 3). Terraza/balcón no mencionado. [Precio: 234900€, m2: 65, hab: 2, banos: 1, planta: no indicado, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i23252000005574.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Mismos datos que i31051000002507 (posible mismo inmueble re-listado). Solo 2 habitaciones. Actualizado hace 11 días. ANOMALIA: Precio y m2 idénticos a i31051000002507 - probable duplicado del mismo inmueble. [Precio: 234900€, m2: 65, hab: 2, banos: 1, planta: no indicado, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i30633000010605.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (399.000€). Datos casi idénticos a i29796000012979 - posible duplicado anunciado por otra agencia. Actualizado hace 3 días. ANOMALIA: Datos idénticos a i29796000012979 (mismo precio/m2) - posible duplicado. [Precio: 399000€, m2: 113, hab: 3, banos: 2, planta: 2, ascensor: probable, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-penthouse-in-erandio-i47617000000701.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Solo 2 habitaciones. Terraza/balcón no confirmado a pesar de ser ático. [Precio: 150000€, m2: 70, hab: 2, banos: 1, planta: ático, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i24308000047956.htm",
+    "portal": "Habitaclia (agencia IKESA)",
+    "zona": "Erandio (dirección aproximada, menciones confusas a 'Elorrio' en pies de foto)",
+    "first_seen": "2026-10-11",
+    "nota": "Venta por cesión de remate de subasta judicial finalizada: sin posesión, no visitable, no hipotecable, estado de ocupación desconocido. No es una compraventa estándar. Sin balcón/terraza confirmado. ANOMALIA: Venta atípica por subasta judicial (cesión de remate), sin posesión ni acceso al interior; datos de m2 contradictorios entre cabecera y descripción. [Precio: 219870€, m2: 116 (cabecera) / 93 (descripción), hab: 3, banos: 1, planta: 1, ascensor: sí, anio: 1955, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-geltokia_hiribidea_3-erandio-i55417000000020.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio, Geltokia Hiribidea 3",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (370.000€, con bajada de 28.000€ reciente). [Precio: 370000€, m2: 90, hab: 3, banos: 2, planta: no indicado, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-ibarra_kalea_2-erandio-i54389000000054.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio, Ibarra Kalea 2, junto a plaza del ayuntamiento",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (350.000€) y no se confirma balcón/terraza. [Precio: 350000€, m2: 85, hab: 3 ('habitaciones' según listado, no confirma si todas son dormitorios), banos: 2, planta: 4, ascensor: sí, anio: no indicado, balcon/terraza: no indicado (solo menciona un camarote con ventana)]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-jose_luis_goioaga_etorbidea_18-erandio-i55417000000021.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio, Jose Luis Goioaga Etorbidea 18",
+    "first_seen": "2026-10-11",
+    "nota": "Cumple precio, baños y terraza/balcón, pero solo tiene 2 habitaciones (mínimo requerido 3). El más cercano a cumplir de este grupo salvo por esto. [Precio: 298000€, m2: 100, hab: 2, banos: 2, planta: no indicado, ascensor: no indicado, anio: no indicado, balcon/terraza: sí (balcón y terraza)]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-san_agustin_1dup-erandio-i55417000000022.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio, San Agustín Plaza 1",
+    "first_seen": "2026-10-11",
+    "nota": "Cumple precio, habitaciones, baño y ascensor, pero no se menciona balcón/terraza en la ficha (cocina y baño nuevos). Actualizado hace 5 días. [Precio: 280000€, m2: no indicado, hab: 3, banos: 1, planta: 4, ascensor: sí, anio: 1970, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i54389000000041.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Solo 2 habitaciones; necesita reforma integral. [Precio: 117000€, m2: 67, hab: 2, banos: 1, planta: ático, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/duplex-apartment/aldekoena-artatzagana-sarriena/leioa/cae74835-44f3-4858-b5cb-b49da4725c83/d",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Aldekoena-Artatzagana-Sarriena",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (380.700€). Tiene jardín pero no balcón/terraza mencionado explícitamente. [Precio: 380700€, m2: 115, hab: 3, banos: 2, planta: 1, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado explícitamente (menciona jardín)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-sabino-arana-etorbidea-88/centro-urbano-hirigunea/leioa/9587b685-658f-4b24-95bb-e0dcd5c724f4/d",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Centro Urbano-Hirigunea, Avenida Sabino Arana 88",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (440.000€). Pese a ello está en el centro urbano de Leioa, probablemente cerca de la estación de Metro Leioa. [Precio: 440000€, m2: 98, hab: 3, banos: 2, planta: no indicado, ascensor: sí, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/artatza-kalea-24/negurigane-peruri/leioa/f6f2134a-b93d-475f-b836-008df25b2cf6/d",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Negurigane-Peruri, Artatza Kalea 24",
+    "first_seen": "2026-10-11",
+    "nota": "Supera ampliamente presupuesto (525.000€). Zona Artatza es colina alejada de las estaciones de metro. [Precio: 525000€, m2: 130, hab: 3, banos: 2, planta: 2, ascensor: sí, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/penthouse/negurigane-peruri/leioa/081ff10f-6507-452d-88ab-0f8d53a6026a/d",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Negurigane-Peruri",
+    "first_seen": "2026-10-11",
+    "nota": "Supera ampliamente presupuesto (780.000€). [Precio: 780000€, m2: 120, hab: 3, banos: 2, planta: 3, ascensor: sí, anio: no indicado, balcon/terraza: no indicado (ático, probable terraza no confirmada en texto)]"
+  },
+  {
+    "url": "https://www.habitaclia.com/a/24f76396-8e15-4d5a-86fa-33c51d54aff4",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Artatza-Pinueta-Pinosolo",
+    "first_seen": "2026-10-11",
+    "nota": "Solo 1 habitación (mínimo requerido 3). [Precio: 250000€, m2: 50, hab: 1, banos: 1, planta: bajo, ascensor: sí, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://www.habitaclia.com/a/54acaa2d-1b12-4ca2-b6d5-529f146e9b88",
+    "portal": "Habitaclia",
+    "zona": "Leioa, Aldekoena-Artatzagana-Sarriena",
+    "first_seen": "2026-10-11",
+    "nota": "Supera presupuesto (380.000€). [Precio: 380000€, m2: 110, hab: 3, banos: 2, planta: 3, ascensor: sí, anio: no indicado, balcon/terraza: no indicado]"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-parking-ascensor/191073395/d",
+    "portal": "Fotocasa",
+    "zona": "Leioa, Negurigane-Peruri",
+    "first_seen": "2026-10-11",
+    "nota": "Publicado 'ayer' - parece reciente. Tiene terraza/jardín, pero supera ampliamente el presupuesto y solo tiene 2 habitaciones. [Precio: 525000€, m2: 100, hab: 2, banos: 3, planta: bajos (dúplex), ascensor: no indicado, anio: no indicado, balcon/terraza: sí (terraza con jardín privado)]"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-jardin-terraza-trastero-amueblado/191064026/d",
+    "portal": "Fotocasa (agencia Inmobiliaria Campuzano)",
+    "zona": "Erandio (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Publicado hace 2 días - reciente, pero es un chalet/casa unifamiliar de 500m² en parcela de 2.600m², excluido por tipo de vivienda (no es piso/apartamento), y además excede muy ampliamente el presupuesto. [Precio: 750000€, m2: 500, hab: 5, banos: 3, planta: no aplica (vivienda unifamiliar), ascensor: no aplica, anio: no indicado, balcon/terraza: sí (jardín y terraza)]"
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/duplex-en-el-parque-de-artaza/",
+    "portal": "Inmobiliaria Quorum (oficina Getxo)",
+    "zona": "Leioa, Artatza-Pinueta-Pinosolo (Parque de Artaza)",
+    "first_seen": "2026-10-11",
+    "nota": "Supera enormemente el presupuesto (850.000€). Dúplex de gama alta. [Precio: 850000€, m2: 240, hab: no indicado, banos: 3, planta: no indicado, ascensor: no indicado, anio: no indicado, balcon/terraza: no indicado (menciona vistas al parque)]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507219-41654638",
+    "portal": "Trovimap (agencia IC2 Gestión Inmobiliaria)",
+    "zona": "Bidezabal, Algorta, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de actualización 11 oct 2026, 3 días en el mercado (fecha verificable, dentro de ventana ampliada). Incumple por precio (360.000€ > 300.000€ límite) y por ambigüedad en nº de habitaciones. ANOMALIA: Discrepancia entre nº de habitaciones mostrado en cabecera (4) y en descripción (2, 'originalmente 3') [Precio: 360000€, m2: 80 (anuncio) / 85 (descripción, construidos), hab: Anómalo: cabecera muestra 4, descripción dice 2 (y menciona 'originalmente 3'), banos: 1, planta: No indicada, ascensor: No especificado, anio: No especificado, balcon/terraza: Sí (terraza cerrada)]"
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-san-vicente-de-58-m2-con-2-dormitorios-y-bano-ref-1003-239254/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable (solo 'día 10' sin mes/año en la web). Incumple por tener solo 2 habitaciones y no mencionar balcón/terraza. [Precio: 165000€, m2: 58, hab: 2, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/piso-en-venta-en-barakaldo-bagatza-santa-teresa-de-65-m2-con-2-dormitorios-y-bano-ref-1007-238900/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Bagatza-Santa Teresa, Barakaldo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable (solo 'día 22' sin mes/año). Incumple por tener solo 2 habitaciones. [Precio: 250000€, m2: 65, hab: 2, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado en título]"
+  },
+  {
+    "url": "https://www.bengolea.com/inmueble/local-en-venta-en-barakaldo-centrico-de-665-m2-con-2-banos-ref-027-229635/",
+    "portal": "Bengolea (inmobiliaria local)",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-11",
+    "nota": "No es un piso/apartamento residencial, es un local comercial. Descartado por tipo de inmueble además de precio y habitaciones. [Precio: 1150000€, m2: 665, hab: 0, banos: 2, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://chomon.net/inmueble/gtx-00038/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Calle San Martín, Algorta, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable (no se muestra en la página). Incumple por precio (355.000€, más comisión de agencia de 10.000€+IVA a cargo del comprador) y por tener 2 habitaciones (aunque la planta baja podría convertirse en dormitorio adicional, no se cuenta como tal en el anuncio); no se menciona balcón/terraza. ANOMALIA: Comisión de agencia adicional de 10.000€+IVA no incluida en el precio anunciado [Precio: 355000€, m2: 55 (planta principal) / >125 total (multinivel, incluye planta baja de 70m2), hab: 2, banos: 2, planta: No especificado (vivienda multinivel), ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.inmobiliariaquorum.com/property/atico-de-4-habitaciones-con-garaje-y-trastero/",
+    "portal": "Inmobiliaria Quorum",
+    "zona": "Burtzeña, Barakaldo (48903)",
+    "first_seen": "2026-10-11",
+    "nota": "El anuncio mismo indica ~7 min a pie del metro y del Hospital de Cruces, y 5 min de la estación de Lutxana (RENFE). Cumple habitaciones, baños, terraza y cercanía a metro; incumple SOLO por precio (439.000€ > 300.000€). Fecha de publicación no verificable. [Precio: 439000€, m2: 170 (anuncio) / ~160 útiles, hab: 4, banos: 2, planta: Ático (planta no numerada), ascensor: Sí (llega a cota cero), anio: 2001, balcon/terraza: Sí (dos terrazas: una desde salón/dormitorio, otra desde cocina)]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-getxo-fadura-de-95-m2-con-2-dormitorios-2-banos-plaza-de-garaje-y-terraza-ref-al2832-237860/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Fadura, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable. Incumple por precio y por tener solo 2 habitaciones. [Precio: 549000€, m2: 95, hab: 2, banos: 2, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: Sí (terraza, además plaza de garaje)]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-getxo-bidezabal-de-100-m2-con-3-dormitorios-2-banos-plaza-de-garaje-y-trastero-ref-al2830-237478/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Bidezabal, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable. Cumple habitaciones/baños pero incumple ampliamente por precio (695.000€) y no se confirma terraza/balcón. [Precio: 695000€, m2: 100, hab: 3, banos: 2, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-getxo-telletxe-de-76-m2-con-2-dormitorios-bano-y-trastero-ref-al2802-233779/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Telletxe, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable. Incumple por precio (320.000€, justo por encima del límite) y por tener solo 2 habitaciones; no se menciona balcón/terraza. [Precio: 320000€, m2: 76, hab: 2, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado (solo trastero)]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/duplex-en-venta-en-getxo-iturgitxi-de-86-m2-con-3-dormitorios-bano-aseo-plaza-de-garaje-y-terraza-ref-al2842-239144/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Iturgitxi, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Es un dúplex, no un piso convencional de una sola planta (tipo ambiguo respecto a criterios, aunque no es chalet/adosado). Incumple de todos modos por precio (575.000€). Fecha de publicación no verificable. [Precio: 575000€, m2: 86, hab: 3, banos: 1 + aseo, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: Sí (terraza, además plaza de garaje)]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/duplex-en-venta-en-getxo-de-95-m2-con-3-dormitorios-y-2-banos-ref-al2839-239028/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Getxo (barrio no especificado)",
+    "first_seen": "2026-10-11",
+    "nota": "Dúplex. Incumple por precio (420.000€) y no se confirma terraza/balcón. Fecha de publicación no verificable. [Precio: 420000€, m2: 95, hab: 3, banos: 2, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/piso-en-venta-en-romo-viviendas-de-vizcaya-de-80-m2-con-2-dormitorios-2-banos-y-trastero-ref-la4-235927/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Romo, Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "Fecha de publicación no verificable. Incumple por precio y por tener solo 2 habitaciones. [Precio: 398000€, m2: 80, hab: 2, banos: 2, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/garaje-en-venta-en-algorta-los-chopos-ref-al2844-239415/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Algorta (Los Chopos), Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "No es un piso, es una plaza de garaje. Descartado por tipo. [Precio: 38000€, m2: No especificado, hab: N/A, banos: N/A, planta: No especificado, ascensor: N/A, anio: No especificado, balcon/terraza: N/A]"
+  },
+  {
+    "url": "https://www.inmobiliariagalea.com/inmueble/local-en-venta-en-algorta-villamonte-de-38-m2-con-aseo-ref-al2815-235845/",
+    "portal": "Inmobiliaria Galea",
+    "zona": "Algorta (Villamonte), Getxo",
+    "first_seen": "2026-10-11",
+    "nota": "No es un piso, es un local comercial. Descartado por tipo. [Precio: 98000€, m2: 38, hab: N/A, banos: 0 (solo aseo), planta: No especificado, ascensor: N/A, anio: No especificado, balcon/terraza: N/A]"
   }
 ]
