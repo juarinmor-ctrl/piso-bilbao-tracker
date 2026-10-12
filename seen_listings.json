@@ -4606,5 +4606,33 @@
     "zona": "Algorta (Villamonte), Getxo",
     "first_seen": "2026-10-11",
     "nota": "No es un piso, es un local comercial. Descartado por tipo. [Precio: 98000€, m2: 38, hab: N/A, banos: 0 (solo aseo), planta: No especificado, ascensor: N/A, anio: No especificado, balcon/terraza: N/A]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507453-41076443",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-12",
+    "nota": "Datos ambiguos en la ficha (campos hab/banos sin etiquetar, muestran 4 y 1 sin aclarar cual es cual). Balcon/terraza no mencionado. Actualizado hoy pero el inmueble lleva 101 dias en el mercado (no es publicacion nueva en ventana 24-48h). [Precio: 290000e, m2: 61, hab: 4(sin confirmar), banos: 1(sin confirmar), planta: 2, ascensor: si, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507453-40642859",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-12",
+    "nota": "Datos solo de snippet de listado agregado, no se abrio la ficha individual: faltan planta, ascensor, balcon/terraza y fecha de publicacion verificada. [Precio: 250000e, m2: 80, hab: 3, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507453-41133612",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-12",
+    "nota": "Datos solo de snippet de listado agregado, no se abrio la ficha individual: faltan planta, ascensor, balcon/terraza y fecha de publicacion verificada. [Precio: 228000e, m2: 63, hab: 3, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/507453-40825992",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-12",
+    "nota": "Datos solo de snippet de listado agregado, no se abrio la ficha individual: faltan planta, ascensor, balcon/terraza y fecha de publicacion verificada. [Precio: 240000e, m2: 62, hab: 3, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
   }
 ]
