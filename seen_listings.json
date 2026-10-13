@@ -4634,5 +4634,33 @@
     "zona": "Barakaldo",
     "first_seen": "2026-10-12",
     "nota": "Datos solo de snippet de listado agregado, no se abrio la ficha individual: faltan planta, ascensor, balcon/terraza y fecha de publicacion verificada. [Precio: 240000e, m2: 62, hab: 3, banos: 1, planta: No especificado, ascensor: No especificado, anio: No especificado, balcon/terraza: No especificado]"
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4289152/",
+    "portal": "Inmobiliaria Central (local)",
+    "zona": "San Ignacio (Pedro Astigarraga Kalea), Bilbao",
+    "first_seen": "2026-10-13",
+    "nota": "Duplex 255000e, 83m2, 3hab/2banos, 3a planta, ascensor si, balcon + terraza en salon, ano 1967, cerca de metro. Cumple TODOS los criterios de fondo, pero la ficha no muestra fecha de publicacion/actualizacion y no se pudo confirmar que sea de las ultimas 24-48h (ref. 1183, distinta de otras refs de la misma agencia ya vistas). Revisar en proximas ejecuciones si se puede confirmar frescura."
+  },
+  {
+    "url": "https://www.inmogetxo.com/inmueble/piso-en-venta-en-algorta-sarriko-de-77-m2-con-3-dormitorios-bano-y-balcon-ref-algorta-507-236318/",
+    "portal": "Inmogetxo",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-13",
+    "nota": "Piso 330000e, 77m2, 3 dormitorios, 1 bano, balcon. Descartado por precio superior al maximo de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41665164",
+    "portal": "Trovimap",
+    "zona": "Romo-Pinueta, Getxo (mal etiquetado como Leioa en el portal)",
+    "first_seen": "2026-10-13",
+    "nota": "Piso 300000e, 80m2, 2 habitaciones, 1 bano, terraza, etiqueta Nuevo en el portal. Descartado por tener solo 2 habitaciones (minimo exigido: 3)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/ramon-y-cajal-kalea/lasesarre/barakaldo/d940a5b7-70fe-4f7c-8f0e-e4437c264289/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-13",
+    "nota": "Piso 245000e, 84m2, 3hab/1bano, 2 balcones, edificio de 1939 a reformar, SIN ascensor (1a planta). Cumple precio/habitaciones/bano/balcon pero sin ascensor, y la ficha no muestra fecha de publicacion/actualizacion verificable (no se pudo confirmar ventana de 24-48h)."
   }
 ]
