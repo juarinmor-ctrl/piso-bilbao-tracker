@@ -4662,5 +4662,131 @@
     "zona": "Lasesarre, Barakaldo",
     "first_seen": "2026-10-13",
     "nota": "Piso 245000e, 84m2, 3hab/1bano, 2 balcones, edificio de 1939 a reformar, SIN ascensor (1a planta). Cumple precio/habitaciones/bano/balcon pero sin ascensor, y la ficha no muestra fecha de publicacion/actualizacion verificable (no se pudo confirmar ventana de 24-48h)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/air-conditioning-heating-parking-lift-furnished/189542838/d",
+    "portal": "Fotocasa",
+    "zona": "Abandoibarra, Bilbao",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 930000e, 95m2, 2 hab/2 banos. Descartado: zona no valida, precio muy por encima de 300.000e, solo 2 habitaciones, sin balcon/terraza mencionado, publicado hace >3 meses."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-parking-box-room-lift/190734979/d",
+    "portal": "Fotocasa",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 540000e, 100m2, 3hab/2banos, planta 3a, ascensor si. Descartado por precio muy superior a 300.000e y sin balcon/terraza explicito; publicado hace 33 dias."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-terrace-lift-furnished/189778441/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 449000e, 107m2, 3hab/2banos, planta 1a. Descartado por precio superior a 300.000e; terraza no confirmada en descripcion; publicado hace 33 dias."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/box-room-lift/189822767/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 210000e, 67m2, 3hab/1bano, planta 1a, terraza de patio, cerca de metro y Hospital de Cruces. Cumple precio/hab/banos/terraza/metro PERO publicado hace mas de 3 meses (fecha verificada, fuera de ventana 24-48h). Revisar si se relaja criterio de fecha."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/heating-parking-terrace-box-room-lift/190290850/d",
+    "portal": "Fotocasa",
+    "zona": "Leioa (atico)",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 530000e, 75m2, 2hab/2banos, planta 5a, terraza grande. Descartado por precio muy superior a 300.000e y solo 2 habitaciones; publicado hace 84 dias."
+  },
+  {
+    "url": "https://www.palaciosycabanas.com/es/ver-propiedades/piso-en-calle-mururuza-de-barakaldo/",
+    "portal": "Palacios y Cabanas",
+    "zona": "Bagatza/Santa Teresa, Barakaldo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 210000e, planta 2a, 1 bano, sin ascensor, construccion 1912. Descartado: no se menciona balcon ni terraza; cercania a metro y fecha de publicacion no confirmadas."
+  },
+  {
+    "url": "https://inmobiliariaelkano.com/encargos/av-pau-casals-2/",
+    "portal": "Inmobiliaria Elkano",
+    "zona": "Otxarkoaga, Bilbao",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 139000e, 58m2, 3hab/1bano. Descartado por zona no valida (Otxarkoaga no es una de las 8 zonas objetivo); sin balcon/terraza; vivienda alquilada actualmente."
+  },
+  {
+    "url": "https://inmobiliariaelkano.com/encargos/zeanuri-calle-ibarreta-plaza-23/",
+    "portal": "Inmobiliaria Elkano",
+    "zona": "Zeanuri (no Bilbao)",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 225000e, 112m2, 3hab/2banos, terraza, construccion 1994. Descartado por zona no valida (Zeanuri, ~30 min de Bilbao); cumpliria el resto de criterios."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-iturriondo/lamiako-txopoeta/leioa/951238a6-9737-4d48-9920-c1898acabf7e/d",
+    "portal": "Habitaclia",
+    "zona": "Lamiako-Txopoeta, Leioa",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 165000e, 62m2, 3hab/1bano, planta 2a, construccion 1943, a 2 min de metro Leioa. Descartado: no menciona balcon/terraza. Vendido con inquilino dentro (contrato hasta oct 2027). Fecha de publicacion no visible."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/deusto/bilbao/19876cb9-70e9-4568-a0d6-fb15e8c5c161/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 356000e, 92m2, 3hab/1bano, planta 1a, con terraza. Descartado solo por precio (56.000e por encima del maximo); cumple el resto."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/celestino-maria-del-arenal-plaza-2/deusto/bilbao/dd8151c7-0311-404e-8477-7f9fcb72dc16/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 415000e, 108m2, 4hab/2banos, planta 4a, con terraza. Descartado por precio (115.000e por encima del maximo)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-basagoiti/neguri/getxo/842311cf-d013-4a20-bfce-4249b9339c28/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 775000e, 145m2, 2hab/2banos. Descartado por precio muy superior a 300.000e y menos de 3 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-los-chopos/neguri/getxo/9aadf481-e155-43a4-8fc3-8920268c3b7a/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 638000e, 98m2, 3hab/2banos. Descartado por precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-ormetxe/algorta/getxo/850036b3-7820-448d-a158-f32daf0f953e/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 462000e, 101m2, 3hab/2banos. Descartado por precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/neguri/getxo/21d1f4e6-3313-4f16-b9fa-7ac957b0bdeb/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 638000e, 95m2, 3hab/2banos. Descartado por precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-artekale/las-arenas/getxo/f0a93aee-aa43-4362-91ed-487e45eb1380/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 695000e, 132m2, 4hab/2banos. Descartado por precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/los-chopos/neguri/getxo/5a258a70-57cd-43b7-9f79-74204f7587a4/d",
+    "portal": "Habitaclia",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Piso 680000e, 95m2, 3hab/2banos. Descartado por precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/478753-36121366",
+    "portal": "Trovimap",
+    "zona": "Santa Maria, Getxo",
+    "first_seen": "2026-10-14",
+    "nota": "Chalet 1300000e, 300m2, 5hab/4banos. Descartado: es un chalet (tipo excluido explicitamente) y precio muy superior al maximo."
   }
 ]
