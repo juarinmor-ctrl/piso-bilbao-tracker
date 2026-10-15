@@ -4788,5 +4788,341 @@
     "zona": "Santa Maria, Getxo",
     "first_seen": "2026-10-14",
     "nota": "Chalet 1300000e, 300m2, 5hab/4banos. Descartado: es un chalet (tipo excluido explicitamente) y precio muy superior al maximo."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy/mid-floor-flat/bagatza-san-vicente/barakaldo/4ef1ecac-e76f-4b47-9c17-791830855271/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-15",
+    "nota": "NO confirmado 24-48h (sin fecha en la ficha). 270.000e, 77m2, 3h/1b, 2a planta, ascensor si, 1969, balcon si, cerca metro Bagatza. Agencia Habitak ref 1235990. Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41673735",
+    "portal": "Trovimap",
+    "zona": "Zubitxueta, Retuerto, Barakaldo",
+    "first_seen": "2026-10-15",
+    "nota": "239.000e, 99m2, 4h/1b, ascensor si, 1953. Descartado: sin balcon/terraza. Actualizado 14/10/2026."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41668193",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-15",
+    "nota": "330.000e, 106m2, 2h/1b, terraza si (obra nueva). Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41521411",
+    "portal": "Trovimap",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-15",
+    "nota": "197.500e, 59m2, 2h/1b. Descartado: solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/box-room-not-furnished/191089295/d",
+    "portal": "Fotocasa",
+    "zona": "Kandela Zubieta Kalea 13, Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "CANDIDATO VALIDO reportado 15/10/2026: 220.000e, 65m2, 3h/1b, planta 4a, sin ascensor, balcon si, para reformar integral. Listado de busqueda lo marcaba 'publicado hace 2 dias'. Particular (Jose). Metro Leioa cercano pero no verificado calle a calle."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/erandio/heating-lift/191108429/d",
+    "portal": "Fotocasa",
+    "zona": "Calle Mezo, Astrabudua, Erandio",
+    "first_seen": "2026-10-15",
+    "nota": "224.900e, 65m2, 2 dormitorios (posibilidad de un 3o)/1b, 1a planta, ascensor si. Descartado: solo 2 habitaciones explicitas, sin balcon/terraza."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i28976000016608.htm",
+    "portal": "Habitaclia",
+    "zona": "Calle Jado kalea, Erandio",
+    "first_seen": "2026-10-15",
+    "nota": "235.000e, 116m2, 3h/2b. Descartado: venta sin posesion (ocupacion/situacion irregular), no visitable, no financiable."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-apartment-in-erandio-i60163000000116.htm",
+    "portal": "Habitaclia",
+    "zona": "Erandio (sin direccion)",
+    "first_seen": "2026-10-15",
+    "nota": "219.000e (bajada de 26.000e sin explicar), 93m2, 3h/1b. Descartado: sin balcon/terraza, descripcion pobre (anomalia)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/erandio/heating-lift-furnished/190353212/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-15",
+    "nota": "Duplicado del inmueble anterior (389.000e). Mismo descarte."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/heating-box-room-lift-not-furnished/190888350/d",
+    "portal": "Fotocasa",
+    "zona": "Lamiako-Txopoeta, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "330.000e, 85m2, 3h/1b, planta 5a, ascensor si, balcon visible en fotos. Descartado: precio >300.000e y publicado hace 23 dias (fuera de ventana)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/artatza-pinueta-pinosolo/leioa/24f76396-8e15-4d5a-86fa-33c51d54aff4/d",
+    "portal": "Habitaclia",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "250.000e, 50m2, 1h. Descartado: solo 1 habitacion."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/artatza/leioa/f6f2134a-b93d-475f-b836-008df25b2cf6/d",
+    "portal": "Habitaclia",
+    "zona": "Artatza, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "525.000e, 130m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/negurigane/leioa/081ff10f-6507-452d-88ab-0f8d53a6026a/d",
+    "portal": "Habitaclia",
+    "zona": "Negurigane, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "780.000e (atico), 120m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/aldekoena-artatzagana-sarriena/leioa/54acaa2d-1b12-4ca2-b6d5-529f146e9b88/d",
+    "portal": "Habitaclia",
+    "zona": "Aldekoena-Artatzagana-Sarriena, Leioa",
+    "first_seen": "2026-10-15",
+    "nota": "380.000e, 110m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41653368",
+    "portal": "Trovimap",
+    "zona": "Las Arenas, Getxo (mal etiquetado como Leioa en Trovimap)",
+    "first_seen": "2026-10-15",
+    "nota": "395.000e, 79m2, 3-4h/1b, agencia donpiso Getxo. Descartado: precio >300.000e; ademas zona real es Las Arenas/Getxo, no Leioa."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/juand-e-garay/ibaiondo/bilbao/385f33e6-d95e-4861-b103-665de4d4135c/d",
+    "portal": "Habitaclia",
+    "zona": "Calle Juan de Garay, Miribilla/Ibaiondo, Bilbao",
+    "first_seen": "2026-10-15",
+    "nota": "NO confirmado 24-48h (sin fecha en la ficha). 260.000e, 77m2, 3h/1b, planta 5a, ascensor a cota cero, terraza si (desde el salon), a reformar. Agencia Grupo Moldatu Home ref KAR-JGARAY-T. Solo 4 fotos (descripcion pobre). Se registra para no re-evaluarlo."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar-piso-paraje_sur_isla_de_zorrozaurre_0_san_pedro_de_deusto_la_ribera-bilbao-i44693000004542.htm",
+    "portal": "Habitaclia",
+    "zona": "Zorrozaurre, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "635.000e, 120m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar-piso-paraje_sur_isla_de_zorrozaurre_0_san_pedro_de_deusto_la_ribera-bilbao-i44693000006069.htm",
+    "portal": "Habitaclia",
+    "zona": "Zorrozaurre, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "477.000e, 93m2, 2h/2b. Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar-piso-paraje_sur_isla_de_zorrozaurre_0_san_pedro_de_deusto_la_ribera-bilbao-i44693000004520.htm",
+    "portal": "Habitaclia",
+    "zona": "Zorrozaurre, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "472.000e, 93m2, 2h/2b. Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar-piso-paraje_sur_isla_de_zorrozaurre_0_san_pedro_de_deusto_la_ribera-bilbao-i44693000004547.htm",
+    "portal": "Habitaclia",
+    "zona": "Zorrozaurre, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "560.000e, 95m2, 2h/2b. Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/zarandoa-etorbidea/deusto/bilbao/02cf6f56-028d-4867-b1cc-3b8f3f1e4df8/d",
+    "portal": "Habitaclia",
+    "zona": "Zarandoa Etorbidea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "747.000e, 122m2, 3h/3b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/mediterraneo-itsasoaren-kalea/deusto/bilbao/8d60264d-7ea4-4a0a-8c90-359f36fb917a/d",
+    "portal": "Habitaclia",
+    "zona": "Mediterraneo Itsasoaren Kalea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "334.000e, 98m2, 3h/1b, balcon si. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/saratsate-musikariaren-kalea/deusto/bilbao/bab18288-1d20-4d5a-a65c-23aa232fc6f8/d",
+    "portal": "Habitaclia",
+    "zona": "Saratsate Musikariaren Kalea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "420.000e, 96m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/orixe-kalea/deusto/bilbao/e36a62bb-6bea-4d2e-8c01-9b887e683cb8/d",
+    "portal": "Habitaclia",
+    "zona": "Orixe Kalea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "215.000e, 50m2. Ficha dice 3h pero descripcion dice 'salon+2 dormitorios' (posible error de clasificacion, en realidad 2 habitaciones). Descartado: sin balcon/terraza mencionado y habitaciones dudosas (anomalia)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/txakolin-kalea/deusto/bilbao/4250e1b0-4ce8-4519-8e46-57f39f80048e/d",
+    "portal": "Habitaclia",
+    "zona": "Txakolin Kalea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "257.500e, 66m2, 2h/1b. Descartado: solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/careaga-placido-plaza/deusto/bilbao/d4097c88-eed3-47a9-aade-d3f282a91a6a/d",
+    "portal": "Habitaclia",
+    "zona": "Careaga Placido Plaza, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "649.000e, 115m2, 4h/2b, balcon en titulo. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/blas-de-otero-kalea/deusto/bilbao/f036f6b7-1b8b-4f05-bc94-45e6bc7fed5f/d",
+    "portal": "Habitaclia",
+    "zona": "Blas de Otero Kalea, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "457.000e (bajo de 477.000e), 101m2, 3h/1b, balcon en titulo. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/travesia-travesia-ramon-y-cajal/deusto/bilbao/4247c0e2-bfee-4dc0-a1cf-3f2eb7a17026/d",
+    "portal": "Habitaclia",
+    "zona": "Travesia Ramon y Cajal, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "398.000e, 79m2, 3h/1b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/calle-de-ramon-y-cajal/deusto/bilbao/d5b2ca90-7d5b-4a3e-9d34-a9afce15e962/d",
+    "portal": "Habitaclia",
+    "zona": "Calle de Ramon y Cajal, Deusto",
+    "first_seen": "2026-10-15",
+    "nota": "459.000e, 72m2, 2h/2b. Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor-amueblado/189480155/d",
+    "portal": "Fotocasa",
+    "zona": "Travesia Zabala, Miribilla",
+    "first_seen": "2026-10-15",
+    "nota": "285.000e, 54m2, 1h/1b. Descartado: solo 1 habitacion."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/ibaiondo/bilbao/ee33bbad-5f32-4634-bff9-465ecff5e177/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo, Miribilla",
+    "first_seen": "2026-10-15",
+    "nota": "379.999e, 81m2, 2h/1b, planta 6a (marcado 'Oportunidad'). Descartado: precio >300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/av-askatasuna-6/ibaiondo/bilbao/e6b2fb41-8124-4c90-98e2-fcbfbf340c59/d",
+    "portal": "Habitaclia",
+    "zona": "Av. Askatasuna 6 (sotano), Ibaiondo",
+    "first_seen": "2026-10-15",
+    "nota": "407.000e, 128m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/bajo/ibaiondo/bilbao/71b746a3-9dd7-4ca2-aa52-30925ad96445/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo (bajo), Miribilla",
+    "first_seen": "2026-10-15",
+    "nota": "216.000e, 66m2, 2h/1b. Descartado: solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/donostia-san-sebastian-kalea/ibaiondo/bilbao/7d6f415d-51c2-48a7-9b94-b0594a785829/d",
+    "portal": "Habitaclia",
+    "zona": "Donostia-San Sebastian Kalea, Ibaiondo",
+    "first_seen": "2026-10-15",
+    "nota": "439.000e, 98m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/5444968d-08ce-41de-bf35-34b8f4314e10/d",
+    "portal": "Habitaclia",
+    "zona": "Romo/Las Arenas, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "ANOMALIA / dudoso, NO reportado como candidato fiable: 199.000e, 85m2, 3h/1b, planta 2a, sin ascensor, terraza si. Agencia 'GETXOGESTION' (sin presencia web propia verificable), solo 1 foto, sin direccion exacta, precio/m2 muy por debajo de la media de Getxo, zona geolocalizada como Las Arenas pero referencia interna dice Romo. Sin fecha de publicacion. Se registra para seguimiento, no como hallazgo valido hoy."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/d5c0e3e6-bde2-44f4-91d9-6cfd28c8721e/d",
+    "portal": "Habitaclia",
+    "zona": "Romo/Las Arenas, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "ANOMALIA / dudoso, mismas senales de alerta que el anterior (agencia GETXOGESTION, 1 foto, sin direccion, precio/m2 bajo): 250.000e, 80m2, 3h/1b, ascensor si, terraza mencionada en referencia/foto. Sin fecha de publicacion. Se registra para seguimiento, no como hallazgo valido hoy."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/206c9bfb-089d-452e-9eba-91b9092a5a2a/d",
+    "portal": "Habitaclia",
+    "zona": "Romo/Las Arenas (Errekagane), Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "ANOMALIA / dudoso, mismas senales de alerta (agencia GETXOGESTION, pocas fotos, sin direccion exacta, precio/m2 bajo): 269.000e, 80m2, 3h/2b, ascensor con rampa, terraza si. Sin fecha de publicacion. Se registra para seguimiento, no como hallazgo valido hoy."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/obispo-echeandia-kalea/algorta/getxo/b86dbcec-da72-4090-9feb-c584844dcf34/d",
+    "portal": "Habitaclia",
+    "zona": "Obispo Echeandia, Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "150.000e de entrada (coste real ~600.000e). Descartado: no es compraventa normal, es venta de nuda propiedad con usufructo vitalicio del vendedor + renta de 2.000e/mes durante 225 meses (anomalia: precio aparente muy bajo y engañoso)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/studio/calle-las-mercedes-kalea-21/las-arenas/getxo/c132aac1-5296-4a73-9e71-f269c69b1019/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "238.500e, 45m2, 1h/1b. Descartado: solo 1 habitacion."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/algorta/getxo/1d976af5-e78e-4801-8ec9-59da152c4753/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "245.000e, 60m2, 1h/1b. Descartado: solo 1 habitacion."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/los-puentes-kalea-21/las-arenas/getxo/4c784d02-c1cc-4d4a-8f68-c570b207e9a2/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "298.000e, 79m2, 2h/1b. Descartado: solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/alango-kalea-20/algorta/getxo/22d63bb2-d10c-43c5-829e-593abc7109d9/d",
+    "portal": "Habitaclia",
+    "zona": "Alango Kalea 20, Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "305.000e, 66m2, 3h/1b, sin ascensor. Descartado: precio ligeramente >300.000e y sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/algorta/getxo/91ba34f8-787c-4d0e-89d3-5663dcc57dd6/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "320.000e, 90m2, 3h/1b, balcon si. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/kasune-kalea-17a/algorta/getxo/a8b6818d-fe56-437d-a71d-2f24e3345a97/d",
+    "portal": "Habitaclia",
+    "zona": "Kasune Kalea 17A, Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "320.000e, 90m2, 4h/1b, balcon si. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/algorta/getxo/c8890b07-9cc1-44a9-b25e-9ec851804eed/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "330.000e, 77m2, 3h/1b, balcon si. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/algorta/getxo/405c8897-6d21-435b-a29a-0c9ca694d510/d",
+    "portal": "Habitaclia",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "390.000e (rebajado 15.000e), 108m2, 3h/2b. Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-del-angel-de-getxo/santa-maria-de-getxo/getxo/1ac9d5f2-741f-4f13-8a3e-26fdb8851a5a/d",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "660.000e, 140m2, 3h/2b, jardin (no terraza/balcon). Descartado: precio >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/detached-home/santa-maria-de-getxo/getxo/14f0d000-9886-4572-863b-d7072ac68035/d",
+    "portal": "Habitaclia",
+    "zona": "La Galea, Santa Maria de Getxo",
+    "first_seen": "2026-10-15",
+    "nota": "1.450.000e, 440m2, 5h/5b. Descartado: es un chalet/villa (tipo excluido) y precio muy >300.000e."
   }
 ]
