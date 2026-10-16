@@ -5124,5 +5124,124 @@
     "zona": "La Galea, Santa Maria de Getxo",
     "first_seen": "2026-10-15",
     "nota": "1.450.000e, 440m2, 5h/5b. Descartado: es un chalet/villa (tipo excluido) y precio muy >300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/san-vicente-kalea/bagatza-san-vicente/barakaldo/e682a411-00e5-4ba3-a9ca-850fc8499f03/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Mismo UUID e682a411 ya registrado bajo dominio english.habitaclia.com (mismo inmueble, 270.000e, San Vicente, 2a planta, balcon si, ascensor si). Reaparece hoy bajo subdominio www. No es un anuncio nuevo. Fecha de publicacion no verificable."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/autonomia-kalea/centro/barakaldo/a208ddae-62c9-49bb-baf0-1b3ec6a3efd1/d",
+    "portal": "Habitaclia",
+    "zona": "Centro (Autonomia Kalea), Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Mismo UUID a208ddae ya registrado bajo dominio english.habitaclia.com desde 2026-09-16 (mismo inmueble stale, 208.000e, 70m2, 3h/1b, balcon si). No es un anuncio nuevo."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/santa-teresa-plaza-38/bagatza-san-vicente/barakaldo/a98a5c55-9970-4b01-b2ea-162296ee72ee/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente (Santa Teresa Plaza 38), Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "NO CONFIRMADO 24-48h: 235.000e, 3h/1b, 5a planta, balcon si. Cumple precio/habitaciones/bano/balcon/zona pero la ficha no muestra fecha de publicacion/actualizacion verificable. No reportado como candidato valido hoy; revisar si reaparece con fecha confirmada."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-portu-7/centro/barakaldo/d388362c-98c3-4ac1-bfb4-49a73489b051/d",
+    "portal": "Habitaclia",
+    "zona": "Centro (Calle Portu 7), Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 260.000e, 123m2, 3h/2b, 3a planta, sin balcon/terraza mencionado. Fecha de publicacion no verificable."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/juan-de-garay-kalea-14/centro/barakaldo/3a1192aa-c359-40ac-96a8-514f91dd166a/d",
+    "portal": "Habitaclia",
+    "zona": "Centro (Juan de Garay Kalea 14), Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Muy similar/probable mismo inmueble que el ya reportado 'VALIDO CON RESERVAS' el 2026-10-02 bajo otro UUID (64ff8c6a) en la misma calle: 275.000e (bajado de 284.000e), 3h/1b, balcon si. Reaparece con nuevo UUID. No reportado como nuevo candidato."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lurkizaga-18/arteagabeitia-retuerto-kareaga/barakaldo/60ace6fe-51cb-4c8d-8425-47b46c2a33b7/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga (Lurkizaga 18), Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 229.000e, 83m2, 4h/1b, 2a planta, ascensor si, sin balcon/terraza mencionado. Fecha de publicacion no verificable."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/917ac0df-17bd-4f6f-8dba-ecb8c5a60447/d",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Kintone)",
+    "first_seen": "2026-10-16",
+    "nota": "Mismo UUID 917ac0df ya registrado bajo english.habitaclia.com: CONFIRMADO sin balcon/terraza y sin transporte publico cercano (features explicitas). No es un anuncio nuevo ni cumple criterios."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/7eab7006-7dfc-4ec6-a206-829940b219a9/d",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Santi Brouard Plaza 2)",
+    "first_seen": "2026-10-16",
+    "nota": "Mismo UUID 7eab7006 ya registrado bajo english.habitaclia.com: sin balcon/terraza confirmado. 290.000e, 100m2, 3h/2b. No es un anuncio nuevo."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/2fb99fe0-e70b-42c3-ba50-8267fa41d929/d",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Astrabudua)",
+    "first_seen": "2026-10-16",
+    "nota": "Mismo UUID 2fb99fe0 ya registrado bajo english.habitaclia.com: NO CONFIRMADO 24-48h, mismo inmueble (245.000e, 3h/1b, balcon si, 1970). No es un anuncio nuevo."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/580cd304-9404-4016-a242-d00ee8ff45e6/d",
+    "portal": "Habitaclia",
+    "zona": "Erandio (Altzaga, Nafarroa Behera Kalea)",
+    "first_seen": "2026-10-16",
+    "nota": "ANOMALIA verificada manualmente: precio aparente 40.000e es engañoso. Es una venta de NUDA PROPIEDAD con usufructo vitalicio del propietario actual (66 anos): 40.000e de entrada + renta de 750e/mes durante 80 meses (pago total real ~100.000e), comprador no tiene uso de la vivienda hasta que fallezca el usufructuario. 67m2, 3h/1b, 3a planta, ascensor si, balcon si, 1972. Descartado: no es una compraventa normal con posesion inmediata."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/537299-41683299",
+    "portal": "Trovimap",
+    "zona": "Ribera de Deusto, Bilbao",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 399.000e, 110m2, 3h/1b, 3a planta exterior, ascensor si, balcon y terraza si, 1 dia en el mercado (genuinamente reciente). Cumple todo salvo precio (99.000e por encima del maximo de 300.000e). Agencia Alfa Suenos y Raices."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-parking-box-room-lift/191109429/d",
+    "portal": "Fotocasa",
+    "zona": "Algorta (Villamonte), Getxo",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 520.000e, 112m2, 3h/2b, 2a planta, ascensor si, terraza acristalada si, publicado ayer, a ~5 min de metro Algorta. Cumple todo salvo precio (muy por encima de 300.000e)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-parking-terrace-lift-not-furnished/191107801/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 695.000e, 132m2, 4h/2b, 3a planta, terraza si, publicado ayer. Precio muy por encima de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-parking-box-room-lift/191113018/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda (Sarriko), Bilbao",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 747.000e, 122-128m2, 3h/3b, 9a planta, ano 2020, publicado hace 20 horas (reciente confirmado). Terraza no confirmada en descripcion. Precio muy por encima de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/new-home/bilbao/20516272/185917869",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto (Zorrozaurre), Bilbao",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: obra nueva 430.000e+10% IVA, 93m2, 2h/2b, publicado hace 17 horas. Precio superior a 300.000e y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/erandio/heating/191118885/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 219.900e, 69m2, 2h/1b, 3a planta semiexterior, sin ascensor, balcon si, publicado hace 11 horas (reciente confirmado). Precio dentro de presupuesto pero solo 2 habitaciones (minimo exigido 3)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-parking-box-room-lift/191120400/d",
+    "portal": "Fotocasa",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-10-16",
+    "nota": "Descartado: 489.000e, 135m2 construidos/105 utiles, 4h/2b, 14a planta, 3 ascensores, publicado hace 9 horas. Precio muy por encima de 300.000e."
   }
 ]
