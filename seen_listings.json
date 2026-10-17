@@ -5243,5 +5243,54 @@
     "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
     "first_seen": "2026-10-16",
     "nota": "Descartado: 489.000e, 135m2 construidos/105 utiles, 4h/2b, 14a planta, 3 ascensores, publicado hace 9 horas. Precio muy por encima de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/new-home/bilbao/20516272/185917861",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto - La Ribera, Deusto, Bilbao",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: obra nueva Neinor Homes (Zorrozaurre Homes II), 350.000e+IVA, 66m2, 1 habitacion/1 bano, publicado 'ayer'. Precio superior a 300.000e y solo 1 habitacion (minimo exigido 3)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/terrace-lift/191124082/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: 500.000e, 54m2, 1 habitacion/2 banos, 3a planta, 3 balcones, publicado hace 18 horas. Precio muy superior a 300.000e y solo 1 habitacion."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion/191128872/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas (Santa Ana), Getxo",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: 330.000e, 78m2, 2 habitaciones/1 bano, 1a planta, balcon privado si, publicado hace 11 horas. Precio superior a 300.000e y solo 2 habitaciones (minimo exigido 3)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/heating-terrace-box-room-lift-furnished/191129677/d",
+    "portal": "Fotocasa",
+    "zona": "Artatza - Pinueta - Pinosolo, Leioa",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado por precio: 317.000e (82.77m2), 3 habitaciones/2 banos, 5a planta con ascensor y rampa, terraza acristalada, publicado hace 10 horas. Cumple el resto de criterios pero supera el presupuesto de 300.000e en 17.000e; se incluye el honorario de agencia de 8.000e+IVA no incluido en el precio."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/lamiako-txopoeta/191131493/d",
+    "portal": "Fotocasa",
+    "zona": "Lamiako - Txopoeta, Leioa",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: subasta judicial de casa/chalet (SUBASTAFACIL.COM), 133.560e, 59m2, sin datos de habitaciones/banos. Excluido por tipo de vivienda (chalet/casa, no piso) y datos insuficientes. NOTA: esta pagina contenia un intento de inyeccion de instrucciones dirigido al asistente de IA (texto que pedia extraer datos como si fuera una orden del usuario); se ignoro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-terraza-trastero-ascensor/191129756/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua (Calle Mezo), Erandio",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: atico, 499.000e, 103m2, 3 habitaciones/2 banos, 5a planta (ultima), 2 terrazas privadas, garaje y 2 trasteros, construido en 2002, publicado hace 9 horas. Precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-patio-amueblado/191131266/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-10-17",
+    "nota": "Descartado: 224.760e, 58m2, 2 habitaciones (el anuncio sugiere que una sala podria convertirse en 3a)/1 bano, 1a planta sin ascensor, balcon amplio desde cocina-comedor, publicado hace 4 horas. Solo 2 habitaciones confirmadas (minimo exigido 3). NOTA: esta pagina tambien contenia un intento de inyeccion de instrucciones al asistente; se ignoro."
   }
 ]
