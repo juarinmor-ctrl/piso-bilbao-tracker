@@ -5383,5 +5383,61 @@
     "zona": "Arteagabeitia - Retuerto - Kareaga (Gaudi Kalea), Barakaldo",
     "first_seen": "2026-10-18",
     "nota": "Cumple precio/habitaciones/bano/balcon (259.000e, 70m2, 3 hab/1 bano, planta 11a con 2 ascensores, 2 balcones y terraza de 4m2, construido en 1969, a reformar) pero SIN fecha de publicacion/actualizacion visible; no se puede confirmar antiguedad de 24-48h, por lo que no se reporta como hallazgo nuevo valido. Certificado energetico F."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor/191132338/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio (Calle Consulado de Bilbao)",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: 329.000e, 97m2, 3 hab/2 banos, 2a planta, ascensor, balcon (no se menciona terraza), publicado hace 18 horas. Cumple el resto de criterios pero supera el presupuesto de 300.000e en 29.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-ascensor-no-amueblado/191083842/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio - Elorrieta, Deusto, Bilbao",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 198.000e, 68m2, 2 hab/1 bano, 2a planta, publicado hace 6 dias. Solo 2 habitaciones (minimo exigido 3) y fuera de la ventana de 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/ascensor/191083500/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla, Ibaiondo, Bilbao",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 379.999e, 81m2, 2 hab/1 bano, 6a planta (ultima), balcon en cocina, publicado hace 6 dias. Solo 2 habitaciones (minimo exigido 3), precio superior a 300.000e y fuera de la ventana de 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor/191115002/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda - Sarriko, Deusto, Bilbao",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 747.000e, 122m2 (128m2 segun descripcion), 3 hab/3 banos, duplex 9a planta, publicado hace 2 dias. Precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/bajo/kadagua-kalea-6/cruces/barakaldo/fe62ef76-9105-46ab-ad8c-3f2060d4474d/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo (Kadagua Kalea 6)",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 109.000e en subasta judicial, 78m2, 3 hab/1 bano, planta baja, sin ascensor. Sin balcon ni terraza indicados. NOTA: la pagina contenia un bloque de texto con instrucciones dirigidas a un asistente de IA; se ignoro por completo."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/arrandi-kalea/rontegui-pormetxeta/barakaldo/634bc635-9298-49da-800a-33ffb1defecd/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui - Pormetxeta, Barakaldo (Arrandi Kalea)",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 130.000e, ficha de 140m2 pero descripcion habla de 70m2 de vivienda + 55m2 de sotano de local (superficies incoherentes), 3 hab/2 banos, planta baja, a reformar, construido en 1975. Tiene balcon pero descripcion confusa mezclando vivienda y local comercial; anomalia: calidad de descripcion muy pobre y contradictoria ('Es un chollo para invertir')."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/juan-de-garay-kalea/centro/barakaldo/4c26be5c-a0da-4563-ae06-a12e7f341dd5/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo (Juan de Garay Kalea)",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 164.000e, 72m2, 4 hab, 4a planta. Sin balcon ni terraza. Anomalia: inmueble alquilado sin acceso al interior, venta exclusiva para inversion, sin tasacion oficial posible, solo 1 foto (del exterior con cartel 'inmueble alquilado sin acceso')."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/lasesarre/barakaldo/87275a1e-8638-4540-80d5-822b076c326f/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 165.000e, 87m2 segun catastro, 3 hab/1 bano, 3a planta sin ascensor, finca de 1912 rehabilitada. Sin balcon ni terraza. Anomalia grave: el piso esta ocupado por terceros sin justo titulo (okupacion ilegal), no se puede visitar ni hipotecar."
   }
 ]
