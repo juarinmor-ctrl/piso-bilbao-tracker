@@ -5292,5 +5292,96 @@
     "zona": "Bagatza - San Vicente, Barakaldo",
     "first_seen": "2026-10-17",
     "nota": "Descartado: 224.760e, 58m2, 2 habitaciones (el anuncio sugiere que una sala podria convertirse en 3a)/1 bano, 1a planta sin ascensor, balcon amplio desde cocina-comedor, publicado hace 4 horas. Solo 2 habitaciones confirmadas (minimo exigido 3). NOTA: esta pagina tambien contenia un intento de inyeccion de instrucciones al asistente; se ignoro."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/patio/191134048/d",
+    "portal": "Fotocasa",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: subasta judicial (SUBASTAFACIL.COM), 109.000e, 78m2, 3 hab/1 bano, planta baja, publicado hace 13 horas. Terraza/balcon no confirmado en el anuncio (no cumple el requisito obligatorio). ANOMALIA: precio muy bajo para 78m2 en Barakaldo; es una subasta judicial, con riesgos legales/sin visita previa, no equivalente a una compra normal."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/parking-jardin-terraza-trastero-ascensor/191122959/d",
+    "portal": "Fotocasa",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: 679.000e, 90m2, 3 hab/2 banos, planta baja con terraza privada de 150m2, garaje y trastero, publicado ayer. Precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-terraza-trastero-ascensor-piscina-no-amueblado/191130045/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: 625.000e (bajado 27.000e), 153m2, 4 hab/2 banos, 5a planta con ascensor, balcones, obra nueva con trastero y garaje incluidos, publicado ayer. Precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion/191124673/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana - Llano, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 154.900e, 54m2, 2 hab/1 bano, 4a planta, calefaccion electrica, publicado ayer. Solo 2 habitaciones (minimo exigido 3). Vivienda actualmente alquilada, dirigida a inversores. Terraza/balcon no mencionado."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/parking-trastero-ascensor-no-amueblado/191133090/d",
+    "portal": "Fotocasa",
+    "zona": "Usategui, Algorta (Getxo)",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: 679.000e, 128m2, 3 hab/3 banos, 1a planta, publicado hace 16 horas. Terraza/balcon no mencionado. Precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/centro-urbano-hirigunea/191131492/d",
+    "portal": "Fotocasa",
+    "zona": "Centro Urbano - Hirigunea, Leioa",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: subasta (SUBASTAFACIL.COM) gestionada por terceros, 14.700e, solo 13m2, sin datos de habitaciones/banos, publicado hace 23 horas. ANOMALIA: precio y superficie incompatibles con una vivienda de 3 habitaciones (13m2 es mas bien un trastero o local); subasta sin visitas previas, pago al contado, deposito del 5%. No cumple criterios minimos."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor/191126002/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua (Calle Consulado), Erandio",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: 329.000e, superficie contradictoria (97m2 en cabecera, 76m2 utiles segun descripcion), 3 hab/2 banos, 2a planta con ascensor, balcon si (sin terraza), publicado ayer. Precio superior a 300.000e en 29.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/erandio/191127210/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: 272.000e, 75m2, 2 hab/1 bano, publicado ayer (Terra Agencia Global). Solo 2 habitaciones (minimo exigido 3). Terraza/balcon no indicado."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-jardin-terraza-trastero-amueblado/191123377/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio Goikoa (Barrio Fano), Erandio",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado: casa/chalet independiente de 750.000e, 500m2 construidos en parcela de 2.600m2, 5 hab/3 banos, con jardin y garaje de 100m2, publicado ayer. Excluido por tipo de vivienda (chalet, no piso/apartamento) y precio muy superior a 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/obra-nueva/bilbao/20516272/187061938",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto - La Ribera (Zorrozaurre), Deusto",
+    "first_seen": "2026-10-18",
+    "nota": "Descartado por precio: obra nueva Zorrozaurre Homes II (Neinor Homes), 568.000e, 120m2, 3 hab/2 banos, terrazas amplias (segun promocion), publicado ayer. Precio muy superior a 300.000e (ademas IVA del 10% no incluido)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sagasti-kalea/cruces/barakaldo/79b87b0b-bbf2-4ce5-9368-96b616a19368/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces (Sagasti Kalea), Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Cumple precio/habitaciones/bano/balcon (289.000e, 75m2, 3 hab/1 bano, 1a planta con ascensor a cota cero, balcon cerrado si) pero SIN fecha de publicacion/actualizacion visible en la ficha ni en el listado (a diferencia de otros anuncios de la misma pagina que si mostraban 'actualizado ayer/hace X dias'); no se puede confirmar que sea de las ultimas 24-48h, por lo que no se reporta como hallazgo nuevo valido. Agencia HogarDiez, ref. 196."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/254e75d9-1e33-4459-9bd2-0c29ae812e14/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Cumple precio/habitaciones/bano/balcon (249.990e, 85m2, 3 hab/1 bano, 5a planta con ascensor, balcon en dormitorio y balcon-tendedero en cocina, construido en 1975) pero SIN fecha de publicacion/actualizacion visible; no se puede confirmar antiguedad de 24-48h, por lo que no se reporta como hallazgo nuevo valido. Honorarios de agencia de 5.000e+IVA no incluidos en el precio. Agencia Inmobiliaria Chomon, ref. BDO-00012."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/gaudi-kalea/arteagabeitia-retuerto-kareaga/barakaldo/aa3f4852-4836-42dd-993b-37a28fde3874/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia - Retuerto - Kareaga (Gaudi Kalea), Barakaldo",
+    "first_seen": "2026-10-18",
+    "nota": "Cumple precio/habitaciones/bano/balcon (259.000e, 70m2, 3 hab/1 bano, planta 11a con 2 ascensores, 2 balcones y terraza de 4m2, construido en 1969, a reformar) pero SIN fecha de publicacion/actualizacion visible; no se puede confirmar antiguedad de 24-48h, por lo que no se reporta como hallazgo nuevo valido. Certificado energetico F."
   }
 ]
