@@ -5971,5 +5971,19 @@
     "zona": "Leioa",
     "first_seen": "2026-10-19",
     "nota": "Descartado: 390.000e (antes 380.000e), 92m2, 3 hab/1 bano. Excede precio maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41711806",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-20",
+    "nota": "VALIDO: 270.000e, 77m2, 3 hab/1 bano, 2a planta, ascensor si, ano 1969, balcon y terraza (salon y un dormitorio). A ~10 min andando de Metro Ansio. Publicado hoy (1 dia en mercado). Agencia Inmobiliaria MC Gestion."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/528725-40957044",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-20",
+    "nota": "Descartado: 208.000e (antes 235.000e), 70m2, 3 hab/1 bano, 5a planta, balcon y terraza. 131 dias en mercado (no es anuncio nuevo, solo actualizacion de pagina/precio antiguo)."
   }
 ]
