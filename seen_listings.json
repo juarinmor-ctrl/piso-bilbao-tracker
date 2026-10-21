@@ -5985,5 +5985,26 @@
     "zona": "Barakaldo",
     "first_seen": "2026-10-20",
     "nota": "Descartado: 208.000e (antes 235.000e), 70m2, 3 hab/1 bano, 5a planta, balcon y terraza. 131 dias en mercado (no es anuncio nuevo, solo actualizacion de pagina/precio antiguo)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41711804",
+    "portal": "Trovimap",
+    "zona": "San Vicente (junto parque/centro civico Clara Campoamor), Barakaldo",
+    "first_seen": "2026-10-21",
+    "nota": "VALIDO: 285.000e, 78m2, 3 hab/1 bano (reformado), 1a planta, ascensor si, ano 1972, balcon en dormitorio y terraza en salon. Agencia Inmobiliaria MC Gestion (misma zona/agencia que el valido de ayer cerca Metro Ansio). Actualizado 21-oct-2026, 2 dias en mercado. Titulo PROXIMAMENTE."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41705989",
+    "portal": "Trovimap",
+    "zona": "Bilbao (barrio no especificado en el anuncio)",
+    "first_seen": "2026-10-21",
+    "nota": "Descartado/incierto: 298.000e, 87m2, 3a planta, balcon y terraza. Agencia Inmohappy Leioa. Actualizado 21-oct-2026 (7 dias en mercado, Nuevo), pero el anuncio no especifica barrio/zona por lo que no se puede confirmar que este en Sarriko/San Ignacio/Deusto/Miribilla."
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-bilbao-i29666000000885.htm",
+    "portal": "Habitaclia",
+    "zona": "Ibarrekolanda (Mediterraneo Itsasoaren Kalea), Deusto, Bilbao",
+    "first_seen": "2026-10-21",
+    "nota": "Descartado: 356.000e. Excede precio maximo. 91m2, 3 hab/1 bano, 1a planta, ascensor si, terraza si. Fecha de publicacion no disponible en la pagina."
   }
 ]
