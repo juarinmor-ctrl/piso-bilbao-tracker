@@ -6237,5 +6237,103 @@
     "zona": "Erandio",
     "first_seen": "2026-10-22",
     "nota": "Descartado: 399.000e. Excede precio maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-amueblado/191179862/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "CANDIDATO VALIDO 2026-10-23: 180.000e, 68-69m2, 3hab/1bano, 4a planta, ascensor NO, balcon si, antiguedad 50-70 anios (ano exacto no indicado), a 8 min andando del metro Llano (segun el propio anuncio). 25 fotos, publicado hace 17h. Precio notablemente bajo para la zona/caracteristicas -> posible anomalia a verificar (sin ascensor en 4a planta puede explicarlo parcialmente)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-parking-terraza-trastero-ascensor/191185539/d",
+    "portal": "Fotocasa",
+    "zona": "Usategui/Algorta, Getxo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 890.000e. Excede ampliamente precio maximo. 4hab/3banos."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-parking-trastero-ascensor/191186244/d",
+    "portal": "Fotocasa",
+    "zona": "Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: duplex 460.000e. Excede precio maximo. 3hab/2banos."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor/191169094/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua (Consulado), Erandio",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 329.000e. Excede precio maximo de 300.000e. 3hab/2banos, balcon 7m2."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-terraza-trastero-ascensor-amueblado-internet/191175552/d",
+    "portal": "Fotocasa (mismo inmueble ya visto en version inglesa)",
+    "zona": "San Ignacio-Elorrieta, Deusto, Bilbao",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 355.000e. Excede precio maximo. 3hab/1bano."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-terraza-trastero-ascensor-piscina/186118157/d",
+    "portal": "Fotocasa",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 378.000e. Excede precio maximo. 3hab/2banos."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/lutxana-llano/barakaldo/6903038a-fc01-4675-a578-3e04acaf167f/d",
+    "portal": "Habitaclia",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 220.000e, 85m2, 3hab/1bano, 3a planta, ascensor si. Sin balcon/terraza indicado."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/cruces/barakaldo/3fa98ccd-1db0-4678-b5c5-c052c27e6c90/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 209.000e, 72m2 (70 utiles), 3hab/1bano, 3a planta, sin ascensor. Sin balcon/terraza indicado. ANOMALIA: descripcion con texto promocional extrano/sospechoso (posible calidad baja del anuncio)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/ibaiondo/bilbao/ee40bd74-8cbe-45cd-84c7-d0fa350d2691/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo (San Francisco), Bilbao",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: zona incorrecta, no es Miribilla sino otro barrio de Ibaiondo (San Francisco)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/ibaiondo/bilbao/4867d32c-7c48-48c5-a1b7-5420b94a9ebc/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo (Barrenkale), Bilbao",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: zona incorrecta, no es Miribilla sino otro barrio de Ibaiondo (Barrenkale)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/ibaiondo/bilbao/936044f6-f18e-4ea7-957b-fcd4fc79a089/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo (Menendez y Pelayo), Bilbao",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: zona incorrecta, no es Miribilla sino otro barrio de Ibaiondo (Menendez y Pelayo)."
+  },
+  {
+    "url": "https://chomon.net/inmueble/bdo-00006/",
+    "portal": "Chomon",
+    "zona": "Santa Teresa/Bagatza, Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 249.900e, 83m2, 3hab/1bano, 1a planta, ascensor si, edificio ano 1966. Junto a metro Bagatza. Sin terraza/balcon mencionado."
+  },
+  {
+    "url": "https://chomon.net/inmueble/cb-00006/",
+    "portal": "Chomon",
+    "zona": "San Vicente (Eguzkiagirre Kalea), Barakaldo",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 275.000e, 79m2, 3hab/1bano, 4a planta, ascensor si. Sin terraza/balcon mencionado."
+  },
+  {
+    "url": "https://www.inmobiliaria-ankar.com/inmueble/piso-en-venta-en-erandio-de-82-m2-con-3-dormitorios-y-bano-ref-1584-239675/",
+    "portal": "Inmobiliaria Ankar (local, Erandio)",
+    "zona": "Erandio",
+    "first_seen": "2026-10-23",
+    "nota": "Descartado: 300.000e, 82m2 (79 utiles), 3hab/1bano, 1a planta, ascensor si (accesible). Sin terraza/balcon mencionado."
   }
 ]
