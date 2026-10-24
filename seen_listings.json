@@ -6335,5 +6335,19 @@
     "zona": "Erandio",
     "first_seen": "2026-10-23",
     "nota": "Descartado: 300.000e, 82m2 (79 utiles), 3hab/1bano, 1a planta, ascensor si (accesible). Sin terraza/balcon mencionado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41729379",
+    "portal": "Trovimap (agencia Habitak)",
+    "zona": "El Llano, San Vicente, Barakaldo",
+    "first_seen": "2026-10-24",
+    "nota": "VALIDO: 180.000e, 68-69m2, 3-4hab (ficha dice 4, descripcion dice 3)/1 bano, 4a planta, ascensor no especificado, ano no consta, balcon si (sala independiente y balcon). A 8 min andando de Metro Llano (texto explicito). Actualizado 23-oct-2026, 2 dias en mercado. ANOMALIA: precio muy bajo para la zona (2.647e/m2 vs ~2.900-3.650e/m2 en comparables recientes de Barakaldo) y sin ascensor mencionado en 4a planta - verificar con la agencia antes de visitar."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41722605",
+    "portal": "Trovimap (anunciante TodoPisos / firmado OMM Inmobiliaria)",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-10-24",
+    "nota": "VALIDO: 259.499e, 90m2, 3-4hab/1-2banos (discrepancia entre resumen y descripcion), planta no indicada, 2 ascensores + plataforma elevadora, ano no consta, balcon si (cerrado/acristalado). Zona Cruces tiene parada de Metro Gurutzeta/Cruces (Linea 2) en el mismo barrio, pero el anuncio no da direccion exacta ni distancia explicita - verificar a pie antes de descartar o confirmar. Actualizado 22-oct-2026, 2 dias en mercado. ANOMALIA: incoherencia entre datos de resumen (4hab/1bano) y descripcion (3hab/2banos), y entre nombre de agencia en ficha (TodoPisos) y firma de la descripcion (OMM Inmobiliaria)."
   }
 ]
