@@ -6349,5 +6349,12 @@
     "zona": "Cruces, Barakaldo",
     "first_seen": "2026-10-24",
     "nota": "VALIDO: 259.499e, 90m2, 3-4hab/1-2banos (discrepancia entre resumen y descripcion), planta no indicada, 2 ascensores + plataforma elevadora, ano no consta, balcon si (cerrado/acristalado). Zona Cruces tiene parada de Metro Gurutzeta/Cruces (Linea 2) en el mismo barrio, pero el anuncio no da direccion exacta ni distancia explicita - verificar a pie antes de descartar o confirmar. Actualizado 22-oct-2026, 2 dias en mercado. ANOMALIA: incoherencia entre datos de resumen (4hab/1bano) y descripcion (3hab/2banos), y entre nombre de agencia en ficha (TodoPisos) y firma de la descripcion (OMM Inmobiliaria)."
+  },
+  {
+    "url": "https://www.fotocasa.es/de/kaufen/wohnimmobilie/bilbao/heizung-terrasse-fahrstuhl-no-amueblado/189743705/d",
+    "portal": "Fotocasa",
+    "zona": "Iralabarri-Errekalde, Bilbao",
+    "first_seen": "2026-10-25",
+    "nota": "Descartado: 349.000e, 80m2, 2 hab (minimo requerido 3), 2 banos, balcon si, publicado hace mas de 3 meses. Ademas Iralabarri-Errekalde no es una de las 8 zonas objetivo (fuera de Sarriko/San Ignacio/Deusto/Miribilla/Erandio/Leioa/Getxo/Barakaldo)."
   }
 ]
