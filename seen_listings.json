@@ -6356,5 +6356,110 @@
     "zona": "Iralabarri-Errekalde, Bilbao",
     "first_seen": "2026-10-25",
     "nota": "Descartado: 349.000e, 80m2, 2 hab (minimo requerido 3), 2 banos, balcon si, publicado hace mas de 3 meses. Ademas Iralabarri-Errekalde no es una de las 8 zonas objetivo (fuera de Sarriko/San Ignacio/Deusto/Miribilla/Erandio/Leioa/Getxo/Barakaldo)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/air-conditioning-heating-terrace-lift-furnished/191215733/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Deusto",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 289.000e, 61m2, solo 2 habitaciones (minimo 3), 1 bano, terraza si, 2a planta, publicado hace 11h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/duplex-apartment/pedro-astigarraga-kalea/deusto/bilbao/b08cbf74-cac8-4d4f-8805-ee7aa058ccb1/d",
+    "portal": "Habitaclia",
+    "zona": "Deusto",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 275.000e, 89m2, 3hab, balcon, pero Habitaclia no muestra fecha de publicacion/actualizacion (ademas tiene rebaja de precio, indicio de anuncio antiguo); no se puede confirmar recencia 24-48h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/menendez-y-pelayo-marcelino-kalea/ibaiondo/bilbao/936044f6-f18e-4ea7-957b-fcd4fc79a089/d",
+    "portal": "Habitaclia",
+    "zona": "Ibaiondo, Bilbao",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 265.000e, 75m2, 3hab, balcon, pero zona Ibaiondo no confirmada como Miribilla (distrito amplio); ademas sin fecha de publicacion verificable en Habitaclia."
+  },
+  {
+    "url": "https://www.indomio.es/anuncios/101191903/",
+    "portal": "Indomio (Inmobiliaria Zarate)",
+    "zona": "Miribilla",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 520.000e, muy por encima del maximo; ultima actualizacion 24-jun-2026, muy antiguo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41578035",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41582167",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-40465776",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41203267",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41634919",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-25976960",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-40806810",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/311968-41212357",
+    "portal": "Trovimap (Quorum Bilbao)",
+    "zona": "Deusto/Indautxu/Abando",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: precio por encima de 300.000e, algunos fuera de las 4 zonas objetivo (Indautxu/Abando/Gran Via/San Adrian/Rekalde)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41711805",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 287.000e, 80m2, 3-4hab/1bano, no se menciona terraza ni balcon explicitamente."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/528725-41704561",
+    "portal": "Trovimap",
+    "zona": "Barakaldo (zona no especificada)",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 275.000e, 99m2, 3-4hab/1bano, sin terraza/balcon mencionados (actualizacion hoy 27-oct, pero no cumple balcon/terraza)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/lutxana-llano/189689482/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-27",
+    "nota": "Descartado: 180.000e, 62m2, 1 habitacion (minimo 3); ademas publicado hace mas de 3 meses."
   }
 ]
