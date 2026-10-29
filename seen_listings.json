@@ -6510,5 +6510,236 @@
     "zona": "Las Arenas, Getxo",
     "first_seen": "2026-10-28",
     "nota": "ANOMALO: 100.000e por 100m2 (4 hab/4 banos, segun ficha, dato dudoso) en Las Arenas (Getxo), muy por debajo de precio de mercado para la zona. Anunciante 'Opportunity Homes', agencia especializada en 'inmuebles okupados' y 'activos sin posesion' con descuentos 30-50%. Descripcion es texto generico de la agencia con placeholders sin rellenar ([CIUDAD], [IW]), solo 1 foto, sin ascensor, sin direccion exacta, sin mencion de balcon/terraza, sin fecha de publicacion. Fuerte sospecha de activo distressed/ocupado, no vivienda normal en venta. NO reportado como valido."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/autonomia-kalea/centro/barakaldo/8eec245b-7c72-4cea-8cfc-d7f65efb0416/d",
+    "portal": "Habitaclia",
+    "zona": "Autonomia Kalea, Centro, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO: 208.000e, 70m2, 3hab/1bano, 5a planta (semi-exterior), sin ascensor, ano 1963, balcon orientacion sur desde salon. Cerca de Metro Barakaldo/Bagatza (L2), distancia exacta no confirmada. Fecha de publicacion no indicada en la pagina (candidato nuevo, no estaba en registro previo). Agencia Don Piso Barakaldo (ref. 304578)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/rontegui-pormetxeta/barakaldo/c6869323-d300-48da-9ca6-ea73d6548c5e/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO: 195.000e, 65m2, 3hab/1bano, 3a planta, sin ascensor, balcon explicito. Barrio Rontegi, cerca de Metro Ansio (L2)/zona BEC, distancia exacta no confirmada. Fecha de publicacion incierta. Agencia Inmobiliaria Fueros 20 (ref. 9953)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/paseo-dolores-ibarruri/lasesarre/barakaldo/d04dbd7e-a8c0-464c-b80f-c6be2518c22e/d",
+    "portal": "Habitaclia",
+    "zona": "Paseo Dolores Ibarruri, Lasesarre, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO: 270.000e, 85m2 construidos (~70m2 utiles), 3hab/1bano, 3a planta, ascensor si, ano 1964, balcon con acceso directo desde salon. Zona Lasesarre/centro Barakaldo, cerca de Metro Barakaldo/Bagatza. Publicado ayer 28-oct-2026 (confirmado via duplicado en Trovimap, 1 dia en mercado). Agencia Don Piso Barakaldo Centro. Mismo inmueble tambien en Trovimap: https://www.trovimap.com/inmueble/474994-41761393"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/474994-41761393",
+    "portal": "Trovimap",
+    "zona": "Paseo Dolores Ibarruri, Lasesarre, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO (duplicado del mismo inmueble en Habitaclia, misma agencia Don Piso, ref. 306770): 270.000e, 85m2c/~70m2u, 3hab/1bano, 3a planta, ascensor si, ano 1964, balcon desde salon. Actualizado 29-oct-2026, 1 dia en mercado (fecha confirmada: ayer/hoy)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/grupo-la-paz/cruces/barakaldo/6620335f-005c-4382-88c2-664129d8a2d1/d",
+    "portal": "Habitaclia",
+    "zona": "Grupo La Paz, Cruces, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO: 259.000e, 90m2, 3hab/2banos+aseo, 4a planta exterior, ascensor si, ano 1972, a reformar, terraza con salida directa desde salon. Cruces tiene su propia estacion de Metro Gurutzeta/Cruces (L2), muy probablemente <10 min andando. Fecha de publicacion incierta. Agencia Asesoria Inmobiliaria Zorroza (ref. I-207)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/eaaf4666-979d-424e-ba2c-bb2bcfc56cc5/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO: 269.900e, 86m2, 3hab/1bano, planta no consta, ascensor si, terraza con salida desde salon. Zona Lasesarre/centro Barakaldo. Fecha de publicacion incierta. Agencia Bengolea Inmobiliaria (ref. BIDEGORRI-CENTRO)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41761107",
+    "portal": "Trovimap",
+    "zona": "Rontegi (frente colegio Rontegi), Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "VALIDO con reserva de fecha: 276.000e, 79m2, 3hab/1bano, 4a planta, ascensor si, ano 1970, terraza en salon. Cerca de Metro Ansio (L2). Actualizado 29-oct-2026, '2 dias en mercado' -> publicado ~27-oct, ligeramente fuera de la ventana estricta de 24-48h pero muy cerca del limite. Agencia Inmobiliaria MC Gestion (ref. V-1127)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/434308-41763046",
+    "portal": "Trovimap (agencia IKESA)",
+    "zona": "Kintoena Kalea (listado dice Barakaldo/Arteagabeitia-Retuerto-Kareaga, descripcion dice Erandio)",
+    "first_seen": "2026-10-29",
+    "nota": "ANOMALO/descartado: 219.000e, 87-93m2, 3hab, sin balcon/terraza mencionado. Inconsistencia de municipio entre titulo (Barakaldo) y descripcion (Erandio). Duplicado por 2 agencias con referencias casi identicas (ver tambien 382244-41760157)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41760157",
+    "portal": "Trovimap (agencia TodoPisos)",
+    "zona": "Kintoena Kalea (listado dice Barakaldo/Arteagabeitia-Retuerto-Kareaga, descripcion dice Erandio)",
+    "first_seen": "2026-10-29",
+    "nota": "ANOMALO/descartado: duplicado del mismo inmueble que 434308-41763046 (ref. casi identica, otra agencia). 219.000e, 87-93m2, 3hab, sin balcon/terraza. Inconsistencia de municipio Barakaldo vs Erandio."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/new-home/bilbao/20702024/191232221",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion obra nueva AEDAS Lyra, 610.000e, 126m2, 3hab/2banos, planta 6a, terrazas sur. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/housing/new-home/bilbao/20702024/190218845",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion AEDAS Lyra, 490.000e, 79m2, 2hab/1bano. Excede precio maximo y menos de 3 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/housing/new-home/bilbao/20702024/190218869",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion AEDAS Lyra, 560.000e, 126m2, 3hab/2banos. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/housing/new-home/bilbao/20702024/191232147",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion AEDAS Lyra, 550.000e, 88m2, 2hab/2banos. Excede precio maximo y menos de 3 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/housing/new-home/bilbao/20702024/191232176",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion AEDAS Lyra, 590.000e, 114m2, 2hab/2banos. Excede precio maximo y menos de 3 habitaciones."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/housing/new-home/bilbao/20702024/191232211",
+    "portal": "Fotocasa",
+    "zona": "Deusto (Zorrotzaurre), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: promocion AEDAS Lyra, 570.000e, 126m2, 3hab/2banos. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-parking-terrace-box-room-lift/191238903/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla (Jardines de Gernika/Ibaiondo), Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 495.000e, 105m2, 3hab/2banos, planta 6a, ascensor si, terraza 3m2 + balcon cocina, ano 2004, garaje y trastero. Cumpliria el resto de criterios pero excede ampliamente el precio maximo de 300.000e."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-lift/190757695/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Deusto, Bilbao",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 245.000e, 56m2, 4a planta, ascensor si. ANOMALIA menor: titulo/descripcion dice 3 habitaciones pero la ficha de caracteristicas dice 2 (probable error de redaccion del anunciante). Sin balcon/terraza mencionado. Publicado hace 44 dias, fuera de la ventana de 24-48h. Agencia LA CASA AGENCY-Estudio Madariaga."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/la-felicidad-kalea/bagatza-san-vicente/barakaldo/1dc0d94d-deca-4110-b182-b4655c191b53/d",
+    "portal": "Habitaclia",
+    "zona": "La Felicidad Kalea, Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 285.000e, 97m2, 4hab/1bano, 3a planta, ascensor si. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/rontegui-pormetxeta/barakaldo/4193ecb8-1f22-483f-8446-c882ae3101fb/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 225.000e, 79m2, 3hab/1bano, 7a planta. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-landaburu/rontegui-pormetxeta/barakaldo/af908f1f-e984-4279-b133-52c5d8c67a9c/d",
+    "portal": "Habitaclia",
+    "zona": "Calle Landaburu, Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 179.000e, 60m2, 3hab/1bano, 3a planta. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lutxana-llano/barakaldo/02d97205-7395-4aec-9fbe-7a9bbbf19833/d",
+    "portal": "Habitaclia",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 210.000e, 67m2, 3hab/1bano, 1a planta. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lutxana-llano/barakaldo/6903038a-fc01-4675-a578-3e04acaf167f/d",
+    "portal": "Habitaclia",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 220.000e, 85m2, 3hab/1bano, 3a planta, ascensor si. Sin balcon/terraza mencionado. (Mismo inmueble ya visto con URL distinta en version /comprar/ el 2026-10-23.)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/434308-41763047",
+    "portal": "Trovimap",
+    "zona": "Calle Portu, San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 260.000e, 113m2, 3hab/2banos (dato inconsistente con otra copia que dice 1 bano), 3a planta, ascensor si, ano 1910. Sin balcon/terraza mencionado. Duplicado tambien en 382244-41760306."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41760306",
+    "portal": "Trovimap",
+    "zona": "Calle Portu, San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: duplicado de 434308-41763047. 260.000e, 113m2, 3hab/1bano (dato inconsistente), 3a planta, ascensor si, ano 1910. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41755057",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 287.000e, 80m2, 3hab/1bano, 6a planta, ascensor si. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/516425-41734906",
+    "portal": "Trovimap",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 299.000e, ~81m2 construidos/71 utiles, 3hab/1bano, 2a planta, sin ascensor, reformado 2026. Tiene jardin pero no balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41766536",
+    "portal": "Trovimap",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 178.000e. Solo 2 habitaciones (minimo exigido: 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41766153",
+    "portal": "Trovimap",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 199.000e. Solo 2 habitaciones (minimo exigido: 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/528725-41757847",
+    "portal": "Trovimap",
+    "zona": "Barakaldo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 105.000e. Solo 2 habitaciones (minimo exigido: 3)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/478753-41758297",
+    "portal": "Trovimap",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 255.000e, 72m2, 3hab/1bano, planta baja, sin ascensor, ano 1961, a reformar. Sin balcon/terraza mencionado (solo ventanales a patio de comunidad)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/centro-urbano-hirigunea/leioa/3bee3edd-6528-4536-9484-85d17e948169/d",
+    "portal": "Habitaclia",
+    "zona": "Centro Urbano-Hirigunea, Leioa",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 260.000e, 79m2, 3hab/1bano, planta baja, ascensor si, ano 1974, a reformar. Sin balcon/terraza mencionado."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41727726",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 349.000e, 83m2, 2hab/1bano. Excede precio maximo y solo 2 habitaciones."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/0bb09055-6c10-431c-bd4b-3e378b8cbd6e/d",
+    "portal": "Habitaclia",
+    "zona": "Jose Luis Goioaga Etorbidea 18, Erandio",
+    "first_seen": "2026-10-29",
+    "nota": "Descartado: 298.000e, 100m2, 2hab/2banos, con balcon. Solo 2 habitaciones (minimo exigido: 3)."
   }
 ]
