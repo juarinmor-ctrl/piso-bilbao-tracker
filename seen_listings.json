@@ -6741,5 +6741,82 @@
     "zona": "Jose Luis Goioaga Etorbidea 18, Erandio",
     "first_seen": "2026-10-29",
     "nota": "Descartado: 298.000e, 100m2, 2hab/2banos, con balcon. Solo 2 habitaciones (minimo exigido: 3)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-ascensor-amueblado/191250843/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-10-30",
+    "nota": "VALIDO - 270.000e, 85m2, 3 hab, 1 bano, 3a planta, ascensor si (cota 0), balcon si, reformado hace ~6 anos. Publicado hace ~9h (fresco, dentro de ventana 24-48h). Metro: ~10 min andando a Barakaldo o Bagatza (L2). Anunciante: Inmobiliaria Habitak."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41723177",
+    "portal": "Trovimap",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 345.000e, 67m2, 3hab/1bano. Excede precio maximo (300.000e). Ultima actualizacion hace 8 dias, fuera de ventana 24-48h."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41237300",
+    "portal": "Trovimap",
+    "zona": "Getxo (urbanizacion privada)",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 398.000e (antes 425.000e), 80m2, 2hab/2banos. Excede precio maximo y no cumple minimo 3 habitaciones."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41734080",
+    "portal": "Trovimap",
+    "zona": "Usategui-Trinitarios, Getxo",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 900.000e, 240m2, 6hab/2banos, obra nueva. Excede ampliamente el precio maximo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41726073",
+    "portal": "Trovimap",
+    "zona": "Usategui-Trinitarios, Getxo",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 600.000e, 170m2, 5hab/2banos, obra nueva. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-jardin-terraza-ascensor-amueblado/191252271/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 307.500e, 76m2, 3hab/1bano, balcon con acceso a terraza comunitaria privativa, 1a planta, publicado hace 4h (fresco). Excede precio maximo por 7.500e."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/leioa/calefaccion-terraza-zona-comunitaria-ascensor/191223238/d",
+    "portal": "Fotocasa",
+    "zona": "Aldekoena-Artatzagana-Sarriena, Leioa",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 380.000e, 90m2, 3hab/2banos, terraza/zona comunitaria, 5a planta, publicado hace 2 dias. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/calefaccion-parking-terraza-ascensor-amueblado/191248049/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 850.000e, 213m2, 5hab/4banos, publicado hace 13h. Excede ampliamente el precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-terraza-trastero-ascensor/191235902/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio (atico)",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 499.000e, atico 103m2+36m2 altillo, 3hab/2banos, construccion 2002, publicado ayer. Excede precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor-amueblado/191128155/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 300.000e (justo en el limite), 80m2, 3hab/1bano, ascensor cota cero, cerca de estacion de metro segun descripcion, publicado hace 13 dias - fuera de ventana 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-terraza/191214424/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Deusto, Bilbao",
+    "first_seen": "2026-10-30",
+    "nota": "Descartado: 299.000e, 83m2, 3hab/1bano, balcon, 1a planta, publicado hace 3 dias (marcado 'Nuevo' por el portal pero fuera de nuestra ventana de 24-48h)."
   }
 ]
