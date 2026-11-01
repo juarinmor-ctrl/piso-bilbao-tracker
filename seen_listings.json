@@ -6818,5 +6818,19 @@
     "zona": "San Ignacio-Elorrieta, Deusto, Bilbao",
     "first_seen": "2026-10-30",
     "nota": "Descartado: 299.000e, 83m2, 3hab/1bano, balcon, 1a planta, publicado hace 3 dias (marcado 'Nuevo' por el portal pero fuera de nuestra ventana de 24-48h)."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/terraza-ascensor/191257107/d",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto - La Ribera, Deusto, Bilbao",
+    "first_seen": "2026-11-01",
+    "nota": "Descartado: 499.990e, 91m2, 3hab/2banos, terraza con vistas a la ria, 7a planta, ascensor nuevo a cota cero en instalacion, publicado ayer. Excede ampliamente el precio maximo."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-ascensor-piscina/191260125/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-01",
+    "nota": "Descartado: 625.000e, 153m2, 4hab/2banos, terraza (~9m2) mas tendedero, 6a planta, obra nueva (Urban Galindo), publicado ayer. Excede ampliamente el precio maximo."
   }
 ]
