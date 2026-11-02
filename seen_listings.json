@@ -6832,5 +6832,89 @@
     "zona": "Lasesarre, Barakaldo",
     "first_seen": "2026-11-01",
     "nota": "Descartado: 625.000e, 153m2, 4hab/2banos, terraza (~9m2) mas tendedero, 6a planta, obra nueva (Urban Galindo), publicado ayer. Excede ampliamente el precio maximo."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/antonio-guezala-margolariaren-kalea/deusto/bilbao/86eaf970-d29c-4fb3-a742-8ea9c8020dff/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta, Deusto (Bilbao)",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato valido - 299.000e, 83m2, 3hab/1bano, balcon/terraza si, planta 1a, 1950, ascensor no especificado, fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/deusto/bilbao/f84817fe-99cd-4b5a-9b87-620264a9bfca/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta, Deusto (Bilbao)",
+    "first_seen": "2026-11-02",
+    "nota": "Descartado - 315.000e, supera el precio maximo de 300.000e"
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar-piso-estupendo_de_4_habitaciones_con_balcon_agirre_lehendakariaren_etorbidea_180_san_ignacio_elorrieta-bilbao-i37660000000283.htm",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta, Deusto (Bilbao)",
+    "first_seen": "2026-11-02",
+    "nota": "Descartado - 359.900e, supera el precio maximo de 300.000e"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-trastero-ascensor/191256501/d",
+    "portal": "Fotocasa / Habitaclia (mismo anuncio, ref LCBI44191)",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato valido - 249.000e, 75m2 (70 util), 3hab/1bano, balcon si, 2a planta con ascensor, 1972, publicado hace 2 dias (31-10-2026) segun Fotocasa"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/bagatza-san-vicente/barakaldo/4ef1ecac-e76f-4b47-9c17-791830855271/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato valido - 270.000e, 77m2, 3hab/1bano, balcon si, 2a planta con ascensor, 1969, fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/extremadura-kalea/arteagabeitia-retuerto-kareaga/barakaldo/a7b1d4ed-29d5-434a-901e-52ab1a9cc853/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato valido - 288.000e, 100m2, 3hab/1bano, terraza si, 4a planta con ascensor, fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/ramon-y-cajal-kalea/lasesarre/barakaldo/773a60bc-c44d-4c4c-815c-aa4660d2388b/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato con reservas - 235.000e, 84m2, 3hab/1bano, balcon si (x2), 1939, SIN ascensor, a reformar; anuncio duplicado 3 veces en el portal; fecha no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/el-castanal-kalea/rontegui-pormetxeta/barakaldo/c9b399e6-eb48-4a92-8cb8-937d14b9b6d8/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegi-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato dudoso - 289.000e, 76m2, 3hab/2banos, balcon/terraza si; distancia a metro NO confirmada (zona alejada de paradas Linea 2); fecha no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/38611264-c1e5-42cb-8711-8b2852271f5d/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato valido - 295.000e, 85m2, 3hab/1bano, balcon/terraza si, fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sotzezgarbia-kalea/cruces/barakaldo/ccf55429-12a2-46c0-9e16-04a1131431c1/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-02",
+    "nota": "Descartado - 229.900e, 3hab/1bano, pero Cruces no tiene parada de metro cercana entre las solicitadas; balcon no especificado"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/getxo/las-arenas/191222617/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-11-02",
+    "nota": "ANOMALO - 140.000e, 100m2, 4hab/4banos; precio muy por debajo de mercado, descripcion con aspecto de plantilla generica sin rellenar; posible anuncio sospechoso, no incluido como candidato fiable"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/ganekogorta-monte-kalea/deusto/bilbao/075eb290-294b-4c41-96db-2c0a7f761de1/d",
+    "portal": "Habitaclia",
+    "zona": "Arangoiti, Deusto (Bilbao)",
+    "first_seen": "2026-11-02",
+    "nota": "Candidato con reservas - 235.000e, 74m2, 3hab/1bano reformado, balcon/terraza si, ascensor si, 1970; distancia a metro NO confirmada (Arangoiti es el barrio mas alejado de estaciones de Deusto); fecha no confirmada"
   }
 ]
