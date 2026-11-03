@@ -6916,5 +6916,208 @@
     "zona": "Arangoiti, Deusto (Bilbao)",
     "first_seen": "2026-11-02",
     "nota": "Candidato con reservas - 235.000e, 74m2, 3hab/1bano reformado, balcon/terraza si, ascensor si, 1970; distancia a metro NO confirmada (Arangoiti es el barrio mas alejado de estaciones de Deusto); fecha no confirmada"
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd459",
+    "portal": "Avenida 155 (inmobiliaria local)",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "CANDIDATO VALIDO - 259.000e, 90.6m2 (discrepancia con titulo que dice 85m2), 3hab/2banos, terraza/balcon confirmados (titulo menciona TERRAZA y vistas, foto de balcon), metro confirmado explicitamente (A MINUTOS DEL METRO y Hospital de Cruces); planta y ascensor no especificados; fecha de publicacion no mostrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/balejo/cruces/barakaldo/5b39477f-dcd2-49f6-8c9f-ec279f8f4e22/d",
+    "portal": "Habitaclia",
+    "zona": "Balejo, Cruces, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "CANDIDATO VALIDO - 289.000e, 89m2, 3hab/1bano, planta1, ascensor si, terraza 12m2 + terraza comunitaria confirmadas, junto a boca de metro confirmado explicitamente; año 1975, trastero ~5m2; fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-juntas-generales/centro/barakaldo/79976e84-baa1-44da-97ee-9dd5606ab62b/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "CANDIDATO VALIDO - 249.000e (bajado de 259.000e), 75m2 (70 utiles), 3hab/1bano, planta2, ascensor si, balcon confirmado con acceso desde dormitorio, muy cerca de estacion de metro confirmado explicitamente; año 1972, trastero; fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://chomon.net/inmueble/bdo-00013/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Santa Teresa, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 246.000e, 70m2, 3hab/1bano, planta3, ascensor sin parada directa en planta (hay que subir/bajar tramo), año1969; balcon/terraza NO mencionado; cercania a metro no confirmada explicitamente; honorarios 5.000e+IVA a cargo del comprador no incluidos"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41777612",
+    "portal": "Trovimap",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 272.000e, 73m2, 3hab/1bano, planta1, ascensor si, año1971, actualizado 03/11/2026; balcon/terraza no mencionado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41777610",
+    "portal": "Trovimap",
+    "zona": "Arteagabeitia, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso, posible anomalia de precio bajo - 169.000e, 55m2 (3073e/m2), 3hab/1bano, planta3, ascensor no especificado, año1948 rehabilitado, actualizado 03/11/2026; balcon/terraza no mencionado; precio bajo probablemente por falta de ascensor/terraza"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/479994-41761108",
+    "portal": "Trovimap",
+    "zona": "San Vicente, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 268.000e, 76m2, 3hab/1bano, planta5, ascensor si, año1969, actualizado 03/11/2026; balcon/terraza no mencionado; cercania a metro no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/349899b3-937a-4094-bd76-05ea2f52c0e0/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 235.000e (bajado de 245.000e), 84m2, 3hab/1bano, planta1, SIN ascensor, 2 balcones confirmados, año1939 a reformar; cercania a metro no confirmada (zona mas asociada a Cercanias/Renfe que a Metro Bilbao); duplicado tambien publicado con otras 2 URLs"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/ramon-y-cajal-kalea/lasesarre/barakaldo/ec64c04d-55c3-4e77-889b-8d78f6a355b5/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que 349899b3 (Lasesarre, 235.000e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/ramon-y-cajal-kalea/lasesarre/barakaldo/fb3adfd8-249a-42bc-ac95-1f0937891ce8/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que 349899b3 (Lasesarre, 235.000e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/la-florida-kalea/rontegui-pormetxeta/barakaldo/4b1d4f91-24f8-42c9-9971-aade8a949e77/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 295.000e, 81m2, 3hab/1bano, planta6, ascensor si (cota 0), estado muy bien; anuncio dice 'metro a pocos minutos' pero sin confirmar parada concreta; balcon/terraza no mencionado; duplicado tambien publicado con otras 2 URLs"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/la-florida-kalea/rontegui-pormetxeta/barakaldo/99382137-2118-4ae7-94f9-80cadd38bf3b/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que 4b1d4f91 (Rontegui-Pormetxeta, 295.000e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/la-florida-kalea/rontegui-pormetxeta/barakaldo/e2aadd9b-e378-47a8-872a-342694edc159/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que 4b1d4f91 (Rontegui-Pormetxeta, 295.000e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sotzezgarbia-kalea/cruces/barakaldo/fc1c3b1b-5a31-4239-b53e-fc7e64a46783/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso, posible republicacion de anuncio similar ya visto antes en la misma calle - 229.900e, 69m2, 3hab/1bano, planta3, SIN ascensor, año1965, cerca de Hospital de Cruces y metro mencionado de forma generica sin confirmar parada; balcon/terraza no mencionado; duplicado tambien publicado con otras 2 URLs"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sotzezgarbia-kalea/cruces/barakaldo/3c05b5a6-7a67-4c2b-bafe-2fdf9cf8b2cf/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que fc1c3b1b (Sotzezgarbia, Cruces, 229.900e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sotzezgarbia-kalea/cruces/barakaldo/881a78a7-c94e-4ccd-b526-d0d761ceb9c4/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo piso que fc1c3b1b (Sotzezgarbia, Cruces, 229.900e) republicado con otra URL - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/76c5e17e-05f8-45ae-b99b-9edef94d99b9/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre/Bagatza, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso, anomalia de discrepancia de superficie - 259.995e, cabecera dice 90m2 pero descripcion dice 80m2 construidos, 3hab/1bano, planta4, ascensor si, año1968; anuncio dice metro y bus a 3min pero sin confirmar parada; balcon/terraza no mencionado"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/apartment/erandio/7c2edc48-e1f9-4a7c-bf90-05fefa1640f3/d",
+    "portal": "Habitaclia",
+    "zona": "Calle Kintoena, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 219.000e, 93m2, 3hab/1bano, planta baja, exterior si pero terraza/balcon no confirmado, ascensor no indicado; cercania a metro (Lutxana/Erandio/Astrabudua) no confirmada; posible duplicado con a8ec060e (misma direccion/precio, planta distinta)"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/a8ec060e-8c23-4556-a30e-92ba082bfc9c/d",
+    "portal": "Habitaclia",
+    "zona": "Calle Kintoena, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 219.000e, misma direccion que 7c2edc48 pero planta2, a reformar; posible duplicado con datos de planta inconsistentes; balcon/terraza y cercania a metro no confirmados"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/386d5f46-db83-4129-916e-a2524663b972/d",
+    "portal": "Habitaclia",
+    "zona": "San Agustin Plaza, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Dudoso - 280.000e, m2 no indicados, 3hab/1bano, planta4, ascensor si, año1970 reformado, cocina y baño reformados; balcon/terraza no mencionado; cercania a metro no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/cb340278-1200-4f52-a95d-8832cdda821f/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-11-03",
+    "nota": "ANOMALO, riesgo alto - 140.000e, 100m2, 4hab/4banos, 'venta urgente', solo 1 foto, anunciante Opportunity Homes especializado en inmuebles ocupados/activos sin posesion, descripcion plantilla generica con placeholders sin rellenar, precio muy por debajo de mercado (1.400e/m2) para zona premium de Getxo; no recomendado, posible problema de ocupacion/posesion"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/2ea77477-c612-4bb7-a42c-b6a28636bbb7/d",
+    "portal": "Habitaclia",
+    "zona": "Jado Kalea, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "ANOMALO - cesion de remate judicial, 235.000e, 116m2, 3hab/2banos, planta1, año1955 a reformar, posiblemente ocupado sin acceso al interior, comprador asume deudas de comunidad/IBI hasta 4 años; no recomendado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41781186",
+    "portal": "Trovimap",
+    "zona": "Centro, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "ANOMALO - cesion de remate judicial sin acceso interior ni hipoteca posible, 219.870e, cabecera 116m2 pero descripcion dice 93m2 (discrepancia), 4hab/1bano, ascensor si, año1955; republicado en varios portales/agencias (ver tambien 434308-41785852 y 1b046998 en habitaclia); no recomendado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/434308-41785852",
+    "portal": "Trovimap",
+    "zona": "Centro, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo inmueble en subasta judicial que 382244-41781186 (Centro, Erandio, 219.870e) - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/1b046998-84aa-4e79-9593-7c9bffee1746/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Duplicado del mismo inmueble en subasta judicial que 382244-41781186 (Centro, Erandio, 219.870e) - ver nota de esa entrada"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-parking-trastero-ascensor/191260678/d",
+    "portal": "Fotocasa",
+    "zona": "Erandio",
+    "first_seen": "2026-11-03",
+    "nota": "Descartado - 330.000e, supera precio maximo en 30.000e; 94m2, 3hab/2banos, planta2, garaje y trastero incluidos, publicado hace 3 dias"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-terraza/190060894/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana, Barakaldo",
+    "first_seen": "2026-11-03",
+    "nota": "Descartado - antiguedad 'mas de 3 meses', fuera de ventana de 24-48h; 210.000e, 67m2, 3hab/1bano, planta1, terraza confirmada, cerca de metro Lutxana L2"
+  },
+  {
+    "url": "https://www.avenida155.es/propiedad/avd460",
+    "portal": "Avenida 155 (inmobiliaria local)",
+    "zona": "Zorroza, Bilbao",
+    "first_seen": "2026-11-03",
+    "nota": "Descartado - Zorroza no es zona valida de la busqueda y precio 335.000e supera el maximo; 3hab/2banos"
+  },
+  {
+    "url": "https://chomon.net/inmueble/l1366/",
+    "portal": "Chomon (inmobiliaria local)",
+    "zona": "Leioa",
+    "first_seen": "2026-11-03",
+    "nota": "Descartado - Leioa, 519.000e supera ampliamente el precio maximo"
   }
 ]
