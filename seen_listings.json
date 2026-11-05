@@ -7119,5 +7119,75 @@
     "zona": "Leioa",
     "first_seen": "2026-11-03",
     "nota": "Descartado - Leioa, 519.000e supera ampliamente el precio maximo"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/sagasti-kalea/cruces/barakaldo/67860a1f-e4d2-4558-88ae-4d3dcadf4928/d",
+    "portal": "Habitaclia",
+    "zona": "Sagasti Kalea, Cruces, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "CANDIDATO VALIDO - 285.000e, 75m2, 3hab/1bano, planta4, ascensor si, balcon cerrado/acristalado confirmado, a escasos metros del metro de Cruces (confirmado explicitamente); agencia HOGARDIEZ; fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/arteagabeitia-retuerto-kareaga/barakaldo/ddde9c5b-47ee-4380-9308-03b44a62a591/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "CANDIDATO VALIDO - 229.900e, 76m2, 3hab/1bano, planta1, SIN ascensor, balcon si, año1932, a dos minutos del metro de Juzgados (confirmado explicitamente); Chomon ref ART-00102; fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/arteagabeitia-retuerto-kareaga/barakaldo/5c91b14c-0f36-4f61-af6e-fd10c131d4cd/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "CANDIDATO VALIDO - 299.000e, 83m2, 3hab/1bano, ascensor si, balcon grande confirmado, a un paso de transportes como el metro (confirmado); Bengolea Inmobiliaria ref ANSIO; fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/4f6e0a5b-c3c1-4f35-9e2b-0d7132fc6b62/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "CANDIDATO VALIDO - 258.000e, 80m2, 3hab/2banos, planta5, ascensor si, balcon Y terraza confirmados, a un minuto del metro (confirmado explicitamente, el mas fuerte de la fecha); fecha de publicacion no mostrada por el portal"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/centro/barakaldo/7b7d8e6e-09cf-471e-bf10-1a9e267e299e/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "Candidato dudoso - 270.000e, 88m2, 3hab/1bano, planta3, ascensor si, balcon si, año1963 reformado; metro mencionado de forma generica sin distancia exacta; fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/rontegui-pormetxeta/barakaldo/2389de76-3c40-4f55-b382-cc4d4ddf3c8b/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegi-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "Candidato dudoso - 275.000e, 82m2, 3hab/1bano, planta7, ascensor si, balcon si, año1967; metro no mencionado; fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/bagatza-san-vicente/barakaldo/38fbe9e4-7278-4677-a60b-d170eb0a5f9f/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "Candidato dudoso - 264.900e, 63m2, 3hab/1bano, ascensor si, balcon si, año2004; metro no mencionado; fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lasesarre/barakaldo/991e2472-ad0a-4b5d-b519-df0bd634144a/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "Candidato dudoso - 270.000e, 85m2, 3hab/1bano, planta3, ascensor si, balcon si; metro no mencionado; fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/buen-pastor-kalea/lutxana-llano/barakaldo/7090fd8b-b591-4867-9a4d-11ca4ba2553a/d",
+    "portal": "Habitaclia",
+    "zona": "Buen Pastor Kalea, Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "Candidato dudoso - 170.000e, 76m2, 3hab/1bano, planta2, SIN ascensor, balcon cerrado, año1900 a reformar; metro no mencionado; fecha de publicacion no confirmada"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/arrandi-kalea/rontegui-pormetxeta/barakaldo/634bc635-9298-49da-800a-33ffb1defecd/d",
+    "portal": "Habitaclia",
+    "zona": "Arrandi Kalea, Rontegi-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-05",
+    "nota": "ANOMALO - 130.000e, discrepancia de superficie (cabecera dice 140m2 pero la descripcion desglosa 70m2 de vivienda + 55m2 de sotano/local separado), 3hab/2banos, ascensor si, balcon si, año1975, a reformar; precio bajo probablemente porque buena parte de la superficie anunciada es sotano/local, no vivienda; riesgo de inducir a error sobre el tamano real"
   }
 ]
