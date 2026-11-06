@@ -7189,5 +7189,103 @@
     "zona": "Arrandi Kalea, Rontegi-Pormetxeta, Barakaldo",
     "first_seen": "2026-11-05",
     "nota": "ANOMALO - 130.000e, discrepancia de superficie (cabecera dice 140m2 pero la descripcion desglosa 70m2 de vivienda + 55m2 de sotano/local separado), 3hab/2banos, ascensor si, balcon si, año1975, a reformar; precio bajo probablemente porque buena parte de la superficie anunciada es sotano/local, no vivienda; riesgo de inducir a error sobre el tamano real"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-furnished/191299772/d",
+    "portal": "Fotocasa",
+    "zona": "Cruces (La Paz), Barakaldo",
+    "first_seen": "2026-11-06",
+    "nota": "VALIDO: 210.000e, 77m2, 3hab/1bano, 3a planta, SIN ascensor (silla salvaescaleras), terraza acristalada + balcon (features), a pocos minutos del metro (Cruces/La Paz, cerca estacion Cruces L2). Publicado ayer (05-nov-2026) segun tag Yesterday en listado ordenado por fecha. Agencia Inmobiliaria Quorum Barakaldo-Etxebarri, ref 20596. 30 fotos. Certificado energetico G (999 kg CO2/m2/ano parece valor placeholder, verificar). Inconsistencia: ficha de filtros dice sin ascensor pero descripcion menciona silla salvaescaleras, verificar con agencia."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift/191318867/d",
+    "portal": "Fotocasa",
+    "zona": "Rontegui-Pormetxeta, Barakaldo",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado: 280.000e, 98m2, 3hab/1bano, 5a planta, ascensor si. Totalmente exterior pero SIN mencion de terraza/balcon explicita. Publicado hace 11 horas (06-nov-2026). Agencia Inmobiliaria Fueros 20."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-parking-terrace-box-room-lift-patio-swimming-pool/191299924/d",
+    "portal": "Fotocasa",
+    "zona": "Neguri, Getxo",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado: 875.000e (supera maximo 300k). 109m2, 3hab/3bano, 1a planta, terraza con vistas a jardin y piscina comunitaria, construido 2023. Publicado ayer (05-nov-2026). Agencia Inmobiliaria Quorum Getxo."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/430088-41768557",
+    "portal": "Trovimap",
+    "zona": "Lasesarre, San Vicente, Barakaldo",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado por antiguedad: 270.000e, 85m2, 3hab/1bano, 3a planta, ascensor si, balcon en salon si. Actualizado 30-oct-2026, 8 dias en mercado (fuera de ventana 24-48h). No menciona metro. Agencia Habitak."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/454054-41769157",
+    "portal": "Trovimap",
+    "zona": "Rontegui, Barakaldo",
+    "first_seen": "2026-11-06",
+    "nota": "ANOMALO/descartado: 249.000e, 77m2, 3hab(ficha)/1bano, 4a planta, ascensor si, SIN terraza/balcon mencionado. Inconsistencia de ubicacion (titulo dice Castilla-La Mancha en parte de la ficha, resto dice Bizkaia). 28 dias en mercado pese a \"actualizado hoy\" -> patron de refresco automatico, no republicacion real. Agencia Zubialde."
+  },
+  {
+    "url": "Fotocasa ref 191318085 (Deusto/San Ignacio-Elorrieta, Bilbao)",
+    "portal": "Fotocasa",
+    "zona": "Deusto/San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado: 255.000e, 58m2, 2hab (minimo requerido 3), 1bano, 5a planta, ascensor si, sin balcon/terraza mencionado. Publicado hace 12 horas (cumple recencia pero no habitaciones ni balcon)."
+  },
+  {
+    "url": "Habitaclia ref 3374, Avenida Enekuri (En Casa de Ana)",
+    "portal": "Habitaclia",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado solo por precio: 320.000e (20.000e sobre el limite de 300k), 68m2 (61 utiles), 3hab, 1bano, 3a planta, ascensor si, balcon si, a 2 min del metro Deusto. Sin fecha de publicacion visible."
+  },
+  {
+    "url": "Habitaclia ref 3936 (Olatz Inmobiliaria)",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Descartado solo por precio: 315.000e (15.000e sobre el limite), 78m2, 3hab, 1bano, 1a planta, balcon si, cerca del metro San Ignazio. Sin fecha de publicacion visible."
+  },
+  {
+    "url": "Habitaclia ref LCBI45015",
+    "portal": "Habitaclia",
+    "zona": "Zabala (cerca de Miribilla, pero NO es Miribilla), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Cumple precio/habitaciones (256.499e, 77m2, 3hab, 1bano, 5a planta, ascensor si, terraza si, a reformar) pero esta en Zabala, no en Miribilla. Sin fecha de publicacion visible."
+  },
+  {
+    "url": "Habitaclia ref 01078 (Inmobiliaria Santutxu)",
+    "portal": "Habitaclia",
+    "zona": "Atxuri/Ibaiondo (cerca de Miribilla, pero NO es Miribilla), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Cumple precio/habitaciones (242.000e, 74m2, 3hab, 1bano, 1a planta, ascensor si, terraza si) pero esta en Atxuri, no en Miribilla."
+  },
+  {
+    "url": "Erreka Inmobiliaria ref EI00195",
+    "portal": "Erreka Inmobiliaria",
+    "zona": "La Peña/Ibaiondo (cerca de Miribilla, pero NO es Miribilla), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Cumple precio/habitaciones/banos (279.900e, 97m2, 3hab, 2banos, 10a planta, ascensor si, terraza 4m2) pero esta en La Peña, no en Miribilla."
+  },
+  {
+    "url": "Habitaclia ref LCBI39690",
+    "portal": "Habitaclia",
+    "zona": "Zabala (cerca de Miribilla, pero NO es Miribilla), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Cumple precio (279.900e, 115m2, 3hab, 1bano, 2a planta, SIN ascensor, 3 balcones, año1900) pero esta en Zabala, no en Miribilla."
+  },
+  {
+    "url": "https://zorrotzaurre.com/en/?p=24488",
+    "portal": "Zorrotzaurre.com / Etxebide (expediente EB2-0430/24-LT-000, promotora Amenabar)",
+    "zona": "Zorrotzaurre (Deusto/San Ignacio), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Promocion de vivienda tasada 'RD-3': 131 viviendas, 7 de ellas de 3hab/2banos (88.52m2) desde 181.590e hasta 293.503e (adaptada 240.085e). Plazo de inscripcion en Etxebide YA CERRADO (22-abr a 22-may-2024), no confirmado si quedan unidades disponibles para compra directa. No se confirma balcon/terraza ni ascensor explicitamente. No reportado como valido."
+  },
+  {
+    "url": "https://www.deia.eus/bizkaia/2026/05/11/zorrozaurre-homes-ii-viviendas-listas-bilbao-11024966.html",
+    "portal": "Neinor Homes (promocion privada de mercado libre, no VPO)",
+    "zona": "Zorrotzaurre (Deusto), Bilbao",
+    "first_seen": "2026-11-06",
+    "nota": "Zorrozaurre Homes II: 160 viviendas de 1-3 hab, entrega inmediata. Unidades de 3hab/2banos (~118m2) vistas a ~509.000e, muy por encima del limite de 300k. No es vivienda protegida ni procede de Visesa/Etxebide/ayuntamiento. No se confirmaron unidades <=300k, balcon/terraza, ni distancia a metro."
   }
 ]
