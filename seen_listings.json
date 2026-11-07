@@ -7287,5 +7287,26 @@
     "zona": "Zorrotzaurre (Deusto), Bilbao",
     "first_seen": "2026-11-06",
     "nota": "Zorrozaurre Homes II: 160 viviendas de 1-3 hab, entrega inmediata. Unidades de 3hab/2banos (~118m2) vistas a ~509.000e, muy por encima del limite de 300k. No es vivienda protegida ni procede de Visesa/Etxebide/ayuntamiento. No se confirmaron unidades <=300k, balcon/terraza, ni distancia a metro."
+  },
+  {
+    "url": "https://inmobiliariaherrikoplaza.com/piso-en-barakaldo-es1794303.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-07",
+    "nota": "Cumple precio/habitaciones (270.000e, 80m2, 3hab, 1bano, reformado) pero NO se confirma balcon/terraza ni fecha de publicacion/actualizacion en la ficha (la web solo usa etiquetas 'Novedad'/'Exclusiva' sin fecha, no se puede verificar 24-48h). No reportado como valido."
+  },
+  {
+    "url": "https://inmobiliariaherrikoplaza.com/piso-en-barakaldo-con-ascensor-es1578716.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Andikollano/Lutxana, Barakaldo",
+    "first_seen": "2026-11-07",
+    "nota": "Cumple precio/habitaciones (266.000e, 80m2, 3hab, 2banos, obra nueva, ascensor si) pero NO se confirma balcon/terraza ni fecha de publicacion/actualizacion. No reportado como valido."
+  },
+  {
+    "url": "https://inmobiliariaherrikoplaza.com/piso-en-barakaldo-es1760903.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Barakaldo (sin especificar barrio exacto)",
+    "first_seen": "2026-11-07",
+    "nota": "Cumple precio/habitaciones (249.000e, 82m2, 3hab, 2banos, planta baja, cocina americana) pero NO se confirma balcon/terraza ni fecha de publicacion/actualizacion. No reportado como valido."
   }
 ]
