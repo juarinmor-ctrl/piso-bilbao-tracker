@@ -7308,5 +7308,82 @@
     "zona": "Barakaldo (sin especificar barrio exacto)",
     "first_seen": "2026-11-07",
     "nota": "Cumple precio/habitaciones (249.000e, 82m2, 3hab, 2banos, planta baja, cocina americana) pero NO se confirma balcon/terraza ni fecha de publicacion/actualizacion. No reportado como valido."
+  },
+  {
+    "url": "https://www.avenida155.es/es/propiedad/AVD459",
+    "portal": "Avenida155 (web propia)",
+    "zona": "Grupo La Paz / Cruces, Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 259.000e, 85-90.6m2 (discrepancia en la propia ficha), 3hab/2banos, terraza si, planta/ascensor no indicados, zona 1972. Menciona \"a minutos del metro y Hospital Universitario de Cruces\" sin distancia exacta. Fecha de publicacion NO confirmada. Mismo inmueble tambien sindicado en Habitaclia (ver otra entrada de hoy)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/grupo-la-paz/cruces/barakaldo/9981e6fa-4720-4134-8331-7697787304b0/d",
+    "portal": "Habitaclia",
+    "zona": "Grupo La Paz / Cruces, Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. Mismo inmueble que Avenida155 AVD459 (misma agencia, precio y zona). 259.000e, 3hab, 1-2banos (discrepancia), planta 4o, ascensor si (x2), ano 1972, terraza si (cerrada), metro mencionado de forma generica (Hospital de Cruces) sin distancia exacta. Fecha de publicacion/actualizacion NO confirmada."
+  },
+  {
+    "url": "https://inmobiliariaherrikoplaza.com/piso-en-barakaldo-con-ascensor-es1794303.html",
+    "portal": "Inmobiliaria Herriko Plaza",
+    "zona": "Lasesarre, Barakaldo (ref. PIS1199)",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 270.000e, 78-80m2, 3hab/1bano (posibilidad de 2o), planta 3o exterior, ascensor si (cota cero). Balcon/terraza AMBIGUO: descripcion menciona balcon pero la ficha dice \"Terraza: No Acristalada\". Metro no mencionado explicitamente. Fecha de publicacion NO confirmada (etiqueta \"Novedad\" sin fecha). Mismo inmueble tambien sindicado en Habitaclia (ver otra entrada de hoy)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/lasesarre/barakaldo/16642da0-02e2-4b2d-95d1-3eaee4d84c12/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. Mismo inmueble que Inmobiliaria Herriko Plaza PIS1199 (misma agencia, precio y zona). 270.000e, 80m2, 3hab/1bano (posibilidad 2o), planta 3o, ascensor si, terraza/balcon si segun esta ficha. Metro no explicito (solo \"1 min del centro de Barakaldo\"). Fecha de publicacion/actualizacion NO confirmada (Habitaclia no muestra fecha)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/araba-kalea/rontegui-pormetxeta/barakaldo/69d162df-348d-480c-8b35-a357868d9412/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta (Araba Kalea), Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 276.000e, 79m2, 3hab/1bano, planta 4o, ascensor si (cota 0), ano 1970, terraza si. Anunciante Inmobiliaria MC Gestion. Metro no mencionado en el anuncio. Fecha de publicacion/actualizacion NO confirmada (Habitaclia no muestra fecha)."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/economia-kalea/arteagabeitia-retuerto-kareaga/barakaldo/4305bdc5-4abd-4dca-8bc7-967e80362b9a/d",
+    "portal": "Habitaclia",
+    "zona": "Arteagabeitia-Retuerto-Kareaga (Economia Kalea), Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 285.000e, 78m2, 3hab/1bano, planta 1o, ascensor si, ano 1972, balcon Y terraza (ambos mencionados). Anunciante Inmobiliaria MC Gestion. Metro no mencionado. Fecha de publicacion/actualizacion NO confirmada."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/lasesarre/barakaldo/166a2572-38fd-4af9-8c87-486d6bc7b54b/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 285.000e (bajo 10.000e), 85m2, 3hab/1bano, planta 2o, ascensor si, terraza si (soleada, con vistas). Anunciante Inmobiliaria Fueros 20. Metro mencionado solo de forma generica (\"Metro, Tren, Bus\" cercanos) sin distancia. Fecha de publicacion/actualizacion NO confirmada."
+  },
+  {
+    "url": "https://www.habitaclia.com/comprar/planta-intermedia/lasesarre/barakaldo/1e4e2ac6-a740-4686-9939-dd9bae3fa17e/d",
+    "portal": "Habitaclia",
+    "zona": "Lasesarre (Bide-Gorri), Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 270.000e, 85m2 construidos/75 utiles, 3hab/1bano, planta 3o, ascensor si (a nivel de calle), terraza si (salida desde salon). Anunciante Inmobiliaria Fueros 20. La oficina de la inmobiliaria esta junto al Metro Barakaldo pero no se confirma que la vivienda este a esa distancia. Fecha de publicacion/actualizacion NO confirmada."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-ascensor/191325936/d",
+    "portal": "Fotocasa",
+    "zona": "Rontegi-Pormetxeta (calle Etxatxu), Barakaldo",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO (candidato mas solido de hoy). 280.000e, 100m2, 3hab/1bano, planta 5a, ascensor si, balcon si (explicito). Anunciante Nortealde Promociones Inmobiliarias. Fecha de publicacion CONFIRMADA \"hace 2 dias\" (dentro de ventana 24-48h). Unico criterio sin confirmar: distancia exacta a metro (zona entre Barakaldo centro y Urban Galindo, no confirmada explicitamente en el anuncio)."
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/500461-41823064",
+    "portal": "Trovimap",
+    "zona": "Altzaga (Calle Ibarra), Erandio",
+    "first_seen": "2026-11-09",
+    "nota": "DUDOSO. 170.000e, 95m2, 4hab/1bano, planta 4a SIN ascensor, ano 1947 (necesita reforma), balcon si (cerrado). Anunciante Inmobiliaria Zarate (ref. 912). \"Ultima actualizacion 08 nov 2026\" (dentro de ventana) aunque \"4 dias en el mercado\". Altzaga es el barrio de la estacion de Metro Erandio, pero el anuncio no confirma distancia exacta ni menciona la estacion explicitamente."
+  },
+  {
+    "url": "https://www.inmobiliaria-central.es/house/4292420/",
+    "portal": "Inmobiliaria Central",
+    "zona": "Ibarrekolanda (limitrofe con Sarriko), Bilbao",
+    "first_seen": "2026-11-09",
+    "nota": "DESCARTADO. 265.000e, 62-65m2 (cifras inconsistentes en la propia ficha), 3hab/1bano, planta 2a, ascensor si (cota 0), ano 1962. NO se menciona balcon ni terraza en el anuncio (incumple requisito obligatorio). Zona limitrofe con Sarriko pero no exactamente Sarriko. Metro solo \"cerca\", sin distancia. Fecha no confirmada. Anunciante Inmobiliaria Central (ref. 1189)."
   }
 ]
