@@ -7385,5 +7385,33 @@
     "zona": "Ibarrekolanda (limitrofe con Sarriko), Bilbao",
     "first_seen": "2026-11-09",
     "nota": "DESCARTADO. 265.000e, 62-65m2 (cifras inconsistentes en la propia ficha), 3hab/1bano, planta 2a, ascensor si (cota 0), ano 1962. NO se menciona balcon ni terraza en el anuncio (incumple requisito obligatorio). Zona limitrofe con Sarriko pero no exactamente Sarriko. Metro solo \"cerca\", sin distancia. Fecha no confirmada. Anunciante Inmobiliaria Central (ref. 1189)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/grupo-la-paz/cruces/barakaldo/9981e6fa-4720-4134-8331-7697787304b0/d",
+    "portal": "Habitaclia",
+    "zona": "Grupo La Paz, Cruces, Barakaldo",
+    "first_seen": "2026-11-10",
+    "nota": "DUDOSO. 259.000e, 90m2, 3hab/2banos, terraza, planta no especificada, ascensor no especificado, ano no especificado. Metro Gurutzeta/Cruces coincide con el nombre de la zona pero distancia exacta no confirmada. Habitaclia no muestra fecha de publicacion (limitacion conocida del portal), por lo que no se puede confirmar ventana de 24-48h. Posible duplicado de ficha casi identica ya registrada (ref 6620335f-005c-4382-88c2-664129d8a2d1, sin balcon/terraza mencionado)."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/avenida-euskadi/arteagabeitia-retuerto-kareaga/barakaldo/0d660899-6f8b-443d-9431-80174814f672/d",
+    "portal": "Habitaclia",
+    "zona": "Avenida Euskadi, Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-10",
+    "nota": "DUDOSO. 275.000e, 83m2, 3hab/1bano, balcon, planta no especificada, ascensor no especificado, ano no especificado. Metro Ansio/Urbinaga cercanos a la zona pero distancia exacta no confirmada. Habitaclia no muestra fecha de publicacion, por lo que no se puede confirmar ventana de 24-48h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/fc9309f0-3d53-4781-ab20-14836b2e3041/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces, Barakaldo",
+    "first_seen": "2026-11-10",
+    "nota": "DUDOSO. 290.000e, 80m2, 3hab/2banos, terraza, planta no especificada, ascensor no especificado, ano no especificado. Metro Gurutzeta/Cruces coincide con el nombre de la zona pero distancia exacta no confirmada. Habitaclia no muestra fecha de publicacion, por lo que no se puede confirmar ventana de 24-48h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/retuerto-kalea/arteagabeitia-retuerto-kareaga/barakaldo/28ab5870-7127-4cc0-a5ff-4f8eb41cdcb7/d",
+    "portal": "Habitaclia",
+    "zona": "Retuerto Kalea, Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-10",
+    "nota": "DUDOSO. 214.900e, 74m2, 3hab/1bano, balcon, planta no especificada, ascensor no especificado, ano no especificado. Metro Ansio/Urbinaga cercanos a la zona pero distancia exacta no confirmada. Habitaclia no muestra fecha de publicacion, por lo que no se puede confirmar ventana de 24-48h."
   }
 ]
