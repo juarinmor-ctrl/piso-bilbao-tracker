@@ -7413,5 +7413,40 @@
     "zona": "Retuerto Kalea, Arteagabeitia-Retuerto-Kareaga, Barakaldo",
     "first_seen": "2026-11-10",
     "nota": "DUDOSO. 214.900e, 74m2, 3hab/1bano, balcon, planta no especificada, ascensor no especificado, ano no especificado. Metro Ansio/Urbinaga cercanos a la zona pero distancia exacta no confirmada. Habitaclia no muestra fecha de publicacion, por lo que no se puede confirmar ventana de 24-48h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/antonio-guezala-margolariaren-kalea/deusto/bilbao/86eaf970-d29c-4fb3-a742-8ea9c8020dff/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio-Elorrieta (Antonio Guezala Margolariaren Kalea), Deusto, Bilbao",
+    "first_seen": "2026-11-11",
+    "nota": "DUDOSO. 299.000e, 83m2, 3hab/1bano, planta 1a, piso de esquina con terraza y balcon explicitos, ascensor no especificado, ano 1950. Barrio San Ignacio tiene estacion de metro homonima pero el anuncio no menciona metro ni distancia exacta. Habitaclia no muestra fecha de publicacion, no se puede confirmar ventana de 24-48h. Anunciante: La Casa Agency, ref LCBI45479."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-ascensor-amueblado-internet/191362097/d",
+    "portal": "Fotocasa",
+    "zona": "Centro (Francisco Gomez Kalea 5), Barakaldo",
+    "first_seen": "2026-11-11",
+    "nota": "DUDOSO. 299.900e, 70m2, 3hab/2banos, planta 2a, ascensor si. Ficha indicaba publicado hace 11 horas (dentro de ventana 24-48h) y 'a dos pasos del metro' (Avenida La Libertad), pero NO menciona balcon ni terraza en texto ni caracteristicas, por lo que no cumple ese criterio obligatorio."
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/ascensor/191351853/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua (Plaza Musico Gorostiza), Erandio",
+    "first_seen": "2026-11-11",
+    "nota": "DUDOSO. 209.900e, 68m2, 3hab/1bano, planta 2a, ascensor si, piso a reformar. Etiquetado 'Ayer'/'Nuevo' (dentro de ventana 24-48h) pero balcon/terraza NO confirmado en texto (solo una foto etiquetada 'terraza'), y no menciona metro ni distancia."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-terrace/191214424/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-11",
+    "nota": "DUDOSO/DESCARTABLE. 299.000e, 83m2, 3hab/1bano, planta 1a, piso esquinero CON BALCON explicito. Cumple precio/zona/hab/banos/balcon pero publicado hace 15 dias segun la ficha, FUERA de la ventana de 24-48h exigida."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-terrace-lift/190985270/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla/Ibaiondo (Calle Juan de Garay aprox.), Bilbao",
+    "first_seen": "2026-11-11",
+    "nota": "DUDOSO/DESCARTABLE. 245.000e (rebajado), 77m2, 3hab/1bano, planta 5a, ascensor si, TERRAZA explicita con acceso desde salon. Cumple precio/zona/hab/banos/terraza/ascensor pero publicado hace 41 dias segun la ficha, FUERA de la ventana de 24-48h exigida."
   }
 ]
