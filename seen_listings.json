@@ -7448,5 +7448,19 @@
     "zona": "Miribilla/Ibaiondo (Calle Juan de Garay aprox.), Bilbao",
     "first_seen": "2026-11-11",
     "nota": "DUDOSO/DESCARTABLE. 245.000e (rebajado), 77m2, 3hab/1bano, planta 5a, ascensor si, TERRAZA explicita con acceso desde salon. Cumple precio/zona/hab/banos/terraza/ascensor pero publicado hace 41 dias segun la ficha, FUERA de la ventana de 24-48h exigida."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/lutxana-llano/barakaldo/61ca6ad3-8f8e-49b6-a8a0-24aad9d4b404/d",
+    "portal": "Habitaclia",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-11-12",
+    "nota": "DUDOSO. 265.000e, 79m2, 3hab/1bano, planta 8a, ascensor si, balcon explicito. Agencia In-Home (ref. 296). El barrio coincide con la estacion de Metro Bilbao L2 \"Lutxana\" pero el anuncio no menciona distancia a metro de forma explicita, y Habitaclia no expone fecha de publicacion/actualizacion en la ficha, por lo que no se puede confirmar ventana de 24-48h."
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/araba-kalea/rontegui-pormetxeta/barakaldo/69d162df-348d-480c-8b35-a357868d9412/d",
+    "portal": "Habitaclia",
+    "zona": "Rontegui-Pormetxeta (Araba Kalea), Barakaldo",
+    "first_seen": "2026-11-12",
+    "nota": "DUDOSO. 276.000e, 79m2, 3hab/1bano, planta 4a, construido 1970, ascensor si, terraza explicita. Agencia MC Gestion (ref. V-1127), tambien publicado en Trovimap (ID 479994-41761107, ya registrado previamente). No menciona distancia a metro y no se pudo confirmar fecha de publicacion en ventana 24-48h en ninguno de los dos portales."
   }
 ]
