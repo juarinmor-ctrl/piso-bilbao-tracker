@@ -7483,5 +7483,26 @@
     "zona": "Miribilla (Ibaiondo), Bilbao",
     "first_seen": "2026-11-13",
     "nota": "ANOMALO. 440.000e (sobre presupuesto), superficie mostrada 12m2 claramente erronea para 3hab/2banos a ese precio -discrepancia interna evidente, probable error de introduccion de datos-. Marcado por el portal como publicado ayer. No se reporta como valido."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-terrace-lift-furnished/189769033/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-11-14",
+    "nota": "DESCARTADO. 180.000e, 62m2, 1 habitacion (titulo dice 'con posibilidad de hacer 2', no cumple minimo 3hab), 1 bano, planta 3a, ascensor no especificado, balcon/terraza no mencionado en descripcion pese a palabra 'terrace' en URL. Publicado hace mas de 3 meses, muy fuera de ventana 24-48h. Inmobiliaria Quorum."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-terrace-lift/189669062/d",
+    "portal": "Fotocasa",
+    "zona": "Lutxana-Llano, Barakaldo",
+    "first_seen": "2026-11-14",
+    "nota": "DESCARTADO. 280.000e, 79m2, 3hab/1bano, planta 4a, ascensor si (a nivel de calle). Balcon/terraza no confirmado en descripcion pese a palabra 'terrace' en URL. Publicado hace 4 dias, fuera de ventana 24-48h."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift/189796947/d",
+    "portal": "Fotocasa",
+    "zona": "Zorrotza (Basurtu-Zorrotza), Bilbao",
+    "first_seen": "2026-11-14",
+    "nota": "DESCARTADO. Zona fuera de las zonas objetivo (Zorrotza no es Sarriko/San Ignacio/Deusto/Miribilla). 335.000e (sobre presupuesto maximo), 85m2 (cabecera)/82m2 (descripcion, discrepancia), 3hab/2banos, planta 2a, ascensor si, 2 balcones y 2 terrazas confirmados. Publicado hace 16 dias, fuera de ventana 24-48h. Descartado por zona, precio y fecha."
   }
 ]
