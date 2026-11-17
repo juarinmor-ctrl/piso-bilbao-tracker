@@ -7532,5 +7532,89 @@
     "zona": "Centro/San Vicente, Barakaldo",
     "first_seen": "2026-11-16",
     "nota": "DESCARTADO. Piso en el centro, 189.900e, 65m2, 1 bano, planta 2, balcon (salida a balcon en cocina), a 20m del metro Elcano (cumple distancia). Descartado: ultima actualizacion 10-nov-2026 (7 dias en mercado, fuera de ventana 24-48h); ademas discrepancia interna de habitaciones (descripcion dice 3, ficha muestra 4)."
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift/189214498/d",
+    "portal": "Fotocasa",
+    "zona": "Bolueta/Santutxu, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: zona fuera de objetivo, solo 2 habitaciones (minimo 3), 207.000e, publicado hace 62 dias (fuera de ventana 24-48h)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-not-furnished/189052844/d",
+    "portal": "Fotocasa",
+    "zona": "Travesia Zabala/Ibaiondo-San Francisco, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 478.000e sobre presupuesto, zona fuera de objetivo, sin fecha de publicacion confirmable. Mismo inmueble que Habitaclia i31100000001624"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-bilbao-i31100000001624.htm",
+    "portal": "Habitaclia",
+    "zona": "Travesia Zabala/Ibaiondo-San Francisco, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 478.000e sobre presupuesto, zona fuera de objetivo. Mismo inmueble que Fotocasa 189052844"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-bilbao-i30257000000727.htm",
+    "portal": "Habitaclia",
+    "zona": "San Francisco/Ibaiondo, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 199.000e, 3hab/1bano, zona fuera de objetivo, sin fecha de publicacion ni metro a menos de 10-15min confirmados"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-zabala-bilbao-i34751000000752.htm",
+    "portal": "Habitaclia",
+    "zona": "Zabala/Ibaiondo, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 279.900e, 3hab/1bano, 3 balcones, zona fuera de objetivo, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-bilbao-i30816000000401.htm",
+    "portal": "Habitaclia",
+    "zona": "Begona-Santutxu, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 359.000e sobre presupuesto, zona fuera de objetivo"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-parking-terrace-lift/188139822/d",
+    "portal": "Fotocasa",
+    "zona": "Santutxu-Basarrate, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 190.000e, solo 2 habitaciones (minimo 3), sin ascensor, zona fuera de objetivo"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift/188084103/d",
+    "portal": "Fotocasa",
+    "zona": "San Pedro de Deusto/Zorrozaurre, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 370.000e sobre presupuesto, 3hab/1bano, balcon"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-box-room-lift/189398518/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto-Ibarrekolanda, Bilbao",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 269.000e, VPO tasada con restriccion legal de comprador (baremo de movilidad/discapacidad), ademas solo 1 habitacion"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/erandio/heating-terrace-lift/189978593/d",
+    "portal": "Fotocasa",
+    "zona": "Tartanga, Erandio",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 330.000e sobre presupuesto, 94m2, 3hab/2banos, 2a planta con ascensor, balcon no confirmado, publicado hace 17 dias (fuera de ventana 24-48h)"
+  },
+  {
+    "url": "https://fotocasa.es/en/buy/home/leioa/heating-parking-terrace-box-room-lift/188774490/d",
+    "portal": "Fotocasa",
+    "zona": "Artatza-Pinueta-Pinosolo, Leioa",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: atico a 790.000e muy sobre presupuesto, publicado hace 10 dias (fuera de ventana). Probablemente mismo inmueble que ficha 188529517/d ya vista en ejecuciones previas"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/calle-juntas-generales/centro/barakaldo/0ac10bc5-239b-4c3e-b4e2-4b8e0316f075/d",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-17",
+    "nota": "Descartado: 249.000e, 75m2, 3hab/1bano, balcon, 2a planta; sin fecha de publicacion confirmable (limitacion estructural de Habitaclia). Ficha duplicada del mismo inmueble que .../79976e84-baa1-44da-97ee-9dd5606ab62b/d (ya registrado desde 2026-11-03)"
   }
 ]
