@@ -7616,5 +7616,47 @@
     "zona": "Centro, Barakaldo",
     "first_seen": "2026-11-17",
     "nota": "Descartado: 249.000e, 75m2, 3hab/1bano, balcon, 2a planta; sin fecha de publicacion confirmable (limitacion estructural de Habitaclia). Ficha duplicada del mismo inmueble que .../79976e84-baa1-44da-97ee-9dd5606ab62b/d (ya registrado desde 2026-11-03)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/san-ignacio-elorrieta/191424204/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 260.000e, 73m2, 3hab/1bano, 3a planta SIN ascensor, balcon/terraza NO mencionado en la ficha (requisito obligatorio no confirmado), publicado hace ~11h (agencia La Casa Agency Punto Valencia Rio, ref LCBI45858-1)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-lift-not-furnished/191408005/d",
+    "portal": "Fotocasa",
+    "zona": "Deusto, Bilbao",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 320.000e sobre presupuesto (limite 300.000e), 70m2, 3hab/1bano, 3a planta, con balcon (agencia Engel & Volkers Bilbao), publicado 'ayer'"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-box-room-lift-patio-internet-not-furnished/191421143/d",
+    "portal": "Fotocasa",
+    "zona": "Santa Maria de Getxo, Getxo",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 310.000e sobre presupuesto y solo 2 habitaciones (minimo 3), 55m2, planta baja, balcon/terraza no confirmado (menciona 'patio' en URL pero no en descripcion), publicado hace 15h (agencia Tangora Inmobiliaria)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift-furnished/191413894/d",
+    "portal": "Fotocasa",
+    "zona": "Barakaldo",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 219.000e, solo 2 habitaciones (minimo 3), 70m2 construidos/58 utiles, 1a planta con ascensor, balcon/terraza no mencionado, publicado 'ayer'"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/leioa/box-room-lift-furnished/191411154/d",
+    "portal": "Fotocasa",
+    "zona": "Leioa",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 293.000e, solo 1 habitacion (antes 2, segun descripcion; minimo requerido 3), 71m2, balcon/terraza no mencionado, publicado 'ayer'"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/erandio/lift-not-furnished/191424826/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-11-18",
+    "nota": "Descartado: 280.000e, solo 2 habitaciones (minimo 3), 66m2, 5a planta, balcon/terraza no mencionado, publicado hace ~10h (agencia Inmobiliaria Aldekoane)"
   }
 ]
