@@ -7658,5 +7658,26 @@
     "zona": "Astrabudua, Erandio",
     "first_seen": "2026-11-18",
     "nota": "Descartado: 280.000e, solo 2 habitaciones (minimo 3), 66m2, 5a planta, balcon/terraza no mencionado, publicado hace ~10h (agencia Inmobiliaria Aldekoane)"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-getxo-i32653000000356.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-11-20",
+    "nota": "Descartado: 380.000e sobre presupuesto (max 300.000e), 140m2, 3hab/2banos, 4a planta, ascensor si, balcon en caracteristicas (descripcion menciona 2 terrazas), solo 2 fotos, certificado energetico pendiente, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-getxo-i32653000000286.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Algorta, Getxo",
+    "first_seen": "2026-11-20",
+    "nota": "Descartado: 320.000e sobre presupuesto (max 300.000e), 90m2, 3hab/1bano, 3a planta sin ascensor, terraza (2 segun descripcion), titulo menciona atico pero ficha es 3a planta (posible ampliacion futura), solo 1 foto, certificado energetico pendiente, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-bilbao-i29658000000588.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "San Pedro de Deusto - La Ribera, Deusto, Bilbao",
+    "first_seen": "2026-11-20",
+    "nota": "Descartado: 540.000e muy sobre presupuesto (max 300.000e), 81m2, 3hab/2banos, 5a planta, ascensor si, terraza privada, construido ~1975 reformado integral, sin fecha de publicacion confirmable"
   }
 ]
