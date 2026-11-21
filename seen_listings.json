@@ -7679,5 +7679,61 @@
     "zona": "San Pedro de Deusto - La Ribera, Deusto, Bilbao",
     "first_seen": "2026-11-20",
     "nota": "Descartado: 540.000e muy sobre presupuesto (max 300.000e), 81m2, 3hab/2banos, 5a planta, ascensor si, terraza privada, construido ~1975 reformado integral, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i32653000000216.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Aldekoena - Artatzagana - Sarriena, Leioa",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: 380.000e sobre presupuesto (max 300.000e), 110m2, 3hab/2banos, 3a planta, ascensor si, terraza sugerida en titulo, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-barakaldo-i34751000000896.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: 410.000e sobre presupuesto (max 300.000e), 119m2, 3hab (posible 4)/2banos, 4a planta, ascensor si, 2 balcones confirmados, sin fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-erandio-i41567000000114.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Erandio",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: ficha individual redirige a listado agregado de zona (26 pisos+casas), no verificable como anuncio individual independiente; posible anuncio retirado/caducado"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i29666000000879.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Leioa",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: ficha individual redirige a listado agregado de zona (27 pisos), no verificable como anuncio individual independiente; incluia candidato interesante en Avenida Amaia/Lamiako-Txopoeta ~270.000e 3hab/1bano balcon pero sin URL individual propia ni fecha de publicacion, no reportable sin enlace directo verificable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i29666000000868.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Leioa",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: ficha individual redirige al mismo listado agregado de zona que i29666000000879, no verificable como anuncio individual independiente"
+  },
+  {
+    "url": "https://es.wallapop.com/item/piso-en-venta-en-bagatza-san-vicente-en-barakaldo-1288010462",
+    "portal": "Wallapop",
+    "zona": "Bagatza - San Vicente, Barakaldo",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: fetch directo bloqueado (403); via snippet de busqueda 252.900e, 75m2, 3hab, frente a metro de Bagatza, pero balcon/terraza no confirmado y sin garaje, no verificable individualmente"
+  },
+  {
+    "url": "https://es.wallapop.com/item/piso-en-venta-en-lutxana-llano-en-barakaldo-1289578803",
+    "portal": "Wallapop",
+    "zona": "Lutxana - Llano, Barakaldo",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: no verificado individualmente (historico de bloqueo 403 en Wallapop), variante probablemente del mismo inventario recurrente de Lutxana-Llano ya registrado"
+  },
+  {
+    "url": "https://es.wallapop.com/item/piso-en-venta-en-lutxana-llano-en-barakaldo-1289629534",
+    "portal": "Wallapop",
+    "zona": "Lutxana - Llano, Barakaldo",
+    "first_seen": "2026-11-21",
+    "nota": "Descartado: no verificado individualmente (historico de bloqueo 403 en Wallapop), variante probablemente del mismo inventario recurrente de Lutxana-Llano ya registrado"
   }
 ]
