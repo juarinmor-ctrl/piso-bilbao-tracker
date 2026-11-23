@@ -7735,5 +7735,33 @@
     "zona": "Lutxana - Llano, Barakaldo",
     "first_seen": "2026-11-21",
     "nota": "Descartado: no verificado individualmente (historico de bloqueo 403 en Wallapop), variante probablemente del mismo inventario recurrente de Lutxana-Llano ya registrado"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i29909000000607.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Leioa",
+    "first_seen": "2026-11-23",
+    "nota": "Descartado: ficha individual redirige a listado agregado de zona (43 pisos en Leioa), no verificable como anuncio individual independiente; ningun resultado visible de la pagina cumplia simultaneamente presupuesto, minimo 3 habitaciones, balcon/terraza y fecha de publicacion confirmable"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i30010000001327.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Artaza, Leioa",
+    "first_seen": "2026-11-23",
+    "nota": "Descartado: duplex de 240m2 a 850.000e, muy sobre presupuesto (maximo 300.000e); terraza de ~50m2 confirmada pero precio descarta el anuncio; sin fecha de publicacion visible"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-leioa-i29666000000877.htm",
+    "portal": "Habitaclia (EN)",
+    "zona": "Artatza-Pinueta-Pinosolo / Romo, Leioa",
+    "first_seen": "2026-11-23",
+    "nota": "Descartado: piso de 282.000e con terraza acristalada pero solo 2 habitaciones y 1 bano, no cumple minimo de 3 habitaciones; direccion inconsistente entre Leioa y Romo (Getxo)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/481764-33920900",
+    "portal": "Trovimap",
+    "zona": "Portugalete",
+    "first_seen": "2026-11-23",
+    "nota": "Descartado: fuera de zona objetivo (Portugalete no esta en la lista de barrios/municipios); ademas sobre presupuesto (598.000e) y fuera de ventana de frescura (692 dias en mercado, ultima actualizacion 21 sept 2026)"
   }
 ]
