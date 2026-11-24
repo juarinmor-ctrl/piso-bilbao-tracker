@@ -7763,5 +7763,19 @@
     "zona": "Portugalete",
     "first_seen": "2026-11-23",
     "nota": "Descartado: fuera de zona objetivo (Portugalete no esta en la lista de barrios/municipios); ademas sobre presupuesto (598.000e) y fuera de ventana de frescura (692 dias en mercado, ultima actualizacion 21 sept 2026)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-garden-box-room-lift/191450423/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-24",
+    "nota": "Descartado: sobre presupuesto (315.000e, max 300.000e); ademas se trata de una venta en NUDA PROPIEDAD (el vendedor retiene el usufructo vitalicio), no una compra convencional - anomalia relevante a senalar; sin balcon/terraza confirmado (solo jardin interior privado); 1 bano; calle Larrakotorre, 89m2, 3hab, planta 5a, ascensor si; publicado hace 3 dias segun Fotocasa"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/san-ignacio-elorrieta/191419488/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta / Deusto, Bilbao",
+    "first_seen": "2026-11-24",
+    "nota": "Descartado: fuera de ventana de frescura 24-48h (actualizado hace 6 dias segun Fotocasa); precio si cumple (260.000e) y habitaciones si cumple (3hab/1bano), pero sin balcon/terraza confirmado y sin dato de ascensor; calle Antonio Guezala Margolariaren, 73m2, 3a planta, agencia La Casa Agency - Estudio Madariaga"
   }
 ]
