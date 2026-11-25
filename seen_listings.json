@@ -7777,5 +7777,33 @@
     "zona": "San Ignacio-Elorrieta / Deusto, Bilbao",
     "first_seen": "2026-11-24",
     "nota": "Descartado: fuera de ventana de frescura 24-48h (actualizado hace 6 dias segun Fotocasa); precio si cumple (260.000e) y habitaciones si cumple (3hab/1bano), pero sin balcon/terraza confirmado y sin dato de ascensor; calle Antonio Guezala Margolariaren, 73m2, 3a planta, agencia La Casa Agency - Estudio Madariaga"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/471345-41950577",
+    "portal": "Trovimap",
+    "zona": "San Ignacio (Arturo Kanpion), Bilbao",
+    "first_seen": "2026-11-25",
+    "nota": "Descartado: 262.000e, 99m2, 3hab/1bano, etiqueta \"Nuevo\" pero sin fecha exacta de publicacion confirmable; balcon/terraza no confirmado (solo \"exterior y luminoso\" en descripcion); ascensor no confirmado"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/erandio/calefaccion-ascensor/191484943/d",
+    "portal": "Fotocasa",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-11-25",
+    "nota": "Descartado: 275.000e, 67m2, 3a planta, balcon confirmado, publicado hace 19h, a 3 min de metro, pero solo 2 habitaciones (minimo exigido: 3)"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/calefaccion-parking-trastero-ascensor/191477127/d",
+    "portal": "Fotocasa",
+    "zona": "Miribilla, Bilbao",
+    "first_seen": "2026-11-25",
+    "nota": "Descartado: 398.000e muy sobre presupuesto (max 300.000e); ademas solo 2 habitaciones; balcon si"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/barakaldo/calefaccion-jardin-amueblado/191484651/d",
+    "portal": "Fotocasa",
+    "zona": "Lasesarre, Barakaldo",
+    "first_seen": "2026-11-25",
+    "nota": "Descartado: 205.000e dentro de presupuesto pero solo 2 habitaciones y sin balcon/terraza confirmado"
   }
 ]
