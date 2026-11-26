@@ -7805,5 +7805,47 @@
     "zona": "Lasesarre, Barakaldo",
     "first_seen": "2026-11-25",
     "nota": "Descartado: 205.000e dentro de presupuesto pero solo 2 habitaciones y sin balcon/terraza confirmado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/523124-41951127",
+    "portal": "Trovimap",
+    "zona": "Zuazo, Barakaldo",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: 260.000e, 79m2, 3hab/1bano, planta baja, ascensor si, construido 1967, actualizado 25/11/2026, pero balcon/terraza no mencionado ni confirmado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/515561-41875661",
+    "portal": "Trovimap",
+    "zona": "Romo, Getxo",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: 295.400e, 70m2, 3-4hab/1bano, construido 1954, necesita reforma, pero balcon/terraza no mencionado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41912702",
+    "portal": "Trovimap",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: 272.250e, 88m2, con balcon y terraza, etiqueta Nuevo, pero solo 2 habitaciones (minimo 3)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41921086",
+    "portal": "Trovimap",
+    "zona": "Centro-Santa Teresa, Barakaldo",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: 391.500e, 143m2, 3hab/2banos, con balcon, etiqueta Nuevo, pero sobre presupuesto (300k)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/346503-41921916",
+    "portal": "Trovimap",
+    "zona": "Centro-Santa Teresa, Barakaldo",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: mismo inmueble que 382244-41921086 (duplicado), 391.500e, 143m2, 3hab/2banos, con balcon, sobre presupuesto (300k)"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/475016-41875904",
+    "portal": "Trovimap",
+    "zona": "Goikoa, Erandio",
+    "first_seen": "2026-11-26",
+    "nota": "Descartado: 329.000e, 120m2, 3hab/1bano, con terraza, obra nueva/Nuevo, pero sobre presupuesto (300k)"
   }
 ]
