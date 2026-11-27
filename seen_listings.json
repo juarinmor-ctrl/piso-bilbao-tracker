@@ -7847,5 +7847,131 @@
     "zona": "Goikoa, Erandio",
     "first_seen": "2026-11-26",
     "nota": "Descartado: 329.000e, 120m2, 3hab/1bano, con terraza, obra nueva/Nuevo, pero sobre presupuesto (300k)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-terrace-lift/188913114/d",
+    "portal": "Fotocasa",
+    "zona": "Abando-Albia, Bilbao",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: zona incorrecta (no Deusto/Miribilla), 490.000e, 81m2, 2hab/1bano, sobre presupuesto"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-terrace-lift/189998805/d",
+    "portal": "Fotocasa",
+    "zona": "Travesia Zabala, Ibaiondo/Bilbao",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: zona incorrecta (cercano pero no es Miribilla), 478.000e, 118m2, 3hab/2banos, con balcon, sobre presupuesto"
+  },
+  {
+    "url": "https://www.fotocasa.es/es/comprar/vivienda/bilbao/san-ignacio-elorrieta/191504473/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 260.000e, 73m2, 3hab/1bano, sin ascensor, a reformar, sin balcon/terraza mencionado; posible duplicado del mismo inmueble ya visto (ref. agencia LCBI45858) bajo URL 191419488"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/69004954-756e-4f28-9838-c50349f161c8/d",
+    "portal": "Habitaclia",
+    "zona": "Altzaga, Erandio",
+    "first_seen": "2026-11-27",
+    "nota": "Candidato cercano no confirmado: 285.000e, 115m2, 3hab/2banos, dos balcones explicitos, ascensor si, pero sin fecha de publicacion verificable y sin mencion explicita de cercania a metro (zona esta junto al metro Erandio)"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/4aa2331e-5259-4afd-bde8-f5eb9e36141c/d",
+    "portal": "Habitaclia",
+    "zona": "Ribera Ramon Sota, Erandio",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 270.000e, 103m2, 3hab/2banos, terraza y balcon si, pero descripcion anomala/sospechosa (lenguaje de oportunidad de inversion sin detalles), sin metro mencionado, sin fecha de publicacion"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/0ed7ff9d-09e6-4a31-ad91-38babf0d9e67/d",
+    "portal": "Habitaclia",
+    "zona": "Astrabudua, Erandio",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 275.000e, 67m2, 2 habitaciones (minimo exigido 3), balcon si, a 3 min del metro Astrabudua"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/erandio/07c9f480-3d03-4174-b701-d92b398c9f91/d",
+    "portal": "Habitaclia",
+    "zona": "San Ignacio Kalea, Erandio",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 280.000e, 95m2, 2 habitaciones (minimo exigido 3), terraza interior 30m2, vivienda ocupada por inquilino, datos contradictorios en certificado energetico"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41857204",
+    "portal": "Trovimap",
+    "zona": "Erandio",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 385.000e, 90m2, 3hab/2banos, sobre presupuesto (300k), sin fecha real de publicacion"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/535804-41199222",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 165.000e, 62m2, vivienda ocupada con inquilinos, cedula habitabilidad en tramite, sin balcon/terraza ni metro mencionado, 127 dias en mercado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41929461",
+    "portal": "Trovimap",
+    "zona": "Lekueder, Leioa",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 399.000e, 113m2, 3hab/2banos, ascensor si, sobre presupuesto (300k), sin balcon/terraza mencionado"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/528787-40957161",
+    "portal": "Trovimap",
+    "zona": "Leioa",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 310.000e, 92m2, 2hab/1bano, ligeramente sobre presupuesto y por debajo del minimo de habitaciones"
+  },
+  {
+    "url": "https://www.trovimap.com/inmueble/382244-41956802",
+    "portal": "Trovimap",
+    "zona": "Arteagabeitia-Retuerto-Kareaga, Barakaldo",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 260.000e, 78m2, 3hab/1bano, ascensor si, actualizado 27/11/2026 (dentro de ventana) pero sin balcon ni terraza mencionado"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/barakaldo/heating-lift/191493428/d",
+    "portal": "Fotocasa",
+    "zona": "Bagatza-San Vicente, Barakaldo",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 231.990e, 70m2, 3hab/1bano, 3a planta, ascensor a cota cero, dentro de ventana 48h (filtro propio Fotocasa) pero sin balcon/terraza explicito ni metro concreto mencionado"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/getxo/heating-furnished/191495028/d",
+    "portal": "Fotocasa",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 240.000e, 60m2, 2 habitaciones (minimo exigido 3), balcon exterior si, sin ascensor, dentro de ventana 48h"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/cruces/barakaldo/5a766932-4ac4-4d7a-9618-9cba69510d92/d",
+    "portal": "Habitaclia",
+    "zona": "Cruces (La Paz), Barakaldo",
+    "first_seen": "2026-11-27",
+    "nota": "Candidato cercano no confirmado: 210.000e, 77m2, 3hab/1bano, terraza acristalada explicita, a pocos minutos del metro (explicito), sin ascensor (solo silla salvaescaleras); sin fecha de publicacion verificable en Habitaclia, no se puede confirmar ventana 24-48h"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/plaza-santa-teresa/bagatza-san-vicente/barakaldo/cf3d0dff-5f51-4613-9ace-179fd51cdb2e/d",
+    "portal": "Habitaclia",
+    "zona": "Bagatza-San Vicente (Plaza Santa Teresa), Barakaldo",
+    "first_seen": "2026-11-27",
+    "nota": "Candidato cercano no confirmado: 239.000e, 62m2, 3hab/1bano, balcon explicito, ascensor si, metro y transporte publico muy cercanos (explicito), necesita reforma integral; sin fecha de publicacion verificable en Habitaclia"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/las-arenas/getxo/5dec2c00-4a11-498d-b566-033e85b0695f/d",
+    "portal": "Habitaclia",
+    "zona": "Las Arenas, Getxo",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: 295.400e, 70m2, 3hab/1bano, planta baja sin ascensor, a 2 min del metro Las Arenas, pero sin balcon ni terraza mencionado; sin fecha de publicacion verificable"
+  },
+  {
+    "url": "https://www.habitaclia.com/buy/mid-floor-flat/santa-maria-de-getxo/getxo/6e447f93-ae64-434d-8880-2bed9a545f9b/d",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo, Getxo",
+    "first_seen": "2026-11-27",
+    "nota": "Descartado: mismo inmueble que la ficha de Las Arenas (295.400e, 70m2, 3hab/1bano) publicado por duplicado en otra subzona; sin balcon/terraza mencionado"
   }
 ]
