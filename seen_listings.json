@@ -7973,5 +7973,33 @@
     "zona": "Santa Maria de Getxo, Getxo",
     "first_seen": "2026-11-27",
     "nota": "Descartado: mismo inmueble que la ficha de Las Arenas (295.400e, 70m2, 3hab/1bano) publicado por duplicado en otra subzona; sin balcon/terraza mencionado"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/lift/190420095/d",
+    "portal": "Fotocasa",
+    "zona": "Ibarrekolanda/San Ignacio, Bilbao",
+    "first_seen": "2026-11-28",
+    "nota": "Descartado: 329.000e sobre presupuesto (91m2, 3hab/1bano, con ascensor, calle Mediterraneo Itsasoaren); sin fecha de publicacion verificable (solo mas de 3 meses)"
+  },
+  {
+    "url": "https://www.fotocasa.es/en/buy/home/bilbao/heating-lift-furnished/191318085/d",
+    "portal": "Fotocasa",
+    "zona": "San Ignacio-Elorrieta, Bilbao",
+    "first_seen": "2026-11-28",
+    "nota": "Descartado: solo 2 habitaciones (minimo 3 requerido), 255.000e, 58m2, calle Juan de Antxeta, marcado RESERVADO, publicado hace 22 dias fuera de ventana 24-48h"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-barakaldo-i34751000000896",
+    "portal": "Habitaclia",
+    "zona": "Centro, Barakaldo",
+    "first_seen": "2026-11-28",
+    "nota": "Descartado: 410.000e sobre presupuesto (119m2, 4a planta, ascensor, 3hab/2banos, 2 balcones); sin fecha de publicacion visible"
+  },
+  {
+    "url": "https://english.habitaclia.com/buy-flat-in-getxo-i32653000000243",
+    "portal": "Habitaclia",
+    "zona": "Santa Maria de Getxo, Getxo",
+    "first_seen": "2026-11-28",
+    "nota": "Descartado: 348.000e sobre presupuesto (100m2, 1a planta, ascensor, 3hab/1bano, terraza cerrada); sin fecha de publicacion visible"
   }
 ]
